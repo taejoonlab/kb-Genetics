@@ -1,5 +1,5 @@
 ---
-tags: [genetics, class, population, en]
+tags: [genetics, class, population, en, 2026-07-12]
 date: 2026-07-12
 type: class
 ---
