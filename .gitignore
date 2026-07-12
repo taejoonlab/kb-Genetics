@@ -1,0 +1,11 @@
+# PDFs — never commit, anywhere in the tree
+*.pdf
+*.PDF
+
+# Obsidian per-machine state
+.obsidian/workspace.json
+.obsidian/cache/
+.obsidian/plugins/obsidian-git/obsidian_askpass.sh
+
+# PDF processing working directory
+pdf/
