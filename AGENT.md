@@ -13,45 +13,80 @@
 - `tools/process_pdf_class.py` — CLASS용 PDF 처리 스크립트 (키워드 자동 추출, `others` 카테고리 고정)
 - `tools/SKILL_CLASS.md` — CLASS 워크플로우 문서 (`extract/` 디렉토리 포함)
 - `tools/SKILLS.md` — 전체 SKILL 인덱스
-- `ko/pdf/` 아래 10개 PDF 처리 완료:
+- `ko/pdf/` 아래 40개 PDF 배치 처리 완료 (60초 타임아웃 적용):
   - 추출 텍스트: `ko/pdf/notes/*_extracted.txt` (gitignored)
-  - 통합 추출본: `extract/2026-07-12.md` (tracked)
-  - CLASS 노트 스켈레톤 → 내용 채움 → 카테고리 분류 완료
-- **한국어 노트 10편**: `ko/population/` (6편), `ko/reverse/` (3편), `ko/others/` (1편)
-- **영문 mirror 10편**: `en/population/` (6편), `en/reverse/` (3편), `en/others/` (1편)
-- **README.md**: 저장소 전체 구조·노트 목록 영문 정리
-- **날짜 태그**: 전체 20개 노트 frontmatter에 `2026-07-12` 태그 추가
+  - 처리 로그: `ko/pdf/notes/00_processing_log.md`
+  - 타임아웃 목록: `ko/pdf/notes/pending_later.txt` (4편)
+- **한국어 노트 37편**: `ko/population/` (17편), `ko/reverse/` (8편), `ko/others/` (9편), `ko/forward/` (1편), `ko/others/` (2편)
+- **영문 mirror 37편**: 동일 구성
+- **날짜 태그**: 전체 노트 frontmatter에 `2026-07-12` 태그 포함
 
 ### 현재 노트 목록
 
-#### population/ (6편)
+#### forward/ (1편)
 
 | 파일 | 분야 |
 |------|------|
-| `Ceballos2018_NatRevGenet_RunsOfHomozygosity` | 집단유전학 (ROH, 근친교배) |
+| `Bridges1916_Genetics_NonDisjunction-SexChromosome` | 비분리·염색체 이론 증명 |
+
+#### population/ (17편)
+
+| 파일 | 분야 |
+|------|------|
+| `Bachtrog2013_NatRevGenet_Y-chromosomeEvolution` | Y 염색체 퇴화 메커니즘 |
+| `Bachtrog2014_PLoSBiol_SexDetermination-ManyWays` | 성 결정 시스템 다양성 |
+| `Capel2017_NatRevGenet_VertebrateSexDetermination` | 척추동물 성 결정 진화적 가소성 |
+| `Ceballos2018_NatRevGenet_RunsOfHomozygosity` | ROH·근친교배 집단유전학 |
 | `Charlesworth2009_NatRevGenet_EffectivePopulation-SizePatterns` | 유효 집단 크기 (Ne) |
+| `Efron1996_PNAS_Bootstrap-PhylogeneticTrees` | 계통수 부트스트랩 신뢰 구간 |
+| `Felsenstein1985_Evolution_Bootstrap-PhylogeneticTrees` | 계통수 부트스트랩 (원논문) |
+| `Furman2020_GBE_SexChromosome-ManyExceptions` | 성염색체 진화의 예외 사례들 |
+| `Graves2015_NatRevGenet_SexChromosome-Evolution` | 척추동물 성염색체·용량 보상 진화 |
+| `Hey2004_PLoSBiol_RecombinationHotspots` | 재조합 핫스팟 개념 |
 | `Hurst2009_NatRevGenet_GeneticsUnderstanding-Selection` | 자연선택 이론 |
+| `Paigen2010_NatRevGenet_RecombinationHotspots-Mammals` | 포유류 재조합 핫스팟·PRDM9 |
 | `Schraiber2015_NatRevGenet_MethodsModels-UnravellingHuman` | 인류 진화 집단유전체학 방법론 |
+| `ShawWhite2022_TrendsGenet_SexChromosome-GeneRegulation` | 성염색체 유전자 발현 조절 진화 |
 | `Weiss2018_PLoSGenet_LastUniversal-CommonAncestor` | LUCA·생명 기원 |
 | `Wolf2016_NatRevGenet_MakingSense-GenomicIslands` | 종분화·유전체 섬 |
+| `Yang2000_TrendsEcolEvol_dNdS` | dN/dS 분자 적응 통계 방법론 |
 
-#### reverse/ (3편)
+#### reverse/ (8편)
 
 | 파일 | 분야 |
 |------|------|
 | `Arendt2016_NatRevGenet_OriginEvolution-CellTypes` | 세포 유형 기원·진화 (CoRC) |
+| `BenTabou2006_SciSTKE_SeaUrchin-GRN` | 성게 유전자 조절 네트워크 |
+| `Grendler2019_Development_WoundPolyploidy` | 상처 유도 배수성 (Drosophila) |
+| `Klein2020_ChromosomeRes_DNAAccessibility-Methods` | 크로마틴 접근성 분석법 리뷰 |
 | `Payer2019_NatRevGenet_TE-Disease` | 전위인자·유전 질환 |
+| `Pott2015_NatGenet_SuperEnhancers` | 슈퍼인핸서 개념 비판적 검토 |
 | `Schwartz2017_NatRevGenet_EvolutionTumour-PhylogeneticsPrinciples` | 종양 계통유전학 |
+| `Spitz2012_NatRevGenet_TF-Enhancers` | 전사인자·인핸서 결합 및 발생 제어 |
 
-#### others/ (1편, 카테고리 모호)
+#### others/ (11편)
 
 | 파일 | 분야 |
 |------|------|
-| `Comai2005_NatRevGenet_AdvantagesDisadvantages-BeingPolyploid` | 배수성 진화 (forward/reverse 혼재) |
+| `Beach2017_Cell_Aneuploidy-NonGeneticIndividuality` | 이수성·비유전적 개체 다양성 |
+| `Benson2001_NatRevGenet_Morgan-Chromosome` | Morgan의 염색체 이론 저항 역사 |
+| `Comai2005_NatRevGenet_AdvantagesDisadvantages-BeingPolyploid` | 배수성 진화 |
+| `Dernburg2001_JCB_HolocentricChromosomes` | 동원점 분산 염색체 |
+| `Gartler2006_NatRevGenet_HumanChromosomeNumber` | 인간 염색체 수 발견의 역사 |
+| `Harman2005_NatRevGenet_Darlington-Cytology` | Cyril Dean Darlington 세포유전학 역사 |
+| `Lieberman-Aiden2009_Science_HiC-3DGenome` | Hi-C 기법·3D 게놈 |
+| `Matharu2015_PLoSGenet_TAD-ChromatinLoops` | TAD·인핸서-프로모터 루프 |
+| `Meaburn2007_Nature_ChromosomeTerritories` | 염색체 영역 (Chromosome territories) |
+| `Misteli2020_Cell_3Dgenome-SelfOrganizing` | 자기조직화 게놈 원리 |
+| `Quinodoz2021_Cell_RNA-SpatialCompartments` | RNA가 핵 내 공간 구획 형성에 미치는 역할 |
+| `Satzinger2008_NatRevGenet_Boveri-Chromosomes` | Theodor·Marcella Boveri 역사 |
+| `Shopland2006_JCB_ChromosomeFolding` | 연속 염색체 영역의 3D 접힘 구조 |
+| `Sutton1903_BiolBull_Chromosomes-Heredity` | 유전에서 염색체의 역할 (원논문) |
 
 ### 남은 작업
 
-- 없음 (2026-07-12 세션 기준으로 모든 작업 완료)
+- **타임아웃 PDF 4편** (`ko/pdf/notes/pending_later.txt`): 별도 세션에서 처리
+  - Abbott2017_ProcRSocB, Mank2017_NatRevGenet, Yang2010_MBE, Doolittle2016_PLoSGenet
 
 ---
 
@@ -159,13 +194,16 @@ kb-Genetics/
 ├── extract/
 │   └── 2026-07-12.md  # 10편 논문 추출 텍스트 통합본
 ├── en/
-│   ├── population/    # 영문 노트 6편
-│   ├── reverse/       # 영문 노트 3편
-│   └── others/        # 영문 노트 1편 (Comai2005)
+│   ├── forward/       # 영문 노트 1편
+│   ├── population/    # 영문 노트 17편
+│   ├── reverse/       # 영문 노트 8편
+│   └── others/        # 영문 노트 11편
 ├── ko/
-│   ├── population/    # 한국어 노트 6편
-│   ├── reverse/       # 한국어 노트 3편
-│   └── others/        # 한국어 노트 1편 (Comai2005)
+│   ├── forward/       # 한국어 노트 1편
+│   ├── population/    # 한국어 노트 17편
+│   ├── reverse/       # 한국어 노트 8편
+│   ├── others/        # 한국어 노트 11편
+│   └── pdf/notes/     # PDF 처리 로그 및 스켈레톤 (gitignored)
 └── tools/             # git submodule (kb-tools)
     ├── process_pdf_class.py
     ├── SKILL_CLASS.md
