@@ -11,36 +11,47 @@
 - `tools/` submodule 설치 (`git@github.com:taejoonlab/kb-tools.git`)
 - `.gitignore` 설정: `*.pdf`, `*.PDF`, `pdf/`, `*.base`, Obsidian 임시 파일 제외
 - `tools/process_pdf_class.py` — CLASS용 PDF 처리 스크립트 (키워드 자동 추출, `others` 카테고리 고정)
-- `tools/SKILL_CLASS.md` — CLASS 워크플로우 문서
+- `tools/SKILL_CLASS.md` — CLASS 워크플로우 문서 (`extract/` 디렉토리 포함)
 - `tools/SKILLS.md` — 전체 SKILL 인덱스
 - `ko/pdf/` 아래 10개 PDF 처리 완료:
   - 추출 텍스트: `ko/pdf/notes/*_extracted.txt` (gitignored)
   - 통합 추출본: `extract/2026-07-12.md` (tracked)
-  - CLASS 노트 스켈레톤 → 내용 채움 → `ko/others/` 에 배치 완료
+  - CLASS 노트 스켈레톤 → 내용 채움 → 카테고리 분류 완료
+- **한국어 노트 10편**: `ko/population/` (6편), `ko/reverse/` (3편), `ko/others/` (1편)
+- **영문 mirror 10편**: `en/population/` (6편), `en/reverse/` (3편), `en/others/` (1편)
+- **README.md**: 저장소 전체 구조·노트 목록 영문 정리
+- **날짜 태그**: 전체 20개 노트 frontmatter에 `2026-07-12` 태그 추가
 
-### ko/others/ 현재 파일 (10편)
+### 현재 노트 목록
+
+#### population/ (6편)
 
 | 파일 | 분야 |
 |------|------|
-| `Arendt2016_NatRevGenet_OriginEvolution-CellTypes.md` | 세포 유형 진화 |
-| `Ceballos2018_NatRevGenet_RunsOfHomozygosity.md` | 집단유전학 (ROH) |
-| `Charlesworth2009_NatRevGenet_EffectivePopulation-SizePatterns.md` | 집단유전학 (Ne) |
-| `Comai2005_NatRevGenet_AdvantagesDisadvantages-BeingPolyploid.md` | 배수성 진화 |
-| `Hurst2009_NatRevGenet_GeneticsUnderstanding-Selection.md` | 자연선택 이론 |
-| `Payer2019_NatRevGenet_TE-Disease.md` | 전위인자·유전 질환 |
-| `Schraiber2015_NatRevGenet_MethodsModels-UnravellingHuman.md` | 인류 진화 방법론 |
-| `Schwartz2017_NatRevGenet_EvolutionTumour-PhylogeneticsPrinciples.md` | 종양 계통유전학 |
-| `Weiss2018_PLoSGenet_LastUniversal-CommonAncestor.md` | LUCA·생명 기원 |
-| `Wolf2016_NatRevGenet_MakingSense-GenomicIslands.md` | 종분화 유전체학 |
+| `Ceballos2018_NatRevGenet_RunsOfHomozygosity` | 집단유전학 (ROH, 근친교배) |
+| `Charlesworth2009_NatRevGenet_EffectivePopulation-SizePatterns` | 유효 집단 크기 (Ne) |
+| `Hurst2009_NatRevGenet_GeneticsUnderstanding-Selection` | 자연선택 이론 |
+| `Schraiber2015_NatRevGenet_MethodsModels-UnravellingHuman` | 인류 진화 집단유전체학 방법론 |
+| `Weiss2018_PLoSGenet_LastUniversal-CommonAncestor` | LUCA·생명 기원 |
+| `Wolf2016_NatRevGenet_MakingSense-GenomicIslands` | 종분화·유전체 섬 |
 
-### 남은 작업 (우선순위 순)
+#### reverse/ (3편)
 
-1. **카테고리 분류**: 각 노트를 `population/`, `forward/`, `reverse/` 중 하나로 이동
-   - frontmatter `tags` 에서 `others` → 해당 카테고리로 변경
-   - `mv ko/others/XXX.md ko/{category}/XXX.md`
-2. **en/ bilingual mirror 생성**: ko/ 각 노트의 영문 버전을 `en/{category}/`에 생성
-   - frontmatter `tags` 의 `ko` → `en` 변경
-3. **Ceballos2018 처리 로그 확인**: `00_processing_log.md` 에 Ceballos 항목 누락됨 (수동 처리했기 때문) — 필요 시 로그에 추가
+| 파일 | 분야 |
+|------|------|
+| `Arendt2016_NatRevGenet_OriginEvolution-CellTypes` | 세포 유형 기원·진화 (CoRC) |
+| `Payer2019_NatRevGenet_TE-Disease` | 전위인자·유전 질환 |
+| `Schwartz2017_NatRevGenet_EvolutionTumour-PhylogeneticsPrinciples` | 종양 계통유전학 |
+
+#### others/ (1편, 카테고리 모호)
+
+| 파일 | 분야 |
+|------|------|
+| `Comai2005_NatRevGenet_AdvantagesDisadvantages-BeingPolyploid` | 배수성 진화 (forward/reverse 혼재) |
+
+### 남은 작업
+
+- 없음 (2026-07-12 세션 기준으로 모든 작업 완료)
 
 ---
 
@@ -144,15 +155,19 @@ git push
 kb-Genetics/
 ├── CLAUDE.md          # 프로젝트 규칙 (이 파일보다 우선)
 ├── AGENT.md           # 에이전트 운영 노트 (이 파일)
+├── README.md          # 영문 저장소 개요 (구조·노트 목록)
 ├── extract/
 │   └── 2026-07-12.md  # 10편 논문 추출 텍스트 통합본
+├── en/
+│   ├── population/    # 영문 노트 6편
+│   ├── reverse/       # 영문 노트 3편
+│   └── others/        # 영문 노트 1편 (Comai2005)
 ├── ko/
-│   └── others/        # CLASS 노트 10편 (카테고리 분류 전)
-│       └── *.md
+│   ├── population/    # 한국어 노트 6편
+│   ├── reverse/       # 한국어 노트 3편
+│   └── others/        # 한국어 노트 1편 (Comai2005)
 └── tools/             # git submodule (kb-tools)
     ├── process_pdf_class.py
     ├── SKILL_CLASS.md
     └── SKILLS.md
 ```
-
-**en/ 노트**: 아직 생성되지 않음 (bilingual mirror 작업 미완료)
