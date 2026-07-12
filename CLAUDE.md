@@ -11,11 +11,13 @@ Bilingual (en/ko) Obsidian vault for **Genetics** (BME333/BIO333 @ UNIST). Each 
 ├── en/
 │   ├── population/   # Population genetics notes (English)
 │   ├── forward/      # Forward genetics notes (English)
-│   └── reverse/      # Reverse genetics notes (English)
+│   ├── reverse/      # Reverse genetics notes (English)
+│   └── others/       # Uncategorized — review and move to above
 ├── ko/
 │   ├── population/   # Population genetics notes (Korean)
 │   ├── forward/      # Forward genetics notes (Korean)
-│   └── reverse/      # Reverse genetics notes (Korean)
+│   ├── reverse/      # Reverse genetics notes (Korean)
+│   └── others/       # Uncategorized — review and move to above
 ├── pdf/              # Source PDFs — gitignored, excluded from Obsidian
 ├── tools/            # Git submodule (git@github.com:taejoonlab/kb-tools.git)
 └── .obsidian/        # Obsidian config (tracked, except workspace.json)
@@ -28,6 +30,7 @@ Bilingual (en/ko) Obsidian vault for **Genetics** (BME333/BIO333 @ UNIST). Each 
 | `population/` | Population genetics: allele frequencies, Hardy-Weinberg, genetic drift, natural selection, phylogenetics, GWAS |
 | `forward/` | Forward genetics: phenotype-first screens, mutant isolation, positional cloning, EMS/ENU mutagenesis |
 | `reverse/` | Reverse genetics: gene-first approaches, knockouts, RNAi, CRISPR screens, transgenic models |
+| `others/` | Uncategorized — initial landing zone; review note and move to the correct category above |
 
 ## Note Format
 
