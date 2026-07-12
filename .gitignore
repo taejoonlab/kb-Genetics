@@ -2,6 +2,9 @@
 *.pdf
 *.PDF
 
+# Obsidian Base files (local UI state, not shared)
+*.base
+
 # Obsidian per-machine state
 .obsidian/workspace.json
 .obsidian/cache/
