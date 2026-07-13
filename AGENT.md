@@ -50,6 +50,10 @@
 | `Weiss2018_PLoSGenet_LastUniversal-CommonAncestor` | LUCA·생명 기원 |
 | `Wolf2016_NatRevGenet_MakingSense-GenomicIslands` | 종분화·유전체 섬 |
 | `Yang2000_TrendsEcolEvol_dNdS` | dN/dS 분자 적응 통계 방법론 |
+| `Abbott2017_ProcRSocB_SexChromosome-Evolution` | 성염색체 진화 역사·전망 리뷰 |
+| `Doolittle2016_PLoSGenet_TreeOfLife` | 생명의 나무(TOL) 개념 재검토 |
+| `Mank2017_NatRevGenet_SexualConflict` | 성적 갈등의 집단유전체학 |
+| `Yang2010_MBE_BranchSiteTest-PositiveSelection` | Branch-site test 통계적 특성 |
 
 #### reverse/ (8편)
 
@@ -85,8 +89,7 @@
 
 ### 남은 작업
 
-- **타임아웃 PDF 4편** (`ko/pdf/notes/pending_later.txt`): 별도 세션에서 처리
-  - Abbott2017_ProcRSocB, Mank2017_NatRevGenet, Yang2010_MBE, Doolittle2016_PLoSGenet
+- 없음 (2026-07-13 기준 모든 PDF 처리 완료)
 
 ---
 
