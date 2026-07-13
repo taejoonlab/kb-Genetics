@@ -1,5 +1,5 @@
 ---
-tags: [genetics, class, article, en]
+tags: [genetics, class, article, Mendel, en]
 date: 2026-07-13
 type: class
 ---
