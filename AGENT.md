@@ -17,8 +17,8 @@
   - 추출 텍스트: `ko/pdf/notes/*_extracted.txt` (gitignored)
   - 처리 로그: `ko/pdf/notes/00_processing_log.md`
   - 타임아웃 목록: `ko/pdf/notes/pending_later.txt` (4편)
-- **한국어 노트 37편**: `ko/population/` (17편), `ko/reverse/` (8편), `ko/others/` (9편), `ko/forward/` (1편), `ko/others/` (2편)
-- **영문 mirror 37편**: 동일 구성
+- **한국어 노트 41편**: `ko/population/` (21편), `ko/reverse/` (8편), `ko/others/` (14편), `ko/forward/` (1편) — 기존 10편 포함
+- **영문 mirror 41편**: 동일 구성
 - **날짜 태그**: 전체 노트 frontmatter에 `2026-07-12` 태그 포함
 
 ### 현재 노트 목록
@@ -68,7 +68,7 @@
 | `Schwartz2017_NatRevGenet_EvolutionTumour-PhylogeneticsPrinciples` | 종양 계통유전학 |
 | `Spitz2012_NatRevGenet_TF-Enhancers` | 전사인자·인핸서 결합 및 발생 제어 |
 
-#### others/ (11편)
+#### others/ (14편)
 
 | 파일 | 분야 |
 |------|------|
