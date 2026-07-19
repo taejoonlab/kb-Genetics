@@ -1,5 +1,5 @@
 ---
-tags: [genetics, class, article, ko]
+tags: [genetics, class, article, ko, GeneticsPrimer]
 date: 2026-07-13
 type: class
 ---
@@ -10,6 +10,8 @@ type: class
 Kuhl LM, Makrantoni V, Recknagel S, Vaze AN, Murray AW, Bhatt DL, Bhatt DL, Marston AL, Bhatt DL. A dCas9-Based System Identifies a Central Role for Ctf19 in Kinetochore-Derived Suppression of Meiotic Recombination. Genetics. 2020 Oct;216(2):395-408. doi:10.1534/genetics.120.303384.
 
 **DOI:** [https://doi.org/10.1534/genetics.120.303384](https://doi.org/10.1534/genetics.120.303384)
+
+**Educational primer:** [[ko/review/Kuhl2020_Genetics_dCas9+Ctf19+Recombination-McVey2022primer]]
 
 ---
 

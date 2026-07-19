@@ -1,5 +1,5 @@
 ---
-tags: [genetics, forward, ko]
+tags: [genetics, forward, ko, GeneticsPrimer]
 date: 2026-07-13
 ---
 
@@ -9,6 +9,8 @@ date: 2026-07-13
 Frietze S, Leatherman JL. An educational primer for genetics: de novo gene birth. Genetics. 2014;196(3):593-599. doi:10.1534/genetics.113.160895
 
 **DOI:** [https://doi.org/10.1534/genetics.113.160895](https://doi.org/10.1534/genetics.113.160895)
+
+**Original paper:** [[ko/article/Abrusan2013_Genetics_DeNovoGeneBirth]]
 
 ---
 

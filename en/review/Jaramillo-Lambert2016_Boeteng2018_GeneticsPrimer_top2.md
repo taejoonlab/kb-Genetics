@@ -1,5 +1,5 @@
 ---
-tags: [genetics, class, review, en]
+tags: [genetics, class, review, en, GeneticsPrimer]
 date: 2026-07-13
 ---
 
@@ -9,6 +9,8 @@ date: 2026-07-13
 Boateng KA, Allen AK. A primer to Jaramillo-Lambert et al.: using C. elegans to identify essential meiotic genes. Genetics. 2020;216(3):633-641.
 
 **DOI:** [https://doi.org/10.1534/genetics.120.303606](https://doi.org/10.1534/genetics.120.303606)
+
+**Original paper:** [[en/article/Jaramillo-Lambert2016_Genetics_top2]]
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-tags: [genetics, class, review, en]
+tags: [genetics, class, review, en, GeneticsPrimer]
 date: 2026-07-13
 type: class
 ---
@@ -10,6 +10,8 @@ type: class
 Meneely PM. Pick your Poisson: an educational primer for Luria and Delbrück's classic paper. Genetics. 2016;202(2):371–375. doi:10.1534/genetics.115.184564
 
 **DOI:** [https://doi.org/10.1534/genetics.115.184564](https://doi.org/10.1534/genetics.115.184564)
+
+**Original paper:** [[en/article/LuriaDelbruck1943_Genetics_VirusResistance]]
 
 ---
 

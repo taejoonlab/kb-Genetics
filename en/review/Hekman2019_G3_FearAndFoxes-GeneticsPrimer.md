@@ -1,5 +1,5 @@
 ---
-tags: [genetics, class, review, en]
+tags: [genetics, class, review, en, GeneticsPrimer]
 date: 2026-07-13
 type: class
 ---
@@ -10,6 +10,8 @@ type: class
 Simpson JH. Fear and Foxes: An Educational Primer to Accompany "Anterior Pituitary Transcriptome Suggests Differences in ACTH Release in Tame and Aggressive Foxes." Genetics. 2020 May;215(1):15-24. doi:10.1534/genetics.120.303046.
 
 **DOI:** [https://doi.org/10.1534/genetics.120.303046](https://doi.org/10.1534/genetics.120.303046)
+
+**Original paper:** [[en/article/Hekman2019_G3_APtx+Fox]]
 
 ---
 

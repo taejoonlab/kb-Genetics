@@ -1,5 +1,5 @@
 ---
-tags: [genetics, class, article, en]
+tags: [genetics, class, article, en, GeneticsPrimer]
 date: 2026-07-13
 type: class
 ---
@@ -10,6 +10,8 @@ type: class
 Nissen I, Müller M, Beye M. The Am-tra2 gene is an essential regulator of female splice regulation at two levels of the sex determination hierarchy of the honeybee. Genetics. 2012;192(3):1015–1026. doi:10.1534/genetics.112.143925
 
 **DOI:** [https://doi.org/10.1534/genetics.112.143925](https://doi.org/10.1534/genetics.112.143925)
+
+**Educational primer:** [[en/review/Nissen2012_Genetics_Honeybee-SexDetermination-Primer]]
 
 ---
 

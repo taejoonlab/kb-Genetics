@@ -1,5 +1,5 @@
 ---
-tags: [genetics, class, review, ko]
+tags: [genetics, class, review, ko, GeneticsPrimer]
 date: 2026-07-13
 type: class
 ---
@@ -10,6 +10,8 @@ type: class
 Ables ET. Drosophila oocytes as a model for understanding meiosis: an educational primer to accompany "Corolla is a novel protein that contributes to the architecture of the synaptonemal complex of Drosophila". Genetics. 2015 Jan;199(1):17–23. doi:10.1534/genetics.114.167940
 
 **DOI:** [https://doi.org/10.1534/genetics.114.167940](https://doi.org/10.1534/genetics.114.167940)
+
+**Original paper:** [[ko/article/Collins2014_Genetics_Meiosis+Corolla]]
 
 ---
 

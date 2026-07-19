@@ -1,5 +1,5 @@
 ---
-tags: [genetics, class, review, ko]
+tags: [genetics, class, review, ko, GeneticsPrimer]
 date: 2026-07-13
 type: class
 ---
@@ -10,6 +10,8 @@ type: class
 Schurko AM. To "bee or not to bee" male or female? An educational primer for use with "The Am-tra2 gene is an essential regulator of female splice regulation at two levels of the sex determination hierarchy of the honeybee." Genetics. 2013;193(4):1019–1023. doi:10.1534/genetics.113.150417
 
 **DOI:** [https://doi.org/10.1534/genetics.113.150417](https://doi.org/10.1534/genetics.113.150417)
+
+**Original paper:** [[ko/article/Nissen2012_Genetics_Honeybee-SexDetermination]]
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-tags: [genetics, class, article, ko]
+tags: [genetics, class, article, ko, GeneticsPrimer]
 date: 2026-07-13
 type: class
 ---
@@ -10,6 +10,8 @@ type: class
 Hekman JP, Johnson JL, Kukekova AV. Anterior Pituitary Transcriptome Suggests Differences in ACTH Release in Tame and Aggressive Foxes. G3 (Bethesda). 2018 Mar 2;8(3):859-873. doi:10.1534/g3.117.300508.
 
 **DOI:** [https://doi.org/10.1534/g3.117.300508](https://doi.org/10.1534/g3.117.300508)
+
+**Educational primer:** [[ko/review/Hekman2019_G3_FearAndFoxes-GeneticsPrimer]]
 
 ---
 

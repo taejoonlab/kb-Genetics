@@ -1,5 +1,5 @@
 ---
-tags: [genetics, class, review, ko]
+tags: [genetics, class, review, ko, GeneticsPrimer]
 date: 2026-07-13
 type: class
 ---
@@ -10,6 +10,8 @@ type: class
 Thurtle-Schmidt D, Lo TW. Bioinformat-eggs: an educational primer for use with "LIN-41 and OMA ribonucleoprotein complexes mediate a translational repression-to-activation switch controlling oocyte meiotic maturation and the oocyte-to-embryo transition in Caenorhabditis elegans". Genetics. 2018;209(3):675-683. doi:10.1534/genetics.118.301139
 
 **DOI:** [https://doi.org/10.1534/genetics.118.301139](https://doi.org/10.1534/genetics.118.301139)
+
+**Original paper:** [[ko/article/Tsukamoto2017_Genetics_CelegansOocyeMaturation]]
 
 ---
 

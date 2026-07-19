@@ -1,5 +1,5 @@
 ---
-tags: [genetics, population, ko]
+tags: [genetics, population, ko, GeneticsPrimer]
 date: 2026-07-13
 ---
 
@@ -9,6 +9,8 @@ date: 2026-07-13
 Andres JA, Larson EL, Bogdanowicz SM, Harrison RG. Patterns of transcriptome divergence in the accessory gland of two closely related species of field crickets. Genetics. 2013;193(2):501-513. doi:10.1534/genetics.112.142299
 
 **DOI:** [https://doi.org/10.1534/genetics.112.142299](https://doi.org/10.1534/genetics.112.142299)
+
+**Educational primer:** [[ko/review/Andres2013_Genetics_FieldCricket-Wittkopp2013primer]]
 
 ---
 

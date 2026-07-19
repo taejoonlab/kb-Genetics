@@ -1,5 +1,5 @@
 ---
-tags: [genetics, class, article, en]
+tags: [genetics, class, article, en, GeneticsPrimer]
 date: 2026-07-13
 type: class
 ---
@@ -10,6 +10,8 @@ type: class
 Tsukamoto T, Gearhart MD, Spike CA, Huelgas-Morales G, Mews M, Bhatt DK, et al. LIN-41 and OMA ribonucleoprotein complexes mediate a translational repression-to-activation switch controlling oocyte meiotic maturation and the oocyte-to-embryo transition in Caenorhabditis elegans. Genetics. 2017;206(4):2007-2039. doi:10.1534/genetics.117.203174
 
 **DOI:** [https://doi.org/10.1534/genetics.117.203174](https://doi.org/10.1534/genetics.117.203174)
+
+**Educational primer:** [[en/review/Tsukamoto2017_Thurtle-Schmidt2018_GeneticsPrimer_CelegansOocyteMaturation]]
 
 ---
 

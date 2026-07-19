@@ -1,5 +1,5 @@
 ---
-tags: [genetics, forward, ko]
+tags: [genetics, forward, ko, GeneticsPrimer]
 date: 2026-07-13
 ---
 
@@ -9,6 +9,8 @@ date: 2026-07-13
 Abrusan G. Turning junk into gold: domestication of transposable elements and the evolution of gene regulatory networks. Genetics. 2013;195(4):1407-1417. doi:10.1534/genetics.113.152256
 
 **DOI:** [https://doi.org/10.1534/genetics.113.152256](https://doi.org/10.1534/genetics.113.152256)
+
+**Educational primer:** [[ko/review/Abrusan2013_Genetics_DeNovoGeneBirth-Frietze2014primer]]
 
 ---
 

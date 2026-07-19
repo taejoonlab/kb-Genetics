@@ -1,5 +1,5 @@
 ---
-tags: [genetics, class, review, ko]
+tags: [genetics, class, review, ko, GeneticsPrimer]
 date: 2026-07-13
 type: class
 ---
@@ -10,6 +10,8 @@ type: class
 Banerjee S, Benji S, Liberow S, Steinhauer J. Using Drosophila melanogaster To Discover Human Disease Genes: An Educational Primer to Accompany "Dominated by the Janus Kinase Pathway..." Genetics. 2020 Nov;216(3):633-641. doi:10.1534/genetics.120.303495.
 
 **DOI:** [https://doi.org/10.1534/genetics.120.303495](https://doi.org/10.1534/genetics.120.303495)
+
+**Original paper:** [[ko/article/Kankel2020_Genetics_Drosophila-ALS-modifier]]
 
 ---
 

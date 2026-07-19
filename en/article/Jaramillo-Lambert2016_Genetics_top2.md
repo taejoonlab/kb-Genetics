@@ -1,5 +1,5 @@
 ---
-tags: [genetics, class, article, en]
+tags: [genetics, class, article, en, GeneticsPrimer]
 date: 2026-07-13
 ---
 
@@ -9,6 +9,8 @@ date: 2026-07-13
 Jaramillo-Lambert A, Hao J, Xiao H, Xue Y, Bhatt A, Allen AK. Rapid identification of paternal-effect lethal mutations using a Hawaiian mapping panel in Caenorhabditis elegans. Genetics. 2016;204(4):1407-1422.
 
 **DOI:** [https://doi.org/10.1534/genetics.116.191551](https://doi.org/10.1534/genetics.116.191551)
+
+**Educational primer:** [[en/review/Jaramillo-Lambert2016_Boeteng2018_GeneticsPrimer_top2]]
 
 ---
 

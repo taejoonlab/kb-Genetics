@@ -1,5 +1,5 @@
 ---
-tags: [genetics, class, article, en]
+tags: [genetics, class, article, en, GeneticsPrimer]
 date: 2026-07-13
 ---
 
@@ -9,6 +9,8 @@ date: 2026-07-13
 Kankel MW, Sen A, Lu L, Theodorou M, et al. Amyotrophic lateral sclerosis modifiers in Drosophila reveal the phospholipase D pathway as a potential therapeutic target. Genetics. 2020;215(3):747-766.
 
 **DOI:** [https://doi.org/10.1534/genetics.120.303234](https://doi.org/10.1534/genetics.120.303234)
+
+**Educational primer:** [[en/review/Kankel2020_Genetics_Drosophila-ALS-modifier.Banerjee2020primer]]
 
 ---
 

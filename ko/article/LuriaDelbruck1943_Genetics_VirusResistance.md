@@ -1,5 +1,5 @@
 ---
-tags: [genetics, class, article, ko]
+tags: [genetics, class, article, ko, GeneticsPrimer]
 date: 2026-07-13
 type: class
 ---
@@ -10,6 +10,8 @@ type: class
 Luria SE, Delbrück M. Mutations of bacteria from virus sensitivity to virus resistance. Genetics. 1943;28(6):491–511.
 
 **DOI:** 해당 논문은 DOI 미지정 (1943년 출판)
+
+**Educational primer:** [[ko/review/LuriaDelbruck1943_Meneely2016_GeneticsClassic]]
 
 ---
 

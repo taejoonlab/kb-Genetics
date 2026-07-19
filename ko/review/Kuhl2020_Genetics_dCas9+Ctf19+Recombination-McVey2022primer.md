@@ -1,5 +1,5 @@
 ---
-tags: [genetics, class, review, ko]
+tags: [genetics, class, review, ko, GeneticsPrimer]
 date: 2026-07-13
 type: class
 ---
@@ -10,6 +10,8 @@ type: class
 McVey SL, Olson MA, Pawlowski WP, Nannas NJ. Beyond editing, CRISPR/Cas9 for protein localization studies. Genetics. 2022 Sep;222(1):iyac109. doi:10.1093/genetics/iyac109.
 
 **DOI:** [https://doi.org/10.1093/genetics/iyac109](https://doi.org/10.1093/genetics/iyac109)
+
+**Original paper:** [[ko/article/Kuhl2020_Genetics_dCas9+Ctf19+Recombination]]
 
 ---
 

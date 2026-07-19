@@ -1,5 +1,5 @@
 ---
-tags: [genetics, class, article, en]
+tags: [genetics, class, article, en, GeneticsPrimer]
 date: 2026-07-13
 type: class
 ---
@@ -10,6 +10,8 @@ type: class
 Collins KA, Unruh JR, Slaughter BD, Yu Z, Lake CM, Nielsen RJ, Box KS, Miller DE, Blumenstiel JP, Perera AG, Malanowski KE, Hawley RS. Corolla is a novel protein that contributes to the architecture of the synaptonemal complex of Drosophila. Genetics. 2014 Sep;198(1):219–228. doi:10.1534/genetics.114.165290
 
 **DOI:** [https://doi.org/10.1534/genetics.114.165290](https://doi.org/10.1534/genetics.114.165290)
+
+**Educational primer:** [[en/review/Collins2014_Ables2014_GeneticsPrimer_Meiosis+Corolla]]
 
 ---
 

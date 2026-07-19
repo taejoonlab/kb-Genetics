@@ -1,5 +1,5 @@
 ---
-tags: [genetics, population, en]
+tags: [genetics, population, en, GeneticsPrimer]
 date: 2026-07-13
 ---
 
@@ -9,6 +9,8 @@ date: 2026-07-13
 Wittkopp PJ. An educational primer to accompany "Patterns of transcriptome divergence in the accessory gland of two closely related species of field crickets." Genetics. 2013;193(3):671-675. doi:10.1534/genetics.112.148171
 
 **DOI:** [https://doi.org/10.1534/genetics.112.148171](https://doi.org/10.1534/genetics.112.148171)
+
+**Original paper:** [[en/article/Andres2013_Genetics_FieldCricket]]
 
 ---
 
