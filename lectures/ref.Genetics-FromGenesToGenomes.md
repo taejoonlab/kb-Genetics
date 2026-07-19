@@ -3,7 +3,6 @@ tags: [genetics, lecture, textbook, reference]
 date: 2026-07-19
 type: reference
 ---
-
 # Genetics: From Genes to Genomes
 
 ## Book Information

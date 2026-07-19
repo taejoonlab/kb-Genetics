@@ -3,7 +3,6 @@ tags: [genetics, lecture, BME333-BIO333, 2026Fall]
 date: 2026-07-20
 type: lecture
 ---
-
 # Genetics in Disease Modeling
 
 **Course:** BME333 / BIO333 Genetics (UNIST, 2026 Fall) · Lecture 16 · ~60 min
