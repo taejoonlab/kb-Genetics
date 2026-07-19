@@ -8,7 +8,7 @@ A bilingual (English/Korean) knowledge base for **BME333/BIO333 Genetics** at UN
 .
 ├── en/                  # English notes
 │   ├── article/         # Research articles (45 notes)
-│   ├── review/          # Reviews, perspectives, primers, essays (170 notes)
+│   ├── review/          # Reviews, perspectives, primers, essays (169 notes)
 │   └── (population/ forward/ reverse/ others/  — legacy, empty)
 ├── ko/                  # Korean notes (bilingual mirror of en/)
 │   ├── article/
@@ -35,10 +35,10 @@ Notes are organised by **type** (`article` / `review`), not subdiscipline. The l
 
 Two educational series from the journal *GENETICS* are cross-referenced and tagged:
 
-- **`GeneticsPrimer`** — *GENETICS* "Educational Primer" articles that review a specific paper for teaching and pose discussion questions. Each primer is wiki-linked to its original paper (`Original paper` ↔ `Educational primer`). 13 primer notes + 10 linked original articles are tagged.
+- **`GeneticsPrimer`** — *GENETICS* "Educational Primer" articles that review a specific paper for teaching and pose discussion questions. Each primer is wiki-linked to its original paper (`Original paper` ↔ `Educational primer`). 12 primer notes + 10 linked original articles are tagged.
 - **`GeneticsClassic`** — tribute/commentary articles honouring a classic paper (e.g. Nielsen on Tajima 1983), without discussion questions.
 
-## Current Notes (215 papers in English, mirrored in Korean)
+## Current Notes (214 papers in English, mirrored in Korean)
 
 ### Research Articles (45)
 
@@ -90,7 +90,7 @@ Two educational series from the journal *GENETICS* are cross-referenced and tagg
 | `Yang2010_MBE_BranchSiteTest-PositiveSelection` | Statistical Properties of the Branch-Site Test of Positive Selection |  |
 | `Yang2022_NatGenet_PeaGenome2` | Improved Pea Reference Genome and Pan-Genome Highlight Genomic Features and Evolutionary Characteristics |  |
 
-### Reviews, Perspectives, Primers & Essays (170)
+### Reviews, Perspectives, Primers & Essays (169)
 
 | File | Title | Series |
 |------|-------|--------|
@@ -238,7 +238,6 @@ Two educational series from the journal *GENETICS* are cross-referenced and tagg
 | `Shapiro2016_PLoSgenet_WhatIsSpeciation` | Shapiro et al. 2016 — What Is Speciation? A Genomic Perspective |  |
 | `ShawWhite2022_TrendsGenet_SexChromosome-GeneRegulation` | The evolution of gene regulation on sex chromosomes |  |
 | `Shendure2016_Genetics_MassiveParallelGenetics` | Shendure & Fields 2016 — Massively Parallel Genetics |  |
-| `Simpson2019_Genetics_FearAndFoxes-Primer` | Simpson 2020 — Fear and Foxes: An Educational Primer on Behavioral Genetics | Genetics Primer |
 | `Singh2013_Heil2013_GeneticsPrimer_Recombination` | Heil & Noor 2013 — Genetics Primer: Meiotic Recombination | Genetics Primer |
 | `Sleister-The Case of the Missing Strawberries-RFLP analysis_1` | Sleister 2014 — The Case of the Missing Strawberries: RFLP Analysis Lesson |  |
 | `Smith2016_Genetics_TeachingGenetics` | Smith & Wood 2016 — Teaching Genetics: Past, Present, and Future |  |
