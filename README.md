@@ -7,8 +7,8 @@ A bilingual (English/Korean) knowledge base for **BME333/BIO333 Genetics** at UN
 ```
 .
 ├── en/                  # English notes
-│   ├── article/         # Research articles (43 notes)
-│   ├── review/          # Reviews, perspectives, primers, essays (168 notes)
+│   ├── article/         # Research articles (45 notes)
+│   ├── review/          # Reviews, perspectives, primers, essays (170 notes)
 │   └── (population/ forward/ reverse/ others/  — legacy, empty)
 ├── ko/                  # Korean notes (bilingual mirror of en/)
 │   ├── article/
@@ -38,15 +38,16 @@ Two educational series from the journal *GENETICS* are cross-referenced and tagg
 - **`GeneticsPrimer`** — *GENETICS* "Educational Primer" articles that review a specific paper for teaching and pose discussion questions. Each primer is wiki-linked to its original paper (`Original paper` ↔ `Educational primer`). 13 primer notes + 10 linked original articles are tagged.
 - **`GeneticsClassic`** — tribute/commentary articles honouring a classic paper (e.g. Nielsen on Tajima 1983), without discussion questions.
 
-## Current Notes (211 papers in English, mirrored in Korean)
+## Current Notes (215 papers in English, mirrored in Korean)
 
-### Research Articles (43)
+### Research Articles (45)
 
 | File | Title | Series |
 |------|-------|--------|
 | `Abbott2016_Genetics_MendelHybridPaper` | Experiments on Plant Hybrids by Gregor Mendel |  |
 | `Abrusan2013_Genetics_DeNovoGeneBirth` | De Novo Gene Birth: Origin of New Genes from Noncoding Sequences | Genetics Primer |
 | `Andres2013_Genetics_FieldCricket` | Transcriptome Divergence in Field Cricket Accessory Glands: Testing the Seminal Fluid Protein Hypothesis | Genetics Primer |
+| `Barbash2010_Genetics_DrosophilaHybrid` | Ninety Years of Drosophila Hybrid Sterility: From Sturtevant to the Hmr/Lhr Genes |  |
 | `Beach2017_Cell_Aneuploidy-NonGeneticIndividuality` | Aneuploidy Causes Non-genetic Individuality |  |
 | `Beye2003_Cell_Honeybee-SexDetermination` | The Gene csd Is the Primary Signal for Sexual Development in the Honeybee and Encodes an SR-Type Protein |  |
 | `Bridges1916_Genetics_NonDisjunction-SexChromosome` | Non-Disjunction as Proof of the Chromosome Theory of Heredity |  |
@@ -57,6 +58,7 @@ Two educational series from the journal *GENETICS* are cross-referenced and tagg
 | `Feng2025_Nature_MendelsMissingTraits` | Genomic and Genetic Insights into Mendel's Pea Genes |  |
 | `Gempe2009_PLoSBiol_Honeybee-SexDetermination` | Sex Determination in Honeybees: Two Separate Mechanisms Induce and Maintain the Female Pathway |  |
 | `Grendler2019_Development_WoundPolyploidy` | Wound-induced polyploidization is driven by Myc and supports tissue repair in the presence of DNA damage |  |
+| `Hardy1908_Science_HardyWeinberg` | Mendelian Proportions in a Mixed Population |  |
 | `Hasselmann2008_Nature_Honeybee-SexDetermination` | Evidence for the Evolutionary Nascence of a Novel Sex Determination Pathway in Honeybees |  |
 | `Hekman2019_G3_APtx+Fox` | Anterior Pituitary Transcriptome Suggests Differences in ACTH Release in Tame and Aggressive Foxes | Genetics Primer |
 | `Hubby1966_Genetics_PopulationHeterogeneity1` | A Molecular Approach to the Study of Genic Heterozygosity in Natural Populations. I. The Number of Alleles at Different Loci in Drosophila pseudoobscura |  |
@@ -88,7 +90,7 @@ Two educational series from the journal *GENETICS* are cross-referenced and tagg
 | `Yang2010_MBE_BranchSiteTest-PositiveSelection` | Statistical Properties of the Branch-Site Test of Positive Selection |  |
 | `Yang2022_NatGenet_PeaGenome2` | Improved Pea Reference Genome and Pan-Genome Highlight Genomic Features and Evolutionary Characteristics |  |
 
-### Reviews, Perspectives, Primers & Essays (168)
+### Reviews, Perspectives, Primers & Essays (170)
 
 | File | Title | Series |
 |------|-------|--------|
@@ -130,6 +132,7 @@ Two educational series from the journal *GENETICS* are cross-referenced and tagg
 | `Davies2018_BMJ_MendelianRandomization-overview` | Reading Mendelian randomisation studies: a guide, glossary, and checklist for clinicians |  |
 | `Denell1994_Genetics_AntennapediaComplex` | Discovery and Genetic Definition of the Drosophila Antennapedia Complex |  |
 | `Dernburg2001_JCB_HolocentricChromosomes` | Here, There, and Everywhere: Kinetochore Function on Holocentric Chromosomes |  |
+| `Dobzhansky1936_Coyne2016_GeneticsClassic` | Theodosius Dobzhansky on Hybrid Sterility and Speciation (GeneticsClassic) | Genetics Classic |
 | `Doolittle2016_PLoSGenet_TreeOfLife` | What Is the Tree of Life? |  |
 | `Dove1987_Genetics_MouseMolecularGenetics` | Molecular Genetics of *Mus musculus*: Point Mutagenesis and Millimorgans |  |
 | `Dove1988_Genetics_YearOfTheFly` | The Year of the Fly |  |
@@ -219,6 +222,7 @@ Two educational series from the journal *GENETICS* are cross-referenced and tagg
 | `Pott2015_NatGenet_SuperEnhancers` | What are super-enhancers? |  |
 | `Powell1987_Genetics_Dobzhansky-GeneticsAndTheOriginOfSpecies` | "In the Air" — Theodosius Dobzhansky's Genetics and the Origin of Species |  |
 | `Preer1997_Genetics_ParameciumGenetics` | Whatever Happened to *Paramecium* Genetics? |  |
+| `Pritchard2000_Genetics_STRUCTURE-Novembre2016classic` | Pritchard et al. 2000 and Structure: A 15-Year Retrospective (Genetics Classic Commentary) | Genetics Classic |
 | `Provine1991_Genetics_Sturtevant-Drosophila` | Alfred Henry Sturtevant and crosses between Drosophila melanogaster and Drosophila simulans |  |
 | `Provine2004_Genetics_ErnstMayr-Speciation` | Ernst Mayr: Genetics and Speciation |  |
 | `Reay2021_NatRevGenet_GWAS-DrugRepurposing` | Advancing the use of genome-wide association studies for drug repurposing |  |
@@ -261,14 +265,7 @@ Two educational series from the journal *GENETICS* are cross-referenced and tagg
 | `Zinder1992_Genetics_BacterialTransduction` | Forty Years Ago: The Discovery of Bacterial Transduction |  |
 | `Zschocke2022_NatRevGenet_Mendel+Dominance` | Zschocke et al. 2022 — Gregor Mendel and the Concepts of Dominance and Recessiveness |  |
 
-### Korean-only notes (English pending: 4)
-
-The bilingual mirror is complete except for these papers, which currently have a Korean note but no English counterpart:
-
-- `Barbash2010_Genetics_DrosophilaHybrid`
-- `Dobzhansky1936_Coyne2016_GeneticsClassic`
-- `Hardy1908_Science_HardyWeinberg`
-- `Pritchard2000_Genetics_STRUCTURE-Novembre2016classic`
+> The English/Korean mirror is complete — every note exists in both languages.
 
 ## Note Format
 
