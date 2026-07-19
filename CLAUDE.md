@@ -12,11 +12,13 @@ Bilingual (en/ko) Obsidian vault for **Genetics** (BME333/BIO333 @ UNIST). Each 
 .
 ├── en/
 │   ├── article/      # Research articles (English)
-│   └── review/       # Reviews / perspectives / primers / commentaries (English)
+│   ├── review/       # Reviews / perspectives / primers / commentaries (English)
+│   └── lectures/     # Per-lecture notes lecNN_*.md (English)
 ├── ko/
 │   ├── article/      # Research articles (Korean — bilingual mirror)
-│   └── review/       # Reviews etc. (Korean)
-├── lectures/         # Course syllabus, per-lecture notes (lecNN_*.md), and textbook references
+│   ├── review/       # Reviews etc. (Korean)
+│   └── lectures/     # Per-lecture notes lecNN_*.md (Korean — bilingual mirror)
+├── lectures/         # Course syllabus + textbook references (ref.*) — language-neutral
 ├── extract/          # Raw extracted PDF text, archived by date (tracked; 50k-char cap per paper)
 ├── pdf/              # Source PDFs — gitignored (note: actual PDFs live in ko/pdf/)
 │   └── dup/          # Duplicate PDFs moved aside (same paper, redundant copy)
@@ -133,15 +135,15 @@ Actual PDFs live in `ko/pdf/` (gitignored). Pipeline:
 - **`ko/pdf/notes/00_processing_log.md` can be stale/incomplete** — reconcile against the actual file list, don't trust it as authoritative.
 - `tools/` is a **submodule** — read its scripts, never edit them here.
 
-## Lecture Materials (`lectures/`)
+## Lecture Materials
 
-Course teaching materials for BME333/BIO333, kept separate from the paper notes:
+Course teaching materials for BME333/BIO333, kept separate from the paper notes. Per-lecture notes are **bilingual** (like the paper notes): `en/lectures/` and `ko/lectures/` mirror each other. The syllabus and textbook references are language-neutral and stay in the top-level `lectures/` folder.
 
-- `2026.BME333-BIO333-Syllabus.md` — course objective/description, the weekly-schedule table (each topic links to its lecture note), and a per-lecture objective/description list.
-- `lecNN_*.md` — one note per lecture (~60 min): learning objectives, a timed outline, textbook chapter references (link to the `ref.*` files), and curated links into the vault (`../en/{article|review}/*.md`). Note-thin lectures add a PubMed "Additional reading" section (DOI + PMID).
-- `ref.*.md` — reference textbooks (title/edition/authors/publisher/year/ISBN + table of contents).
+- `lectures/2026.BME333-BIO333-Syllabus.md` — course objective/description, the weekly-schedule table, and a per-lecture objective/description list. Each week links to its **English** lecture note (`../en/lectures/lecNN_*.md`) with a trailing `[ko]` link to the Korean mirror (`../ko/lectures/lecNN_*.md`).
+- `{en,ko}/lectures/lecNN_*.md` — one note per lecture (~60 min): learning objectives, a timed outline, textbook chapter references (link to the `ref.*` files as `../../lectures/ref.*.md`), and curated links into the vault (`../{article|review}/*.md`). Note-thin lectures add a PubMed "Additional reading" section (DOI + PMID). Frontmatter tags: `[genetics, lecture, BME333-BIO333, 2026Fall, {lang}]`, `type: lecture`.
+- `lectures/ref.*.md` — reference textbooks (title/edition/authors/publisher/year/ISBN + table of contents).
 
-Conventions: link lecture↔note↔syllabus with **relative markdown links** (not wiki-links) so they render on GitHub; keep the syllabus topic links and the lecture-note filenames (`lecNN_...`) in sync.
+Conventions: keep the `en`/`ko` lecture pair in sync (create/update both together, same filename); link lecture↔note↔syllabus with **relative markdown links** (not wiki-links) so they render on GitHub; keep the syllabus topic links and the lecture-note filenames (`lecNN_...`) in sync.
 
 ## Git & Submodule Setup
 

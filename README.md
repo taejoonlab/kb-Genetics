@@ -8,11 +8,13 @@ A bilingual (English/Korean) knowledge base for **BME333/BIO333 Genetics** at UN
 .
 ├── en/                  # English notes
 │   ├── article/         # Research articles (45 notes)
-│   └── review/          # Reviews, perspectives, primers, essays (169 notes)
+│   ├── review/          # Reviews, perspectives, primers, essays (169 notes)
+│   └── lectures/        # Per-lecture notes (lecNN_*.md, 26 notes)
 ├── ko/                  # Korean notes (bilingual mirror of en/)
 │   ├── article/
-│   └── review/
-├── lectures/            # Course syllabus, 26 per-lecture notes (lecNN_*.md), and textbook references
+│   ├── review/
+│   └── lectures/        # Per-lecture notes (Korean mirror, 26 notes)
+├── lectures/            # Course syllabus and textbook references (language-neutral)
 ├── extract/             # Raw text extracted from source PDFs (by date, one entry per paper, 50k-char cap)
 ├── pdf/                 # Source PDFs — gitignored
 │   └── dup/             # Duplicate PDFs moved aside (same paper, redundant copy)
@@ -39,10 +41,10 @@ Two educational series from the journal *GENETICS* are cross-referenced and tagg
 
 ## Course Materials
 
-Teaching materials for the course live in [`lectures/`](lectures/).
+Teaching materials for the course live in [`lectures/`](lectures/) (syllabus + textbook references) and in the bilingual `en/lectures/` and `ko/lectures/` folders (per-lecture notes).
 
-- **Syllabus:** [2026.BME333-BIO333-Syllabus.md](lectures/2026.BME333-BIO333-Syllabus.md) — course objective/description, weekly schedule, and per-lecture objective/description (each linked to its lecture note).
-- **Lecture notes:** 26 × `lectures/lecNN_*.md` — each with learning objectives, a ~60-min outline, textbook chapter references, and curated vault readings (note-thin lectures add PubMed references).
+- **Syllabus:** [2026.BME333-BIO333-Syllabus.md](lectures/2026.BME333-BIO333-Syllabus.md) — course objective/description, weekly schedule, and per-lecture objective/description (each week links to its English lecture note, with a `ko` link to the Korean mirror).
+- **Lecture notes:** 26 lectures, each as a bilingual pair — `en/lectures/lecNN_*.md` and `ko/lectures/lecNN_*.md` — with learning objectives, a ~60-min outline, textbook chapter references, and curated vault readings (note-thin lectures add PubMed references).
 - **Reference textbooks:**
 
 | Textbook | Edition · Authors · Year |
