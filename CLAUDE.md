@@ -125,6 +125,14 @@ Actual PDFs live in `ko/pdf/` (gitignored). Pipeline:
 
 > ⚠️ Auto-extraction of author/journal is unreliable — always verify. Never batch-rename without checking for conflicts.
 
+### Tooling caveats
+
+- **Auto-named filenames are often wrong.** `tools/process_pdf*.py` may emit `Unknown2024_Unknown_*` or garbled bylines (e.g. `Journal2001_Unknown_*` from Dernburg2001). Always confirm from the extracted text / PubMed and rename the PDF **and** its `_extracted.txt` together.
+- **CrossRef lookups can hang** on DOI-less papers. Prefer PubMed citation lookup; if a script stalls on "DOI 조회 중…", interrupt and fall back to regex/manual identification — don't block the batch.
+- **50,000-char cap**: `_extracted.txt` and each `extract/` archive entry keep only the first 50,000 chars; long papers may lose later sections — note this when summarizing.
+- **`ko/pdf/notes/00_processing_log.md` can be stale/incomplete** — reconcile against the actual file list, don't trust it as authoritative.
+- `tools/` is a **submodule** — read its scripts, never edit them here.
+
 ## Git & Submodule Setup
 
 ```bash
