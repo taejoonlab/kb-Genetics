@@ -154,6 +154,12 @@ git clone --recurse-submodules git@github.com:taejoonlab/kb-Genetics.git
 git submodule update --init --recursive   # if cloned without submodules
 ```
 
+- **Before starting any work, ALWAYS check `tools/` for updates first** and fast-forward if behind:
+  ```bash
+  git -C tools fetch --quiet && git -C tools rev-list --left-right --count HEAD...@{u}
+  git -C tools merge --ff-only origin/main   # if behind; then `git add tools` to bump the pointer
+  ```
+  The submodule holds the PDF→note processing scripts and SKILL docs, which evolve; work against a stale copy risks using outdated conventions.
 - Submodule URL uses **SSH** — ensure SSH key is configured
 - `.gitignore`: `*.pdf`, `*.PDF`, `*.base`, `pdf/`, `.obsidian/workspace.json`, `.obsidian/cache/`, obsidian-git askpass
 - `filemode = false` (cross-platform, WSL2-safe)
@@ -169,6 +175,7 @@ git submodule update --init --recursive   # if cloned without submodules
 
 ## AI Agent Rules
 
+0. **Before starting any task, check `tools/` for updates first** (`git -C tools fetch && git -C tools merge --ff-only origin/main` if behind; then `git add tools`) — the processing scripts/SKILL docs there evolve.
 1. **Bilingual mirror**: always create/update both `en/{type}/` and `ko/{type}/` for every paper.
 2. Filename: `FirstAuthorYYYY_Journal_Topic.md`; use the actual publication year.
 3. Always include YAML frontmatter with correct `tags`, `date`, `type: class`.
