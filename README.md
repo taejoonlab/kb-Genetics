@@ -14,6 +14,7 @@ A bilingual (English/Korean) knowledge base for **BME333/BIO333 Genetics** at UN
 │   ├── article/
 │   ├── review/
 │   └── (legacy category folders)
+├── lectures/            # Course lecture material — textbook references (basic info + table of contents)
 ├── extract/             # Raw text extracted from source PDFs (by date, one entry per paper, 50k-char cap)
 ├── pdf/                 # Source PDFs — gitignored
 │   └── dup/             # Duplicate PDFs moved aside (same paper, redundant copy)
@@ -37,6 +38,15 @@ Two educational series from the journal *GENETICS* are cross-referenced and tagg
 
 - **`GeneticsPrimer`** — *GENETICS* "Educational Primer" articles that review a specific paper for teaching and pose discussion questions. Each primer is wiki-linked to its original paper (`Original paper` ↔ `Educational primer`). 12 primer notes + 10 linked original articles are tagged.
 - **`GeneticsClassic`** — tribute/commentary articles honouring a classic paper (e.g. Nielsen on Tajima 1983), without discussion questions.
+
+## Course Textbooks
+
+Reference notes (basic info + table of contents) for the course textbooks live in `lectures/`.
+
+| File | Textbook | Edition · Authors · Year |
+|------|----------|--------------------------|
+| `ref.Evolution-MakeSenseOfLife.md` | Evolution: Making Sense of Life | 4th Edition · Carl Zimmer, Douglas J. Emlen · © 2026 |
+| `ref.Genetics-FromGenesToGenomes.md` | Genetics: From Genes to Genomes | 8th Edition · Michael L. Goldberg, Janice Fischer, Leroy Hood, Leland Hartwell · © 2024 (published September 5, 2023) |
 
 ## Current Notes (214 papers in English, mirrored in Korean)
 
