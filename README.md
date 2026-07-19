@@ -44,7 +44,8 @@ Two educational series from the journal *GENETICS* are cross-referenced and tagg
 Teaching materials for the course live in [`lectures/`](lectures/) (syllabus + textbook references) and in the bilingual `en/lectures/` and `ko/lectures/` folders (per-lecture notes).
 
 - **Syllabus:** [2026.BME333-BIO333-Syllabus.md](lectures/2026.BME333-BIO333-Syllabus.md) — course objective/description, weekly schedule, and per-lecture objective/description (each week links to its English lecture note, with a `ko` link to the Korean mirror).
-- **Lecture notes:** 26 lectures, each as a bilingual pair — `en/lectures/lecNN_*.md` and `ko/lectures/lecNN_*.md` — with learning objectives, a ~60-min outline, textbook chapter references, and curated vault readings (note-thin lectures add PubMed references).
+- **Lecture notes:** 26 lectures, each as a bilingual pair — `en/lectures/lecNN_*.md` and `ko/lectures/lecNN_*.md`. Each is a **self-contained ~60-min teaching document** (a student can follow the whole lecture without opening any paper): full explanatory prose grounded in the linked vault notes, **80 mermaid diagrams** plus tables/Punnett squares/ASCII figures, learning objectives, Key Takeaways, and Discussion Questions (note-thin lectures add PubMed references).
+- **Cross-language navigation:** every lecture has a language-switch line (English ↔ 한국어), and every vault-note reference carries explicit dual-language `[en]` / `[ko]` links, so any note can be opened in either language from either side.
 - **Reference textbooks:**
 
 | Textbook | Edition · Authors · Year |
