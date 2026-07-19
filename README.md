@@ -8,12 +8,10 @@ A bilingual (English/Korean) knowledge base for **BME333/BIO333 Genetics** at UN
 .
 ├── en/                  # English notes
 │   ├── article/         # Research articles (45 notes)
-│   ├── review/          # Reviews, perspectives, primers, essays (169 notes)
-│   └── (population/ forward/ reverse/ others/  — legacy, empty)
+│   └── review/          # Reviews, perspectives, primers, essays (169 notes)
 ├── ko/                  # Korean notes (bilingual mirror of en/)
 │   ├── article/
-│   ├── review/
-│   └── (legacy category folders)
+│   └── review/
 ├── lectures/            # Course lecture material — textbook references (basic info + table of contents)
 ├── extract/             # Raw text extracted from source PDFs (by date, one entry per paper, 50k-char cap)
 ├── pdf/                 # Source PDFs — gitignored
@@ -23,7 +21,7 @@ A bilingual (English/Korean) knowledge base for **BME333/BIO333 Genetics** at UN
 └── CLAUDE.md            # Claude Code project instructions
 ```
 
-Notes are organised by **type** (`article` / `review`), not subdiscipline. The legacy `population/`, `forward/`, `reverse/`, and `others/` folders remain from an earlier layout and are now empty.
+Notes are organised by **type** (`article` / `review`), not subdiscipline. (An earlier layout used subdiscipline folders — `population/`, `forward/`, `reverse/`, `others/` — which have since been removed.)
 
 ## Note Types
 

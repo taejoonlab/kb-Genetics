@@ -4,7 +4,7 @@
 
 Bilingual (en/ko) Obsidian vault for **Genetics** (BME333/BIO333 @ UNIST). Each paper has structured study notes in both languages, organized by **note type** (`article/` for research papers, `review/` for reviews, perspectives, historical/critical commentaries, and educational primers).
 
-> The vault was restructured (2026-07) from subdiscipline categories (`population/`, `forward/`, `reverse/`, `others/`) to the type-based `article/` `review/` layout. The old category folders remain in the tree but are empty.
+> The vault was restructured (2026-07) from subdiscipline categories (`population/`, `forward/`, `reverse/`, `others/`) to the type-based `article/` `review/` layout. The old category folders have been removed.
 
 ## Repository Structure
 
@@ -12,12 +12,11 @@ Bilingual (en/ko) Obsidian vault for **Genetics** (BME333/BIO333 @ UNIST). Each 
 .
 ├── en/
 │   ├── article/      # Research articles (English)
-│   ├── review/       # Reviews / perspectives / primers / commentaries (English)
-│   └── population/ forward/ reverse/ others/   # legacy, empty
+│   └── review/       # Reviews / perspectives / primers / commentaries (English)
 ├── ko/
 │   ├── article/      # Research articles (Korean — bilingual mirror)
-│   ├── review/       # Reviews etc. (Korean)
-│   └── population/ forward/ reverse/ others/   # legacy, empty
+│   └── review/       # Reviews etc. (Korean)
+├── lectures/         # Course lecture material — textbook references (basic info + ToC)
 ├── extract/          # Raw extracted PDF text, archived by date (tracked; 50k-char cap per paper)
 ├── pdf/              # Source PDFs — gitignored (note: actual PDFs live in ko/pdf/)
 │   └── dup/          # Duplicate PDFs moved aside (same paper, redundant copy)
