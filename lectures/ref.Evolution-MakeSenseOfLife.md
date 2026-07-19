@@ -3,7 +3,6 @@ tags: [genetics, lecture, textbook, reference]
 date: 2026-07-19
 type: reference
 ---
-
 # Evolution: Making Sense of Life
 
 ## Book Information
