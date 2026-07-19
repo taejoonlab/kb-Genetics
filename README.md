@@ -12,7 +12,7 @@ A bilingual (English/Korean) knowledge base for **BME333/BIO333 Genetics** at UN
 ├── ko/                  # Korean notes (bilingual mirror of en/)
 │   ├── article/
 │   └── review/
-├── lectures/            # Course lecture material — textbook references (basic info + table of contents)
+├── lectures/            # Course syllabus, 26 per-lecture notes (lecNN_*.md), and textbook references
 ├── extract/             # Raw text extracted from source PDFs (by date, one entry per paper, 50k-char cap)
 ├── pdf/                 # Source PDFs — gitignored
 │   └── dup/             # Duplicate PDFs moved aside (same paper, redundant copy)
@@ -37,14 +37,18 @@ Two educational series from the journal *GENETICS* are cross-referenced and tagg
 - **`GeneticsPrimer`** — *GENETICS* "Educational Primer" articles that review a specific paper for teaching and pose discussion questions. Each primer is wiki-linked to its original paper (`Original paper` ↔ `Educational primer`). 12 primer notes + 10 linked original articles are tagged.
 - **`GeneticsClassic`** — tribute/commentary articles honouring a classic paper (e.g. Nielsen on Tajima 1983), without discussion questions.
 
-## Course Textbooks
+## Course Materials
 
-Reference notes (basic info + table of contents) for the course textbooks live in `lectures/`.
+Teaching materials for the course live in [`lectures/`](lectures/).
 
-| File | Textbook | Edition · Authors · Year |
-|------|----------|--------------------------|
-| `ref.Evolution-MakeSenseOfLife.md` | Evolution: Making Sense of Life | 4th Edition · Carl Zimmer, Douglas J. Emlen · © 2026 |
-| `ref.Genetics-FromGenesToGenomes.md` | Genetics: From Genes to Genomes | 8th Edition · Michael L. Goldberg, Janice Fischer, Leroy Hood, Leland Hartwell · © 2024 (published September 5, 2023) |
+- **Syllabus:** [2026.BME333-BIO333-Syllabus.md](lectures/2026.BME333-BIO333-Syllabus.md) — course objective/description, weekly schedule, and per-lecture objective/description (each linked to its lecture note).
+- **Lecture notes:** 26 × `lectures/lecNN_*.md` — each with learning objectives, a ~60-min outline, textbook chapter references, and curated vault readings (note-thin lectures add PubMed references).
+- **Reference textbooks:**
+
+| Textbook | Edition · Authors · Year |
+|----------|--------------------------|
+| [Evolution: Making Sense of Life](lectures/ref.Evolution-MakeSenseOfLife.md) | 4th Edition · Carl Zimmer, Douglas J. Emlen · © 2026 |
+| [Genetics: From Genes to Genomes](lectures/ref.Genetics-FromGenesToGenomes.md) | 8th Edition · Michael L. Goldberg, Janice Fischer, Leroy Hood, Leland Hartwell · © 2024 (published September 5, 2023) |
 
 ## Current Notes (214 papers in English, mirrored in Korean)
 

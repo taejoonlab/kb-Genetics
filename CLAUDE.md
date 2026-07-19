@@ -16,7 +16,7 @@ Bilingual (en/ko) Obsidian vault for **Genetics** (BME333/BIO333 @ UNIST). Each 
 ├── ko/
 │   ├── article/      # Research articles (Korean — bilingual mirror)
 │   └── review/       # Reviews etc. (Korean)
-├── lectures/         # Course lecture material — textbook references (basic info + ToC)
+├── lectures/         # Course syllabus, per-lecture notes (lecNN_*.md), and textbook references
 ├── extract/          # Raw extracted PDF text, archived by date (tracked; 50k-char cap per paper)
 ├── pdf/              # Source PDFs — gitignored (note: actual PDFs live in ko/pdf/)
 │   └── dup/          # Duplicate PDFs moved aside (same paper, redundant copy)
@@ -132,6 +132,16 @@ Actual PDFs live in `ko/pdf/` (gitignored). Pipeline:
 - **50,000-char cap**: `_extracted.txt` and each `extract/` archive entry keep only the first 50,000 chars; long papers may lose later sections — note this when summarizing.
 - **`ko/pdf/notes/00_processing_log.md` can be stale/incomplete** — reconcile against the actual file list, don't trust it as authoritative.
 - `tools/` is a **submodule** — read its scripts, never edit them here.
+
+## Lecture Materials (`lectures/`)
+
+Course teaching materials for BME333/BIO333, kept separate from the paper notes:
+
+- `2026.BME333-BIO333-Syllabus.md` — course objective/description, the weekly-schedule table (each topic links to its lecture note), and a per-lecture objective/description list.
+- `lecNN_*.md` — one note per lecture (~60 min): learning objectives, a timed outline, textbook chapter references (link to the `ref.*` files), and curated links into the vault (`../en/{article|review}/*.md`). Note-thin lectures add a PubMed "Additional reading" section (DOI + PMID).
+- `ref.*.md` — reference textbooks (title/edition/authors/publisher/year/ISBN + table of contents).
+
+Conventions: link lecture↔note↔syllabus with **relative markdown links** (not wiki-links) so they render on GitHub; keep the syllabus topic links and the lecture-note filenames (`lecNN_...`) in sync.
 
 ## Git & Submodule Setup
 
