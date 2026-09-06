@@ -12,3 +12,6 @@
 
 # PDF processing working directory
 pdf/
+
+# Generated lecture decks — build outputs of slides/src, not tracked
+slides/*.pptx
