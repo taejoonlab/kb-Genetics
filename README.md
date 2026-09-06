@@ -353,7 +353,7 @@ Teaching materials for the course live in [`lectures/`](lectures/) (syllabus + t
 | `Smith2016_Genetics_TeachingGenetics` | Smith & Wood 2016 — Teaching Genetics: Past, Present, and Future |  |
 | `Smith2025_NatRevGenet_DNAMethylation-Development-Disease` | DNA methylation in mammalian development and disease |  |
 | `Smithies1995_Genetics_GelElectrophoresis` | Early days of gel electrophoresis |  |
-| `Song2016_Genetics_Li+Stephens+LD` | Na Li and Matthew Stephens on Modeling Linkage Disequilibrium |  |
+| `Song2016_Genetics_Li+Stephens+LD` | Na Li and Matthew Stephens on Modeling Linkage Disequilibrium | Genetics Classic |
 | `Spitz2012_NatRevGenet_TF-Enhancers` | Transcription factors: from enhancer binding to developmental control |  |
 | `Spradling2006_Genetics_LearningGenetics` | Spradling 2006 — Learning the Common Language of Genetics |  |
 | `Sreenivasan2025_NatRevGenet_StructuralVariants-3DGenome` | Structural variants in the 3D genome as drivers of disease |  |
