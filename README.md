@@ -7,7 +7,7 @@ A bilingual (English/Korean) knowledge base for **BME333/BIO333 Genetics** at UN
 ```
 .
 ├── en/                  # English notes
-│   ├── article/         # Research articles (124 notes)
+│   ├── article/         # Research articles (123 notes)
 │   ├── review/          # Reviews, perspectives, primers, essays (197 notes)
 │   └── lectures/        # Per-lecture notes (lecNN_*.md, 26 notes)
 ├── ko/                  # Korean notes (bilingual mirror of en/)
@@ -53,9 +53,9 @@ Teaching materials for the course live in [`lectures/`](lectures/) (syllabus + t
 | [Evolution: Making Sense of Life](lectures/ref.Evolution-MakeSenseOfLife.md) | 4th Edition · Carl Zimmer, Douglas J. Emlen · © 2026 |
 | [Genetics: From Genes to Genomes](lectures/ref.Genetics-FromGenesToGenomes.md) | 8th Edition · Michael L. Goldberg, Janice Fischer, Leroy Hood, Leland Hartwell · © 2024 (published September 5, 2023) |
 
-## Current Notes (321 papers in English, mirrored in Korean)
+## Current Notes (320 papers in English, mirrored in Korean)
 
-### Research Articles (124)
+### Research Articles (123)
 
 | File | Title | Series |
 |------|-------|--------|
@@ -142,7 +142,6 @@ Teaching materials for the course live in [`lectures/`](lectures/) (syllabus + t
 | `Nunes2025_Science_Brazilian-Admixture` | Admixture's impact on Brazilian population evolution and health |  |
 | `Nurse1980_Genetics_Wee+Spombe` | Regulatory Genes Controlling Mitosis in the Fission Yeast Schizosaccharomyces pombe |  |
 | `Okashita2025_Nature_IronDeficiency-SexReversal` | Maternal iron deficiency causes male-to-female sex reversal in mouse embryos |  |
-| `Oliver2025_NatGenet_NF1-SomaticMutation-NormalTissue` | Cancer-independent somatic mutation of the wild-type NF1 allele in normal tissues in neurofibromatosis type 1 |  |
 | `Oliver2025_NatGenet_SomaticMutation-CancerIndependent` | Cancer-Independent Somatic Mutation of the Wild-Type NF1 Allele in Normal Tissues in Neurofibromatosis Type 1 |  |
 | `Opmeer2025_PLoSGenet_KooikerDog-Polymyositis` | Polymyositis in Kooiker dogs is associated with a 39 kb deletion upstream of the canine IL21/IL2 locus |  |
 | `Palsson2025_Nature_CompleteRecombinationMaps` | Complete human recombination maps |  |
