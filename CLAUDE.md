@@ -21,6 +21,9 @@ Bilingual (en/ko) Obsidian vault for **Genetics** (BME333/BIO333 @ UNIST). Each 
 ├── lectures/         # Course syllabus + textbook references (ref.*) — language-neutral
 ├── extract/          # Raw extracted PDF text, archived by date (tracked; 50k-char cap per paper)
 ├── pdf/              # Source PDFs — gitignored (note: actual PDFs live in ko/pdf/)
+│   ├── notes/        # Per-PDF `{stem}_extracted.txt` + 00_processing_log.md (work artefacts)
+│   ├── done/         # PDFs whose notes are written, renamed to the note stem
+│   │   └── review/   # …for papers whose note lives in review/
 │   └── dup/          # Duplicate PDFs moved aside (same paper, redundant copy)
 ├── tools/            # Git submodule (git@github.com:taejoonlab/kb-tools.git)
 └── .obsidian/        # Obsidian config (tracked, except workspace.json)
@@ -91,6 +94,9 @@ Use `Powell1987_Genetics_Dobzhansky-GeneticsAndTheOriginOfSpecies.md` as the can
 - **Series tags** (append when applicable):
   - `GeneticsPrimer` — *GENETICS* "Educational Primer" articles that review a specific paper for teaching **and pose discussion questions**. Tag BOTH the primer note and its original paper, and cross-link them (see below).
   - `GeneticsClassic` — tribute/commentary honouring a classic paper, **without** discussion questions (e.g. Nielsen 2016 on Tajima 1983).
+- **Session tags** (append when a batch of papers is processed together): a reading-list or course-cycle label such as `2025-2026`, applied to every note in that batch so the batch can be filtered in Obsidian. Order is base tags → series tag → session tag, e.g. `tags: [genetics, class, review, en, GeneticsClassic, 2025-2026]`.
+
+> ⚠️ When counting or detecting series tags, match the **`^tags:` line only**. Several note *filenames* contain `GeneticsClassic`/`GeneticsPrimer` and are cited inside other notes' bodies, so a whole-file `grep -l GeneticsClassic` over-counts. A filename is not evidence of type either: `LuriaDelbruck1943_Meneely2016_GeneticsClassic` was in fact an Educational Primer and had to be renamed.
 
 ### Cross-linking Genetics Primer pairs
 
@@ -121,9 +127,27 @@ Actual PDFs live in `ko/pdf/` (gitignored). Pipeline:
 1. **Extract** text with PyMuPDF (`pip install pymupdf`) into `ko/pdf/notes/{stem}_extracted.txt`.
 2. **Identify** first author / year / journal from the extracted text. If the byline is absent (common in older *GENETICS* "Perspectives"), look up by citation via PubMed (`Genetics`, vol, first page) → get authoritative author/DOI.
 3. **Rename** the PDF and its `_extracted.txt` to `FirstAuthorYYYY_Journal_Topic`.
-4. **Check duplicates** — compare first-page content fingerprints; move redundant copies to `ko/pdf/dup/` (keep the note-matching canonical file). Never delete PDFs.
+4. **Check duplicates — by DOI, not by filename.** Before writing anything, resolve the paper's DOI and search the vault for a note that already carries it:
+   ```bash
+   grep -l "^\*\*DOI:\*\* \[https://doi.org/<doi>\]" en/article/*.md en/review/*.md
+   ```
+   A filename-collision check alone will **not** catch an existing note filed under a different stem — that is how a second note for Oliver 2025 (`10.1038/s41588-025-02097-2`) was created. If a note already exists, update it instead of writing a second one. Separately, for the PDFs themselves compare first-page content fingerprints and move redundant copies to `ko/pdf/dup/` (keep the note-matching canonical file). Never delete PDFs.
 5. **Write notes** — fill the CLASS template for BOTH `en/{type}/` and `ko/{type}/`.
-6. **Archive extracts** — consolidate `_extracted.txt` into a dated `extract/YYYY-MM-DD*.md` (each entry capped at 50,000 chars). `_extracted.txt` are gitignored (under `pdf/`); the `extract/` archive is tracked.
+6. **Archive extracts** — consolidate `_extracted.txt` into a dated `extract/YYYY-MM-DD*.md`, split into `_pNN` parts at roughly 2 MB. Introduce each paper's block with the anchor `===== <note-stem> =====` so a note can be traced back to its source text. Each entry is capped at 50,000 chars. `_extracted.txt` are gitignored (under `pdf/`); the `extract/` archive is tracked. Archives are a record of what was processed on a date — **do not rewrite them** when a note is later renamed or removed.
+7. **File the PDF** — move it to `ko/pdf/done/` (or `ko/pdf/done/review/` when the note lives in `review/`), renamed to the note stem. Append the batch to `ko/pdf/notes/00_processing_log.md`.
+8. **Refresh `README.md`** — see below.
+
+### Keeping README.md current
+
+`README.md` carries the vault state: the per-folder counts in the `## Structure` block, the `## Current Notes (N papers …)` heading, and the two index tables `### Research Articles (N)` / `### Reviews, Perspectives, Primers & Essays (N)`. `AGENT.md` points here for state; it holds none itself.
+
+Regenerate the tables from the notes on disk rather than editing them by hand, so the README cannot drift:
+
+- one row per note in `en/`, formatted `` | `stem` | <first H1 line> | <series> | ``
+- sorted case-insensitively by stem
+- series column read from the `^tags:` line (`GeneticsPrimer` → `Genetics Primer`, `GeneticsClassic` → `Genetics Classic`)
+
+Do this after every batch, and after any note is added, renamed or removed.
 
 > ⚠️ Auto-extraction of author/journal is unreliable — always verify. Never batch-rename without checking for conflicts.
 
@@ -162,6 +186,9 @@ git submodule update --init --recursive   # if cloned without submodules
   The submodule holds the PDF→note processing scripts and SKILL docs, which evolve; work against a stale copy risks using outdated conventions.
 - Submodule URL uses **SSH** — ensure SSH key is configured
 - `.gitignore`: `*.pdf`, `*.PDF`, `*.base`, `pdf/`, `.obsidian/workspace.json`, `.obsidian/cache/`, obsidian-git askpass
+- `.gitattributes`: `* text=auto eol=lf` — repository **and** working tree both use LF. This checkout normally sits on a Windows drive reached from WSL2, where `core.autocrlf` is unset; without this a Windows editor rewrites a note as CRLF and produces a whole-file diff in which no content changed (58 lecture/slide files once did exactly that).
+  - `extract/** -text` is a deliberate exception: archived PDF-extracted text can contain CR characters as part of the text itself and must stay byte-exact. **Do not remove that line.**
+  - If a clone on another machine still shows CRLF diffs, run `git rm --cached -r . && git reset --hard` there once to re-checkout under the new attributes.
 - `filemode = false` (cross-platform, WSL2-safe)
 - Commit message format: `{action}: {lang} {description}` (e.g. `add: en,ko review — ...`, `edit: en,ko — ...`)
 
@@ -184,5 +211,8 @@ git submodule update --init --recursive   # if cloned without submodules
 6. Tag Genetics Primer / Genetics Classic pieces and cross-link primer↔original as described above.
 7. Verify identity via PubMed when a byline is missing; cite PubMed and include DOI links when using it.
 8. Do **not** modify files under `tools/` (separate submodule) or `.obsidian/workspace.json` (per-machine, gitignored).
-9. Never delete source PDFs — move duplicates to `ko/pdf/dup/`.
+9. Never delete source PDFs — move duplicates to `ko/pdf/dup/`, and processed ones to `ko/pdf/done/`.
 10. Commit only when asked; keep `en/` and `ko/` in sync in the same commit.
+11. **Check by DOI before writing a note** — a filename check alone will not catch an existing note filed under a different stem.
+12. After a batch, regenerate the `README.md` index and counts from the notes on disk; leave `AGENT.md` alone unless one of its links breaks.
+13. Detect series tags from the `^tags:` line, never from the filename or a whole-file grep.
