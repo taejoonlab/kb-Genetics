@@ -1,0 +1,24 @@
+# Line-ending policy for this vault.
+#
+# The repository stores text as LF, and the working tree is checked out as LF
+# too. This checkout lives on a Windows drive (/mnt/d) accessed from WSL2, so
+# without this file a Windows editor can rewrite a note as CRLF and produce a
+# whole-file diff in which nothing actually changed.
+
+* text=auto eol=lf
+
+# extract/ holds raw text pulled out of source PDFs and must stay byte-exact.
+# Extraction can leave CR characters inside the text itself, so these files are
+# excluded from any end-of-line conversion.
+extract/** -text
+
+# Binary files must never have line endings rewritten.
+*.pdf  binary
+*.PDF  binary
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.gif  binary
+*.webp binary
+*.zip  binary
+*.base binary
