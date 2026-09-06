@@ -172,7 +172,7 @@ Hartl과 Fairbanks는 이를 **부정행위를 끌어들이지 않고** 해소�
 
 나머지 세 형질은 현대 게놈학이 나오기까지 클로닝에 저항했다. 전제 조건은 **참조 게놈(reference genome)**이었다. *Pisum sativum*(2n = 14)은 크고(~4.45 Gb), **~76–83%가 반복적인** 게놈으로 Ogre LTR 레트로트랜스포존이 지배하는데, 이 때문에 오랫동안 조립이 어려웠다. Kreplak et al.(2019)은 **최초의 염색체 수준 완두 게놈**(품종 'Caméor')을 만들어 ~44,756개의 유전자를 예측하고, 완두의 유별나게 높은 단일자(singleton) 유전자 비율을 지적했다 — 어쩌면 멘델이 그토록 많은 깔끔한 단일 유전자 변종을 찾은 이유일 것이다([en](../../en/article/Kreplak2019_NatGenet_PeaGenome.md) · [ko](../../ko/article/Kreplak2019_NatGenet_PeaGenome.md) 참조). Yang et al.(2022)은 훨씬 더 연속적인 조립(**ZW6**; 콘티그 N50이 243배 개선)과 116개 계통의 판게놈을 내놓았고, QTL 지도 작성으로 매우 높은 LOD 점수로 *R*과 *Le* 유전자를 재식별했다([en](../../en/article/Yang2022_NatGenet_PeaGenome2.md) · [ko](../../ko/article/Yang2022_NatGenet_PeaGenome2.md) 참조).
 
-이 게놈들 위에서, Feng et al.(2025)은 *Nature*에서 **멘델로부터 160년 만에 그 집합을 완성했다.** ~697개 완두 계통(~1억 5,500만 SNP)을 심층 서열 분석하고 GWAS에 더해 연관 지도 작성을 사용했다([en](../../en/article/Feng2025_Nature_MendelsMissingTraits.md) · [ko](../../ko/article/Feng2025_Nature_MendelsMissingTraits.md); 대중 요약 [en](../../en/review/Feng2025_Nature_MendelsMissingTraits-NV.md) · [ko](../../ko/review/Feng2025_Nature_MendelsMissingTraits-NV.md) 참조):
+이 게놈들 위에서, Feng et al.(2025)은 *Nature*에서 **멘델로부터 160년 만에 그 집합을 완성했다.** ~697개 완두 계통(~1억 5,500만 SNP)을 심층 서열 분석하고 GWAS에 더해 연관 지도 작성을 사용했다([en](../../en/article/Feng2025_Nature_MendelsMissingTraits.md) · [ko](../../ko/article/Feng2025_Nature_MendelsMissingTraits.md)):
 
 - **Gp (꼬투리 색):** 엽록소 합성효소 유전자 ***ChlG*** 근처의 ~100-kb 결실. 이 결실은 비정상적 전사체 융합을 낳아 기능성 *ChlG* 전사체를 정상의 ~6%로 줄여 꼬투리를 노랗게 만든다. "하나의 유전자"가 실은 깔끔한 암호화 서열이 아니라 **기능적 게놈 영역(functional genomic region)**인 인상적인 사례이다.
 - **P와 V (꼬투리 형태):** *P*는 ***PsCLE41***(애기장대 TDIF와 동일한 CLE 신호 펩티드)의 조기 종결이고, *V*는 이차벽 리그닌화의 마스터 조절자인 ***PsMYB26***의 발현 감소와 관련된다 — 둘 다 그 부재가 먹을 수 있는 "당완두/스노우피(sugar/snow pea)" 꼬투리를 주는 후벽조직(sclerenchyma) 층을 조절한다.
@@ -214,7 +214,6 @@ flowchart LR
 - `ReidRoss2011_Genetics_MendelsGenes` — 멘델의 고전적 형질 유전자의 분자적 정체. · [en](../../en/review/ReidRoss2011_Genetics_MendelsGenes.md) · [ko](../../ko/review/ReidRoss2011_Genetics_MendelsGenes.md)
 - `Fairbank2016_Genetics_Darwin+Mendel` — 다윈–멘델 대비; 1강으로 이어진다. · [en](../../en/review/Fairbank2016_Genetics_Darwin+Mendel.md) · [ko](../../ko/review/Fairbank2016_Genetics_Darwin+Mendel.md)
 - `Feng2025_Nature_MendelsMissingTraits` — 멘델의 남은, 이전에 식별되지 않은 형질의 게놈 지도 작성. · [en](../../en/article/Feng2025_Nature_MendelsMissingTraits.md) · [ko](../../ko/article/Feng2025_Nature_MendelsMissingTraits.md)
-- `Feng2025_Nature_MendelsMissingTraits-NV` — 2025년 미확인 형질 연구에 대한 News & Views 요약. · [en](../../en/review/Feng2025_Nature_MendelsMissingTraits-NV.md) · [ko](../../ko/review/Feng2025_Nature_MendelsMissingTraits-NV.md)
 - `Kreplak2019_NatGenet_PeaGenome` — 최초의 완두 참조 게놈. · [en](../../en/article/Kreplak2019_NatGenet_PeaGenome.md) · [ko](../../ko/article/Kreplak2019_NatGenet_PeaGenome.md)
 - `Yang2022_NatGenet_PeaGenome2` — 개선된/두 번째 완두 게놈 조립. · [en](../../en/article/Yang2022_NatGenet_PeaGenome2.md) · [ko](../../ko/article/Yang2022_NatGenet_PeaGenome2.md)
 - `Nogler2006_Genetics_Perspective-MendelHieracium` — 멘델의 히에라키움 연구가 왜 실패했는가(무배생식); 경계의 교훈. · [en](../../en/review/Nogler2006_Genetics_Perspective-MendelHieracium.md) · [ko](../../ko/review/Nogler2006_Genetics_Perspective-MendelHieracium.md)

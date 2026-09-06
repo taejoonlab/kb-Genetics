@@ -8,7 +8,7 @@ A bilingual (English/Korean) knowledge base for **BME333/BIO333 Genetics** at UN
 .
 ├── en/                  # English notes
 │   ├── article/         # Research articles (123 notes)
-│   ├── review/          # Reviews, perspectives, primers, essays (197 notes)
+│   ├── review/          # Reviews, perspectives, primers, essays (194 notes)
 │   └── lectures/        # Per-lecture notes (lecNN_*.md, 26 notes)
 ├── ko/                  # Korean notes (bilingual mirror of en/)
 │   ├── article/
@@ -53,7 +53,7 @@ Teaching materials for the course live in [`lectures/`](lectures/) (syllabus + t
 | [Evolution: Making Sense of Life](lectures/ref.Evolution-MakeSenseOfLife.md) | 4th Edition · Carl Zimmer, Douglas J. Emlen · © 2026 |
 | [Genetics: From Genes to Genomes](lectures/ref.Genetics-FromGenesToGenomes.md) | 8th Edition · Michael L. Goldberg, Janice Fischer, Leroy Hood, Leland Hartwell · © 2024 (published September 5, 2023) |
 
-## Current Notes (320 papers in English, mirrored in Korean)
+## Current Notes (317 papers in English, mirrored in Korean)
 
 ### Research Articles (123)
 
@@ -183,7 +183,7 @@ Teaching materials for the course live in [`lectures/`](lectures/) (syllabus + t
 | `Zhu2026_Nature_WGD-CellTypeEvolution-Brain` | Whole-genome duplication shaped cell-type evolution in the vertebrate brain |  |
 | `Zillich2025_NatCommun_LIS1-Lissencephaly-Organoids` | Capturing disease severity in LIS1-lissencephaly reveals proteostasis dysregulation in patient-derived forebrain organoids |  |
 
-### Reviews, Perspectives, Primers & Essays (197)
+### Reviews, Perspectives, Primers & Essays (194)
 
 | File | Title | Series |
 |------|-------|--------|
@@ -249,8 +249,6 @@ Teaching materials for the course live in [`lectures/`](lectures/) (syllabus + t
 | `Fairbank2016_Genetics_Darwin+Mendel` | Darwin's Influence on Mendel: Evidence from a New Translation of Mendel's Paper |  |
 | `Falk1993_Genetics_Morgan-GeneticControlDevelopment` | Morgan's Hypothesis of the Genetic Control of Development |  |
 | `Falk2010_Genetics_Mutagenesis-ResearchStrategy` | Mutagenesis as a Genetic Research Strategy |  |
-| `Feng2025_Nature_MendelsMissingTraits-Briefing` | Answers to a 160-Year-Old Riddle about the Genetics of Mendel's Pea Traits (Research Briefing) |  |
-| `Feng2025_Nature_MendelsMissingTraits-NV` | Century-Old Genetics Mystery of Mendel's Peas Finally Solved (News & Views) |  |
 | `Feschotte2026_NatRevGenet_TransposableElements-Innovation` | Transposable elements as catalysts of evolutionary innovation |  |
 | `Fischer2007_Genetics_MaxDelbruck` | Max Delbrück |  |
 | `Fitzgerald2019_PLoSgenet_WhatIsMutation` | What Is Mutation? Making Sense of Random and Non-Random Mutation |  |
@@ -293,7 +291,6 @@ Teaching materials for the course live in [`lectures/`](lectures/) (syllabus + t
 | `Kullo2026_NatRevGenet_PolygenicRiskScores-Clinical` | Clinical use of polygenic risk scores: current status, barriers and future directions |  |
 | `LanderBotstein1989_Churchill2016_GeneticsClassic` | Eric Lander and David Botstein on Mapping Quantitative Traits |  |
 | `Laurie1997_Genetics_Haldane+Heterogametic` | The Weaker Sex Is Heterogametic: 75 Years of HALDANE'S Rule |  |
-| `LD_Song2016_GeneticsClassic_LiStephens` | Na Li and Matthew Stephens on Modeling Linkage Disequilibrium |  |
 | `Lederberg1987_Genetics_EcoliRecombination` | Gene recombination and linked segregations in Escherichia coli |  |
 | `Lederberg1994_Genetics_AveryMacLeodMcCarty` | The Transformation of Genetics by DNA: An Anniversary Celebration of Avery, MacLeod and McCarty (1944) |  |
 | `Lenski2017_PLoSgenet_WhatIsAdaptation` | What Is Adaptation by Natural Selection? Perspectives of an Experimental Microbiologist |  |

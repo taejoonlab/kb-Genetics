@@ -9,6 +9,8 @@ type: class
 ## Citation (NLM)
 Song YS. Na Li and Matthew Stephens on Modeling Linkage Disequilibrium. Genetics. 2016;203(3):1005–1006. doi:10.1534/genetics.116.191817
 
+**Original paper:** Li N, Stephens M. Modeling linkage disequilibrium and identifying recombination hotspots using single-nucleotide polymorphism data. Genetics. 2003;165(4):2213-2233.
+
 **DOI:** [https://doi.org/10.1534/genetics.116.191817](https://doi.org/10.1534/genetics.116.191817)
 
 ---

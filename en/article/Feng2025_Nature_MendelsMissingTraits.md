@@ -11,6 +11,11 @@ Feng C, Chen B, Hofer J, et al. Genomic and genetic insights into Mendel's pea g
 
 **DOI:** [https://doi.org/10.1038/s41586-025-08891-6](https://doi.org/10.1038/s41586-025-08891-6)
 
+**Companion pieces in *Nature* about this study** — each carries its own DOI:
+
+- *Research Briefing* — Answers to a 160-year-old riddle about the genetics of Mendel's pea traits. Nature. 2025. PMID: 40269300 · [10.1038/d41586-025-01164-2](https://doi.org/10.1038/d41586-025-01164-2)
+- *News* — Heidt A. Century-old genetics mystery of Mendel's peas finally solved. Nature. 2025;641(8061):20. PMID: 40269308 · [10.1038/d41586-025-01269-8](https://doi.org/10.1038/d41586-025-01269-8)
+
 ---
 
 ## Summary
