@@ -10,7 +10,7 @@ type: lecture
 **언어:** [English](../../en/lectures/lec22_Model-Dog.md) · 한국어
 
 ## 학습 목표
-이 강의를 마치면 학생들은 다음을 할 수 있어야 합니다:
+이 강의를 마치면 다음을 할 수 있어야 한다:
 - 집개(*Canis familiaris*)가 왜 변이와 선택의 유전학을 위한 강력한 자연 모델인지 설명한다: 강한 인위선택(artificial selection), 품종 구조(breed structure), 그리고 한 종 안에 존재하는 극단적 형태 다양성.
 - 품종 형성이 어떻게 긴 연관 블록(linkage block)과 품종 내 다양성 감소를 만들어내며, 이것이 GWAS와 형질 유전자좌(trait locus) 지도 작성을 유난히 수월하게 만드는지 기술한다.
 - 개의 가축화(domestication)와 육종을 집단에서의 변이와 선택이라는 교재 주제와 연결한다.
@@ -161,7 +161,7 @@ flowchart TD
 - **Genetics: From Genes to Genomes (8e)** — 24장 Variation and Selection in Populations(가축화 및 형태). → [textbook ref](../../lectures/ref.Genetics-FromGenesToGenomes.md)
 
 ## 이 저장소의 노트
-수업에서 소개할 리뷰와 논문 (각각 en/ko 이중언어 쌍이 있음):
+이 강의와 함께 읽을 리뷰와 논문 (각각 en/ko 이중언어 쌍이 있음):
 - `Plassais2019_NatComm_DogGenomes+GWAS` — 형태 형질 GWAS를 포함한 대규모 다품종 개 유전체 데이터셋; 품종 간 지도 작성 부분의 핵심 자료. · [en](../../en/article/Plassais2019_NatComm_DogGenomes+GWAS.md) · [ko](../../ko/article/Plassais2019_NatComm_DogGenomes+GWAS.md)
 - `Plassais2022_CurrBiol_DogBodySize-NonCodingVariant` — 체구를 조절하는 비코딩 *IGF1* 연관 변이; 체구 사례 연구의 중심. · [en](../../en/article/Plassais2022_CurrBiol_DogBodySize-NonCodingVariant.md) · [ko](../../ko/article/Plassais2022_CurrBiol_DogBodySize-NonCodingVariant.md)
 - `Rimbault2013_GenomeRes_DogSizeReduction` — 개 체구의 극적인 감소를 이끈 유전자좌들; 큰 효과 유전자좌 논의에 활용. · [en](../../en/article/Rimbault2013_GenomeRes_DogSizeReduction.md) · [ko](../../ko/article/Rimbault2013_GenomeRes_DogSizeReduction.md)

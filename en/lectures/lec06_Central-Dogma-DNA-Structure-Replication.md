@@ -10,7 +10,7 @@ type: lecture
 **Languages:** English · [한국어](../../ko/lectures/lec06_Central-Dogma-DNA-Structure-Replication.md)
 
 ## Learning Objectives
-By the end of this lecture, students should be able to:
+By the end of this lecture you should be able to:
 - Summarize the experimental evidence that DNA, not protein, is the hereditary material (Avery–MacLeod–McCarty; Hershey–Chase).
 - Describe the Watson–Crick double helix and how base-pairing/antiparallel structure implies a copying mechanism.
 - Explain semiconservative replication and the roles of the core replication machinery (helicase, primase, polymerase, ligase; leading vs. lagging strand).
@@ -156,7 +156,7 @@ The complete TrpA amino-acid sequence (1967) and the *trpA* DNA sequence (1979) 
 - **Genetics: From Genes to Genomes (8e)** — Ch. 6 DNA Structure, Replication & Recombination; Ch. 9 Gene Expression (DNA→RNA→Protein). → [textbook ref](../../lectures/ref.Genetics-FromGenesToGenomes.md)
 
 ## Notes in this vault
-Reviews & articles to introduce in class (each has a bilingual en/ko pair):
+Papers to read alongside this lecture (each has a bilingual en/ko pair):
 - `Lederberg1994_Genetics_AveryMacLeodMcCarty` — Lederberg's appraisal of the Avery experiment that identified DNA as the transforming principle. · [en](../../en/review/Lederberg1994_Genetics_AveryMacLeodMcCarty.md) · [ko](../../ko/review/Lederberg1994_Genetics_AveryMacLeodMcCarty.md)
 - `Goldman2016_PLoSgenet_WhatIsGenome` — frames "what a genome is," useful for grounding the central-dogma / information view. · [en](../../en/review/Goldman2016_PLoSgenet_WhatIsGenome.md) · [ko](../../ko/review/Goldman2016_PLoSgenet_WhatIsGenome.md)
 - `Yanofsky2005_Genetics_TryptophanSynthase-OneGeneOneEnzyme` — colinearity of gene and protein; the molecular capstone of one-gene–one-enzyme. · [en](../../en/review/Yanofsky2005_Genetics_TryptophanSynthase-OneGeneOneEnzyme.md) · [ko](../../ko/review/Yanofsky2005_Genetics_TryptophanSynthase-OneGeneOneEnzyme.md)

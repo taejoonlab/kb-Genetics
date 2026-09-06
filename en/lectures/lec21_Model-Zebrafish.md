@@ -10,7 +10,7 @@ type: lecture
 **Languages:** English · [한국어](../../ko/lectures/lec21_Model-Zebrafish.md)
 
 ## Learning Objectives
-By the end of this lecture, students should be able to:
+By the end of this lecture you should be able to:
 - Explain why the zebrafish (*Danio rerio*) became a leading **vertebrate** genetic model — external fertilization, optically transparent embryos, rapid development, and high fecundity.
 - Describe how large-scale ENU and insertional mutagenesis screens identified genes essential for vertebrate development, and how they differ in throughput and gene-cloning ease.
 - Compare the zebrafish saturation-screen strategy with the invertebrate screens (*C. elegans*, *Drosophila*) covered in prior lectures.
@@ -115,7 +115,7 @@ These tools make the zebrafish a serious **model of human genetic disease** (Pen
 - **Genetics: From Genes to Genomes (8e)** — Ch. 8 Using Mutations to Study Genes; Ch. 22 Genetic Analysis of Development (forward screens & development in a vertebrate model). → [textbook ref](../../lectures/ref.Genetics-FromGenesToGenomes.md)
 
 ## Notes in this vault
-Reviews & articles to introduce in class (each has a bilingual en/ko pair):
+Papers to read alongside this lecture (each has a bilingual en/ko pair):
 - `Bonini2017_Genetics_ModelOrganism` — general case for why model organisms drive genetic discovery; use to frame zebrafish alongside worm, fly, and mouse (optional mention). · [en](../../en/review/Bonini2017_Genetics_ModelOrganism.md) · [ko](../../ko/review/Bonini2017_Genetics_ModelOrganism.md)
 
 ## Additional reading (PubMed)

@@ -10,7 +10,7 @@ type: lecture
 **Languages:** English · [한국어](../../ko/lectures/lec07_Recombination-Linkage.md)
 
 ## Learning Objectives
-By the end of this lecture, students should be able to:
+By the end of this lecture you should be able to:
 - Distinguish linked from independently assorting genes and interpret recombination frequency as a genetic distance.
 - Build a genetic map from two- and three-point cross data, including interference.
 - Explain the molecular basis of meiotic recombination (crossing over, double-strand-break repair) and where crossovers occur (hotspots).
@@ -185,7 +185,7 @@ The Z > 3 rule looks strict, but with a ~5% prior on synteny it makes most "sign
 - **Genetics: From Genes to Genomes (8e)** — Ch. 5 Linkage, Recombination & Gene Mapping; Ch. 6 DNA Structure, Replication & Recombination. → [textbook ref](../../lectures/ref.Genetics-FromGenesToGenomes.md)
 
 ## Notes in this vault
-Reviews & articles to introduce in class (each has a bilingual en/ko pair):
+Papers to read alongside this lecture (each has a bilingual en/ko pair):
 - `Singh2013_Heil2013_GeneticsPrimer_Recombination` — a teaching primer on recombination; good scaffold for the mechanism segment. · [en](../../en/review/Singh2013_Heil2013_GeneticsPrimer_Recombination.md) · [ko](../../ko/review/Singh2013_Heil2013_GeneticsPrimer_Recombination.md)
 - `Hey2004_PLoSBiol_RecombinationHotspots` — accessible introduction to why recombination clusters into hotspots. · [en](../../en/review/Hey2004_PLoSBiol_RecombinationHotspots.md) · [ko](../../ko/review/Hey2004_PLoSBiol_RecombinationHotspots.md)
 - `Paigen2010_NatRevGenet_RecombinationHotspots-Mammals` — mammalian hotspots and their genetic control (PRDM9). · [en](../../en/review/Paigen2010_NatRevGenet_RecombinationHotspots-Mammals.md) · [ko](../../ko/review/Paigen2010_NatRevGenet_RecombinationHotspots-Mammals.md)

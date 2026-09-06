@@ -10,7 +10,7 @@ type: lecture
 **Languages:** English · [한국어](../../ko/lectures/lec14_Forward-Genetics.md)
 
 ## Learning Objectives
-By the end of this lecture, students should be able to:
+By the end of this lecture you should be able to:
 - Define forward genetics ("phenotype → gene") and contrast it with reverse genetics.
 - Design a mutagenesis screen: mutagen choice, generations, and phenotype scoring.
 - Explain complementation and how mutants are grouped into genes.
@@ -171,7 +171,7 @@ The through-line for the course is that forward genetics answers *"which genes c
 - **Genetics: From Genes to Genomes (8e)** — Ch. 8 Using Mutations to Study Genes. → [textbook ref](../../lectures/ref.Genetics-FromGenesToGenomes.md)
 
 ## Notes in this vault
-Reviews & articles to introduce in class (each has a bilingual en/ko pair):
+Papers to read alongside this lecture (each has a bilingual en/ko pair):
 - `Bonini2017_Genetics_ModelOrganism` — Why model organisms make forward screens powerful; sets the stage. · [en](../../en/review/Bonini2017_Genetics_ModelOrganism.md) · [ko](../../ko/review/Bonini2017_Genetics_ModelOrganism.md)
 - `Hobert2010_Genetics_WholeGenomeSequencing` — WGS as the modern route from mutant to causal gene; the mapping segment. · [en](../../en/review/Hobert2010_Genetics_WholeGenomeSequencing.md) · [ko](../../ko/review/Hobert2010_Genetics_WholeGenomeSequencing.md)
 - `Nurse1980_Genetics_Wee+Spombe` — Classic *wee* screen in fission yeast; forward genetics dissecting cell-cycle control. · [en](../../en/article/Nurse1980_Genetics_Wee+Spombe.md) · [ko](../../ko/article/Nurse1980_Genetics_Wee+Spombe.md)

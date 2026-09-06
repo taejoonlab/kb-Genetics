@@ -10,7 +10,7 @@ type: lecture
 **언어:** [English](../../en/lectures/lec04_Extensions-to-Mendel.md) · 한국어
 
 ## 학습 목표
-이 강의를 마치면 학생들은 다음을 할 수 있어야 한다:
+이 강의를 마치면 다음을 할 수 있어야 한다:
 - 우성(dominance)과 열성(recessivity)을 대립유전자의 고유한 성질이 아니라 분자적/생화학적 수준에서 설명할 수 있다.
 - 불완전우성(incomplete dominance), 공동우성(codominance), 복대립유전자(multiple alleles), 치사대립유전자(lethal alleles)를 기술하고, 이들이 고전적 멘델 비율을 어떻게 변형시키는지 설명할 수 있다.
 - 다면발현(pleiotropy), 침투도(penetrance), 발현도(expressivity), 상위(epistasis)를 정의하고 각각의 예를 들 수 있다.
@@ -177,7 +177,7 @@ flowchart LR
 - **Genetics: From Genes to Genomes (8e)** — Ch. 2 Extensions to Mendel. → [교재 참고](../../lectures/ref.Genetics-FromGenesToGenomes.md)
 
 ## 이 저장소의 노트
-수업에서 소개할 리뷰와 논문(각각 en/ko 이중언어 쌍이 있음):
+이 강의와 함께 읽을 리뷰와 논문 (각각 en/ko 이중언어 쌍이 있음):
 - `Keightley1996_Genetics_Dominance-Recessivity` — 우성과 열성의 대사적/용량적 기반; 도입 절의 닻으로 삼는다. · [en](../../en/review/Keightley1996_Genetics_Dominance-Recessivity.md) · [ko](../../ko/review/Keightley1996_Genetics_Dominance-Recessivity.md)
 - `Zschocke2022_NatRevGenet_Mendel+Dominance` — 인간유전학에서 우성에 대한 현대적 재평가. · [en](../../en/review/Zschocke2022_NatRevGenet_Mendel+Dominance.md) · [ko](../../ko/review/Zschocke2022_NatRevGenet_Mendel+Dominance.md)
 - `Badano2002_NatRevGenet_BeyondMendel` — 소수유전자성 유전; 단일유전자에서 복합 형질로 넘어가는 다리. · [en](../../en/review/Badano2002_NatRevGenet_BeyondMendel.md) · [ko](../../ko/review/Badano2002_NatRevGenet_BeyondMendel.md)

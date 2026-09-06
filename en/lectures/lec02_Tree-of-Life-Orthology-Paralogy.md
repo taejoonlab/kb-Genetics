@@ -10,7 +10,7 @@ type: lecture
 **Languages:** English · [한국어](../../ko/lectures/lec02_Tree-of-Life-Orthology-Paralogy.md)
 
 ## Learning Objectives
-By the end of this lecture, students should be able to:
+By the end of this lecture you should be able to:
 - Read a phylogenetic tree correctly (nodes, branches, root, topology vs. branch length) and describe the tree of life concept and its limits (horizontal gene transfer, LUCA).
 - Distinguish homology, orthology, and paralogy, and explain why the distinction matters for functional inference and genome annotation.
 - Explain how trees are built and how node support is assessed with the bootstrap.
@@ -224,7 +224,7 @@ Phylogenetic thinking is not a niche topic — it is the connective tissue of ge
 - **Genetics: From Genes to Genomes (8e)** — Ch. 11 Genome Annotation. → [textbook ref](../../lectures/ref.Genetics-FromGenesToGenomes.md)
 
 ## Notes in this vault
-Reviews & articles to introduce in class (each has a bilingual en/ko pair):
+Papers to read alongside this lecture (each has a bilingual en/ko pair):
 - `Doolittle2016_PLoSGenet_TreeOfLife` — what "the tree of life" means and why HGT complicates it; frame the opening segment. · [en](../../en/review/Doolittle2016_PLoSGenet_TreeOfLife.md) · [ko](../../ko/review/Doolittle2016_PLoSGenet_TreeOfLife.md)
 - `Weiss2018_PLoSGenet_LastUniversal-CommonAncestor` — reconstructing LUCA's gene content; the root of the tree. · [en](../../en/article/Weiss2018_PLoSGenet_LastUniversal-CommonAncestor.md) · [ko](../../ko/article/Weiss2018_PLoSGenet_LastUniversal-CommonAncestor.md)
 - `Felsenstein1985_Evolution_Bootstrap-PhylogeneticTrees` — the founding paper introducing the bootstrap to phylogenetics. · [en](../../en/article/Felsenstein1985_Evolution_Bootstrap-PhylogeneticTrees.md) · [ko](../../ko/article/Felsenstein1985_Evolution_Bootstrap-PhylogeneticTrees.md)

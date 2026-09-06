@@ -10,7 +10,7 @@ type: lecture
 **Languages:** English · [한국어](../../ko/lectures/lec03_Mendel-Principles.md)
 
 ## Learning Objectives
-By the end of this lecture, students should be able to:
+By the end of this lecture you should be able to:
 - State Mendel's Law of Segregation and Law of Independent Assortment and connect them to the particulate theory of inheritance.
 - Predict monohybrid and dihybrid cross outcomes (3:1, 9:3:3:1) using Punnett squares and the product/sum rules.
 - Explain why Mendel's choice of pea, discrete traits, and quantitative counting made his experiments decisive.
@@ -204,7 +204,7 @@ flowchart LR
 - **Genetics: From Genes to Genomes (8e)** — Ch. 1 Mendel's Principles. → [textbook ref](../../lectures/ref.Genetics-FromGenesToGenomes.md)
 
 ## Notes in this vault
-Reviews & articles to introduce in class (each has a bilingual en/ko pair):
+Papers to read alongside this lecture (each has a bilingual en/ko pair):
 - `Abbott2016_Genetics_MendelHybridPaper` — close reading of Mendel's original hybrid paper. · [en](../../en/article/Abbott2016_Genetics_MendelHybridPaper.md) · [ko](../../ko/article/Abbott2016_Genetics_MendelHybridPaper.md)
 - `vanDijk2016_Genetics_MendelsGenetics` — what Mendel actually discovered vs. what was later attributed to him. · [en](../../en/review/vanDijk2016_Genetics_MendelsGenetics.md) · [ko](../../ko/review/vanDijk2016_Genetics_MendelsGenetics.md)
 - `vanDijk2022_NatGenet_MendelPerspective` — bicentennial perspective on Mendel's legacy. · [en](../../en/review/vanDijk2022_NatGenet_MendelPerspective.md) · [ko](../../ko/review/vanDijk2022_NatGenet_MendelPerspective.md)

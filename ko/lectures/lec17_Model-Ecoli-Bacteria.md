@@ -10,7 +10,7 @@ type: lecture
 **언어:** [English](../../en/lectures/lec17_Model-Ecoli-Bacteria.md) · 한국어
 
 ## 학습 목표
-이 강의를 마치면 학생들은 다음을 할 수 있어야 한다:
+이 강의를 마치면 다음을 할 수 있어야 한다:
 - *E. coli*와 그 파지(phage)가 왜 분자유전학의 일꾼(workhorse)이 되었는지 설명한다(빠른 성장, 반수체 유전체, 쉬운 선택).
 - 세균에서의 수평적 유전자 전달(horizontal gene transfer)의 세 가지 방식 — 접합(conjugation), 형질도입(transduction), 형질전환(transformation) — 을 구분한다.
 - 접합과 중단 교배 지도작성(interrupted-mating mapping)이 어떻게 원형 *E. coli* 염색체를 밝혔는지 기술한다.
@@ -149,7 +149,7 @@ flowchart LR
 - **Genetics: From Genes to Genomes (8e)** — Ch. 16 Bacterial Genetics. → [textbook ref](../../lectures/ref.Genetics-FromGenesToGenomes.md)
 
 ## 이 저장소의 노트
-수업에서 소개할 리뷰와 논문 (각각 en/ko 이중언어 쌍이 있음):
+이 강의와 함께 읽을 리뷰와 논문 (각각 en/ko 이중언어 쌍이 있음):
 - `Lederberg1987_Genetics_EcoliRecombination` — *E. coli*에서 재조합/접합을 발견한 일인칭 기록; 염색체 지도작성 이야기의 닻. · [en](../../en/review/Lederberg1987_Genetics_EcoliRecombination.md) · [ko](../../ko/review/Lederberg1987_Genetics_EcoliRecombination.md)
 - `LuriaDelbruck1943_Genetics_VirusResistance` — 요동 검정; 돌연변이는 자발적이며 선택 이전에 존재한다 — 창시적 정량 실험. · [en](../../en/article/LuriaDelbruck1943_Genetics_VirusResistance.md) · [ko](../../ko/article/LuriaDelbruck1943_Genetics_VirusResistance.md)
 - `Zinder1992_Genetics_BacterialTransduction` — 형질도입의 발견; 지도작성을 위한 파지 매개 유전자 전달을 소개. · [en](../../en/review/Zinder1992_Genetics_BacterialTransduction.md) · [ko](../../ko/review/Zinder1992_Genetics_BacterialTransduction.md)

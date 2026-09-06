@@ -10,7 +10,7 @@ type: lecture
 **언어:** [English](../../en/lectures/lec23_Human-Cancer.md) · 한국어
 
 ## 학습 목표
-이 강의를 마치면 학생들은 다음을 할 수 있어야 합니다:
+이 강의를 마치면 다음을 할 수 있어야 한다:
 - 암을 돌연변이의 단계적 축적을 통해 발생하는 체세포의 유전질환으로 설명한다(다단계/클론 진화 모델).
 - 종양유전자(oncogene, 기능획득형, 우성)와 종양억제유전자(tumor-suppressor gene, 기능상실형, 세포 수준에서 열성)를 구분하고, Knudson의 2회 타격 가설(two-hit hypothesis)을 유전성 암과 산발성 암에 적용한다.
 - 운전자(driver) 돌연변이가 승객(passenger) 돌연변이와 어떻게 구분되는지, 그리고 왜 정상 조직에서도 체세포 돌연변이가 축적되는지 기술한다.
@@ -165,7 +165,7 @@ Oliver et al.(2025)의 *NF1* 연구가 이를 구체화하며 Knudson을 직접 
 - **Genetics: From Genes to Genomes (8e)** — 23장 The Genetics of Cancer. → [textbook ref](../../lectures/ref.Genetics-FromGenesToGenomes.md)
 
 ## 이 저장소의 노트
-수업에서 소개할 리뷰와 논문 (각각 en/ko 이중언어 쌍이 있음):
+이 강의와 함께 읽을 리뷰와 논문 (각각 en/ko 이중언어 쌍이 있음):
 - `Oliver2025_NatGenet_SomaticMutation-CancerIndependent` — 체세포 돌연변이는 암과 무관하게 정상 조직에서 축적된다; "운전자 대 승객" 및 노화 논의를 정교하게 다듬는 데 활용. · [en](../../en/article/Oliver2025_NatGenet_SomaticMutation-CancerIndependent.md) · [ko](../../ko/article/Oliver2025_NatGenet_SomaticMutation-CancerIndependent.md)
 - `Schwartz2017_NatRevGenet_EvolutionTumour-PhylogeneticsPrinciples` — 계통발생학적 원리를 종양 진화에 적용; "진화하는 집단으로서의 암" 부분의 핵심 자료. · [en](../../en/review/Schwartz2017_NatRevGenet_EvolutionTumour-PhylogeneticsPrinciples.md) · [ko](../../ko/review/Schwartz2017_NatRevGenet_EvolutionTumour-PhylogeneticsPrinciples.md)
 - `Gould2009_Genetics_ComparativeGenetics-BreastCancer` — 유방암의 비교유전학; 산발성 종양 유전학과 유전성 소인을 잇는다. · [en](../../en/review/Gould2009_Genetics_ComparativeGenetics-BreastCancer.md) · [ko](../../ko/review/Gould2009_Genetics_ComparativeGenetics-BreastCancer.md)

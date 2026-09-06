@@ -10,7 +10,7 @@ type: lecture
 **언어:** [English](../../en/lectures/lec19_Model-Fruitfly.md) · 한국어
 
 ## 학습 목표
-이 강의를 마치면 학생들은 다음을 할 수 있어야 합니다:
+이 강의를 마치면 다음을 할 수 있어야 한다:
 - *초파리(Drosophila melanogaster)*가 어떻게 염색체 유전학과 발생 유전학의 시조 모델이 되었는지 설명한다.
 - 모건(Morgan) 그룹이 *초파리*(white 유전자, 비분리(nondisjunction))를 이용해 유전의 염색체설(chromosome theory of heredity)을 증명하고 최초의 유전자 지도를 만든 과정을 추적한다.
 - 감수분열 돌연변이체와 지도작성 도구가 어떻게 재조합(recombination)과 유전자 순서를 확립했는지 기술한다.
@@ -162,7 +162,7 @@ flowchart TD
 - **Genetics: From Genes to Genomes (8e)** — Ch. 22 Genetic Analysis of Development. → [textbook ref](../../lectures/ref.Genetics-FromGenesToGenomes.md)
 
 ## 이 저장소의 노트
-수업에서 소개할 리뷰 및 논문(각각 en/ko 이중 언어 쌍이 있음):
+이 강의와 함께 읽을 리뷰와 논문 (각각 en/ko 이중언어 쌍이 있음):
 - `Bridges1916_Genetics_NonDisjunction-SexChromosome` — 브리지스의 비분리 연구; 염색체설의 물리적 증거. · [en](../../en/article/Bridges1916_Genetics_NonDisjunction-SexChromosome.md) · [ko](../../ko/article/Bridges1916_Genetics_NonDisjunction-SexChromosome.md)
 - `Green2010_Genetics_WhiteGene-DrosophilaCentury` — *white* 유전자의 한 세기; 상징적인 *초파리* 유전자좌. · [en](../../en/review/Green2010_Genetics_WhiteGene-DrosophilaCentury.md) · [ko](../../ko/review/Green2010_Genetics_WhiteGene-DrosophilaCentury.md)
 - `Denell1994_Genetics_AntennapediaComplex` — 안테나페디아 복합체의 역사와 유전학; 정체성의 호메오틱 조절. · [en](../../en/review/Denell1994_Genetics_AntennapediaComplex.md) · [ko](../../ko/review/Denell1994_Genetics_AntennapediaComplex.md)

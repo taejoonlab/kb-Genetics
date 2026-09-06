@@ -10,7 +10,7 @@ type: lecture
 **Languages:** English · [한국어](../../ko/lectures/lec23_Human-Cancer.md)
 
 ## Learning Objectives
-By the end of this lecture, students should be able to:
+By the end of this lecture you should be able to:
 - Explain cancer as a genetic disease of somatic cells that arises through the stepwise accumulation of mutations (the multistep/clonal-evolution model).
 - Distinguish oncogenes (gain-of-function, dominant) from tumor-suppressor genes (loss-of-function, recessive at the cell level), and apply Knudson's two-hit hypothesis to inherited vs. sporadic cancer.
 - Describe how driver mutations are separated from passenger mutations and why somatic mutations accumulate even in normal tissue.
@@ -165,7 +165,7 @@ The Oliver et al. (2025) *NF1* study makes this concrete and directly extends Kn
 - **Genetics: From Genes to Genomes (8e)** — Ch. 23 The Genetics of Cancer. → [textbook ref](../../lectures/ref.Genetics-FromGenesToGenomes.md)
 
 ## Notes in this vault
-Reviews & articles to introduce in class (each has a bilingual en/ko pair):
+Papers to read alongside this lecture (each has a bilingual en/ko pair):
 - `Oliver2025_NatGenet_SomaticMutation-CancerIndependent` — Somatic mutation accumulates in normal tissue independent of cancer; use to nuance the "driver vs. passenger" and aging discussion. · [en](../../en/article/Oliver2025_NatGenet_SomaticMutation-CancerIndependent.md) · [ko](../../ko/article/Oliver2025_NatGenet_SomaticMutation-CancerIndependent.md)
 - `Schwartz2017_NatRevGenet_EvolutionTumour-PhylogeneticsPrinciples` — Applies phylogenetic principles to tumor evolution; anchor for the "cancer as an evolving population" segment. · [en](../../en/review/Schwartz2017_NatRevGenet_EvolutionTumour-PhylogeneticsPrinciples.md) · [ko](../../ko/review/Schwartz2017_NatRevGenet_EvolutionTumour-PhylogeneticsPrinciples.md)
 - `Gould2009_Genetics_ComparativeGenetics-BreastCancer` — Comparative genetics of breast cancer; bridges sporadic tumor genetics with inherited predisposition. · [en](../../en/review/Gould2009_Genetics_ComparativeGenetics-BreastCancer.md) · [ko](../../ko/review/Gould2009_Genetics_ComparativeGenetics-BreastCancer.md)

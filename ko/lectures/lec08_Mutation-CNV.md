@@ -10,7 +10,7 @@ type: lecture
 **언어:** [English](../../en/lectures/lec08_Mutation-CNV.md) · 한국어
 
 ## 학습 목표
-이 강의를 마치면 학생들은 다음을 할 수 있어야 한다:
+이 강의를 마치면 다음을 할 수 있어야 한다:
 - 돌연변이를 정의하고, 분자적 유형(점, 삽입/결실, 구조적, 복제수)과 기능적 효과로 분류한다.
 - Luria–Delbrück 요동 검정(fluctuation test)과 그것이 돌연변이의 기원(기존 존재 대 유도)에 관해 무엇을 증명했는지 설명한다.
 - 주요 돌연변이유발(mutagenesis) 기작과 돌연변이가 어떻게 실험적이고 통제 가능한 변수가 되었는지 기술한다.
@@ -175,7 +175,7 @@ TE는 보통 **DNA 메틸화와 이질염색질(heterochromatin)**로 침묵되�
 - **Genetics: From Genes to Genomes (8e)** — Ch. 7 Mutation; Ch. 12 Analyzing Genomic Variation. → [textbook ref](../../lectures/ref.Genetics-FromGenesToGenomes.md)
 
 ## 이 저장소의 노트
-수업에서 소개할 리뷰 및 논문 (각각 en/ko 이중 언어 쌍이 있음):
+이 강의와 함께 읽을 리뷰와 논문 (각각 en/ko 이중언어 쌍이 있음):
 - `LuriaDelbruck1943_Genetics_VirusResistance` — 세균 돌연변이의 기원에 관한 원조 요동 검정 논문. · [en](../../en/article/LuriaDelbruck1943_Genetics_VirusResistance.md) · [ko](../../ko/article/LuriaDelbruck1943_Genetics_VirusResistance.md)
 - `LuriaDelbruck1943_Meneely2016_GeneticsClassic` — 1943년 실험을 교육에 쉽게 만든 Genetics "Classic" 논평. · [en](../../en/review/LuriaDelbruck1943_Meneely2016_GeneticsClassic.md) · [ko](../../ko/review/LuriaDelbruck1943_Meneely2016_GeneticsClassic.md)
 - `Sarkar1991_Genetics_LuriaDelbruck+Haldane` — Haldane의 관련 사고를 포함한 역사적/통계적 맥락. · [en](../../en/review/Sarkar1991_Genetics_LuriaDelbruck+Haldane.md) · [ko](../../ko/review/Sarkar1991_Genetics_LuriaDelbruck+Haldane.md)

@@ -10,7 +10,7 @@ type: lecture
 **Languages:** English · [한국어](../../ko/lectures/lec12_Complex-Traits-QTL.md)
 
 ## Learning Objectives
-By the end of this lecture, students should be able to:
+By the end of this lecture you should be able to:
 - Explain the polygenic (multiple-factor) model and how it reconciles Mendelian inheritance with continuous variation.
 - Partition phenotypic variance into genetic and environmental components and define broad- and narrow-sense heritability.
 - Describe the principle of QTL mapping — using marker–trait linkage to localize genes underlying quantitative traits.
@@ -189,7 +189,7 @@ This closes the arc of the lecture and points to what comes next. Linkage-based 
 - **Evolution: Making Sense of Life (4e)** — Ch. 7 Beyond Alleles: Quantitative Genetics. → [textbook ref](../../lectures/ref.Evolution-MakeSenseOfLife.md)
 
 ## Notes in this vault
-Reviews & articles to introduce in class (each has a bilingual en/ko pair):
+Papers to read alongside this lecture (each has a bilingual en/ko pair):
 - `LanderBotstein1989_Genetics_QTL` — The foundational interval-mapping paper; core of the QTL segment. · [en](../../en/article/LanderBotstein1989_Genetics_QTL.md) · [ko](../../ko/article/LanderBotstein1989_Genetics_QTL.md)
 - `LanderBotstein1989_Churchill2016_GeneticsClassic` — Classic-paper commentary putting Lander–Botstein in modern context. · [en](../../en/review/LanderBotstein1989_Churchill2016_GeneticsClassic.md) · [ko](../../ko/review/LanderBotstein1989_Churchill2016_GeneticsClassic.md)
 - `Barton2002_NatRevGenet_QTL` — Review of QTL concepts and the genetic architecture of quantitative traits. · [en](../../en/review/Barton2002_NatRevGenet_QTL.md) · [ko](../../ko/review/Barton2002_NatRevGenet_QTL.md)

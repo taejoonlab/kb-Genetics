@@ -10,7 +10,7 @@ type: lecture
 **Languages:** English · [한국어](../../ko/lectures/lec13_Genome-Annotation-Resources.md)
 
 ## Learning Objectives
-By the end of this lecture, students should be able to:
+By the end of this lecture you should be able to:
 - Define what a "genome" is and distinguish sequence, assembly, and annotation.
 - Explain how short reads are generated and mapped to a reference genome.
 - Describe how genes and functional elements are annotated (ab initio, homology, and evidence-based approaches).
@@ -182,7 +182,7 @@ The fixes are already reshaping genomics. **Long-read** technologies (PacBio SMR
 - **Genetics: From Genes to Genomes (8e)** — Ch. 10 Digital Analysis of DNA; Ch. 11 Genome Annotation. → [textbook ref](../../lectures/ref.Genetics-FromGenesToGenomes.md)
 
 ## Notes in this vault
-Reviews & articles to introduce in class (each has a bilingual en/ko pair):
+Papers to read alongside this lecture (each has a bilingual en/ko pair):
 - `Goldman2016_PLoSgenet_WhatIsGenome` — Framing piece: what we actually mean by "genome"; use to open the lecture. · [en](../../en/review/Goldman2016_PLoSgenet_WhatIsGenome.md) · [ko](../../ko/review/Goldman2016_PLoSgenet_WhatIsGenome.md)
 - `Hobert2010_Genetics_WholeGenomeSequencing` — Whole-genome sequencing as a routine tool; connects sequencing to gene identification. · [en](../../en/review/Hobert2010_Genetics_WholeGenomeSequencing.md) · [ko](../../ko/review/Hobert2010_Genetics_WholeGenomeSequencing.md)
 - `Shendure2016_Genetics_MassiveParallelGenetics` — Massively parallel sequencing/assays; the technology behind modern annotation. · [en](../../en/review/Shendure2016_Genetics_MassiveParallelGenetics.md) · [ko](../../ko/review/Shendure2016_Genetics_MassiveParallelGenetics.md)

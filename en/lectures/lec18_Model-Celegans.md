@@ -10,7 +10,7 @@ type: lecture
 **Languages:** English · [한국어](../../ko/lectures/lec18_Model-Celegans.md)
 
 ## Learning Objectives
-By the end of this lecture, students should be able to:
+By the end of this lecture you should be able to:
 - Explain why Sydney Brenner chose *C. elegans* and what features make it a premier metazoan genetic model (transparency, invariant cell lineage, hermaphroditic self-fertilization, short life cycle).
 - Describe the complete cell lineage and the connectome as foundational resources.
 - Outline how forward genetic screens in *C. elegans* identify genes controlling development, cell death, and behavior.
@@ -151,7 +151,7 @@ Brenner's bet — that a tiny, transparent, self-fertilizing nematode with a cou
 - **Genetics: From Genes to Genomes (8e)** — Ch. 8 Using Mutations to Study Genes; Ch. 22 Genetic Analysis of Development (model-organism context). → [textbook ref](../../lectures/ref.Genetics-FromGenesToGenomes.md)
 
 ## Notes in this vault
-Reviews & articles to introduce in class (each has a bilingual en/ko pair):
+Papers to read alongside this lecture (each has a bilingual en/ko pair):
 - `Brenner2009_Genetics_Celegans` — Brenner's own account of establishing *C. elegans*; the founding rationale for the model. · [en](../../en/review/Brenner2009_Genetics_Celegans.md) · [ko](../../ko/review/Brenner2009_Genetics_Celegans.md)
 - `GeneticsClassic_SydneyBrennder_Celegans` — Genetics "Classic" commentary on Brenner's seminal worm-genetics paper. · [en](../../en/review/GeneticsClassic_SydneyBrennder_Celegans.md) · [ko](../../ko/review/GeneticsClassic_SydneyBrennder_Celegans.md)
 - `Tsukamoto2017_Genetics_CelegansOocyeMaturation` — primary study of oocyte maturation control in the worm. · [en](../../en/article/Tsukamoto2017_Genetics_CelegansOocyeMaturation.md) · [ko](../../ko/article/Tsukamoto2017_Genetics_CelegansOocyeMaturation.md)

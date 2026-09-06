@@ -10,7 +10,7 @@ type: lecture
 **Languages:** English · [한국어](../../ko/lectures/lec10_Gene-Regulation-Epigenetics.md)
 
 ## Learning Objectives
-By the end of this lecture, students should be able to:
+By the end of this lecture you should be able to:
 - Contrast prokaryotic operon logic with the combinatorial, enhancer-driven regulation of eukaryotic genes.
 - Explain how transcription factors, enhancers, and super-enhancers control cell-type-specific transcription.
 - Describe how 3D genome organization (TADs, chromatin loops, Hi-C) links distant regulatory elements to their target promoters.
@@ -195,7 +195,7 @@ Finally, this regulatory/epigenetic machinery is what *creates* new cell types o
 - **Genetics: From Genes to Genomes (8e)** — Ch. 18 Gene Regulation in Prokaryotes; Ch. 19 Gene Regulation in Eukaryotes; Ch. 20 Epigenetics. → [textbook ref](../../lectures/ref.Genetics-FromGenesToGenomes.md)
 
 ## Notes in this vault
-Reviews & articles to introduce in class (each has a bilingual en/ko pair):
+Papers to read alongside this lecture (each has a bilingual en/ko pair):
 - `Spitz2012_NatRevGenet_TF-Enhancers` — Core review of transcription factors and enhancer function; anchor for the cis-regulation segment. · [en](../../en/review/Spitz2012_NatRevGenet_TF-Enhancers.md) · [ko](../../ko/review/Spitz2012_NatRevGenet_TF-Enhancers.md)
 - `Pott2015_NatGenet_SuperEnhancers` — Critical look at super-enhancers and what defines them; use to discuss cell-identity genes. · [en](../../en/review/Pott2015_NatGenet_SuperEnhancers.md) · [ko](../../ko/review/Pott2015_NatGenet_SuperEnhancers.md)
 - `Matharu2015_PLoSGenet_TAD-ChromatinLoops` — TADs and chromatin loops as the structural basis of enhancer–promoter regulation. · [en](../../en/review/Matharu2015_PLoSGenet_TAD-ChromatinLoops.md) · [ko](../../ko/review/Matharu2015_PLoSGenet_TAD-ChromatinLoops.md)

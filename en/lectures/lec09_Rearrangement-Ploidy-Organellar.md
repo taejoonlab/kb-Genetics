@@ -10,7 +10,7 @@ type: lecture
 **Languages:** English · [한국어](../../ko/lectures/lec09_Rearrangement-Ploidy-Organellar.md)
 
 ## Learning Objectives
-By the end of this lecture, students should be able to:
+By the end of this lecture you should be able to:
 - Classify the major chromosomal rearrangements (deletions, duplications, inversions, translocations) and predict their meiotic and phenotypic consequences.
 - Distinguish euploidy from aneuploidy and explain how nondisjunction generates aneuploids such as trisomies.
 - Compare autopolyploidy and allopolyploidy and evaluate the evolutionary advantages and costs of whole-genome duplication.
@@ -160,7 +160,7 @@ The second consequence follows from the many copies. A cell can carry a **mixtur
 - **Genetics: From Genes to Genomes (8e)** — Ch. 14 Chromosomal Rearrangements; Ch. 15 Ploidy; Ch. 17 Organellar Inheritance. → [textbook ref](../../lectures/ref.Genetics-FromGenesToGenomes.md)
 
 ## Notes in this vault
-Reviews & articles to introduce in class (each has a bilingual en/ko pair):
+Papers to read alongside this lecture (each has a bilingual en/ko pair):
 - `Comai2005_NatRevGenet_AdvantagesDisadvantages-BeingPolyploid` — Framework review for the trade-offs of polyploidy; anchor for the ploidy segment. · [en](../../en/review/Comai2005_NatRevGenet_AdvantagesDisadvantages-BeingPolyploid.md) · [ko](../../ko/review/Comai2005_NatRevGenet_AdvantagesDisadvantages-BeingPolyploid.md)
 - `Grendler2019_Development_WoundPolyploidy` — Somatic/developmental polyploidy induced by wounding — shows ploidy change as a physiological, not just germline, phenomenon. · [en](../../en/article/Grendler2019_Development_WoundPolyploidy.md) · [ko](../../ko/article/Grendler2019_Development_WoundPolyploidy.md)
 - `Gartler2006_NatRevGenet_HumanChromosomeNumber` — History of establishing the human chromosome number; motivates why counting chromosomes (euploidy/aneuploidy) mattered. · [en](../../en/review/Gartler2006_NatRevGenet_HumanChromosomeNumber.md) · [ko](../../ko/review/Gartler2006_NatRevGenet_HumanChromosomeNumber.md)

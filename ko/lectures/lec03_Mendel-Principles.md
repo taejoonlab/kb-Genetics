@@ -10,7 +10,7 @@ type: lecture
 **언어:** [English](../../en/lectures/lec03_Mendel-Principles.md) · 한국어
 
 ## 학습 목표
-이 강의를 마치면 학생들은 다음을 할 수 있어야 한다:
+이 강의를 마치면 다음을 할 수 있어야 한다:
 - 멘델의 분리의 법칙(Law of Segregation)과 독립의 법칙(Law of Independent Assortment)을 진술하고, 이를 입자적 유전 이론에 연결한다.
 - 퍼넷 사각형(Punnett square)과 곱/합 법칙을 이용하여 단성잡종(monohybrid)과 양성잡종(dihybrid) 교배 결과(3:1, 9:3:3:1)를 예측한다.
 - 멘델의 완두 선택, 이산적 형질, 정량적 계수가 왜 그의 실험을 결정적으로 만들었는지 설명한다.
@@ -204,7 +204,7 @@ flowchart LR
 - **Genetics: From Genes to Genomes (8e)** — Ch. 1 Mendel's Principles. → [textbook ref](../../lectures/ref.Genetics-FromGenesToGenomes.md)
 
 ## 이 저장소의 노트
-수업에서 소개할 리뷰와 논문 (각각 en/ko 이중언어 쌍이 있음):
+이 강의와 함께 읽을 리뷰와 논문 (각각 en/ko 이중언어 쌍이 있음):
 - `Abbott2016_Genetics_MendelHybridPaper` — 멘델의 원래 잡종 논문에 대한 정밀 독해. · [en](../../en/article/Abbott2016_Genetics_MendelHybridPaper.md) · [ko](../../ko/article/Abbott2016_Genetics_MendelHybridPaper.md)
 - `vanDijk2016_Genetics_MendelsGenetics` — 멘델이 실제로 발견한 것 대 나중에 그에게 귀속된 것. · [en](../../en/review/vanDijk2016_Genetics_MendelsGenetics.md) · [ko](../../ko/review/vanDijk2016_Genetics_MendelsGenetics.md)
 - `vanDijk2022_NatGenet_MendelPerspective` — 멘델 유산에 대한 탄생 200주년 관점. · [en](../../en/review/vanDijk2022_NatGenet_MendelPerspective.md) · [ko](../../ko/review/vanDijk2022_NatGenet_MendelPerspective.md)

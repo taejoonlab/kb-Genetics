@@ -10,7 +10,7 @@ type: lecture
 **언어:** [English](../../en/lectures/lec21_Model-Zebrafish.md) · 한국어
 
 ## 학습 목표
-이 강의를 마치면 학생들은 다음을 할 수 있어야 합니다:
+이 강의를 마치면 다음을 할 수 있어야 한다:
 - 제브라피시(*Danio rerio*)가 왜 선도적인 **척추동물** 유전 모델이 되었는지 설명한다 — 체외 수정, 광학적으로 투명한 배아, 빠른 발생, 높은 다산성.
 - 대규모 ENU 및 삽입 돌연변이유발 스크리닝이 어떻게 척추동물 발생에 필수적인 유전자를 규명했는지, 그리고 처리량과 유전자 클로닝 용이성에서 어떻게 다른지 기술한다.
 - 제브라피시 포화 스크리닝 전략을 앞선 강의에서 다룬 무척추동물 스크리닝(*C. elegans*, *Drosophila*)과 비교한다.
@@ -115,7 +115,7 @@ flowchart LR
 - **Genetics: From Genes to Genomes (8e)** — Ch. 8 Using Mutations to Study Genes; Ch. 22 Genetic Analysis of Development (척추동물 모델에서의 순방향 스크리닝 및 발생). → [textbook ref](../../lectures/ref.Genetics-FromGenesToGenomes.md)
 
 ## 이 저장소의 노트
-수업에서 소개할 리뷰 및 논문(각각 en/ko 이중 언어 쌍이 있음):
+이 강의와 함께 읽을 리뷰와 논문 (각각 en/ko 이중언어 쌍이 있음):
 - `Bonini2017_Genetics_ModelOrganism` — 모델 생물이 유전적 발견을 이끄는 이유에 대한 일반적 논거; 제브라피시를 선충, 파리, 생쥐와 나란히 놓는 데 사용(선택적 언급). · [en](../../en/review/Bonini2017_Genetics_ModelOrganism.md) · [ko](../../ko/review/Bonini2017_Genetics_ModelOrganism.md)
 
 ## 추가 읽기 (PubMed)

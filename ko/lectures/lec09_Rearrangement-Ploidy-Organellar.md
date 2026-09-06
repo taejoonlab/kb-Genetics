@@ -10,7 +10,7 @@ type: lecture
 **언어:** [English](../../en/lectures/lec09_Rearrangement-Ploidy-Organellar.md) · 한국어
 
 ## 학습 목표
-이 강의를 마치면 학생들은 다음을 할 수 있어야 한다:
+이 강의를 마치면 다음을 할 수 있어야 한다:
 - 주요 염색체 재배열(결실, 중복, 역위, 전좌)을 분류하고 그 감수분열적·표현형적 결과를 예측한다.
 - 정배수성(euploidy)과 이수성(aneuploidy)을 구별하고, 비분리(nondisjunction)가 어떻게 삼염색체성(trisomy) 같은 이수체를 만드는지 설명한다.
 - 자가배수체(autopolyploidy)와 이질배수체(allopolyploidy)를 비교하고, 전장 유전체 중복(whole-genome duplication)의 진화적 이점과 대가를 평가한다.
@@ -160,7 +160,7 @@ flowchart TD
 - **Genetics: From Genes to Genomes (8e)** — Ch. 14 Chromosomal Rearrangements; Ch. 15 Ploidy; Ch. 17 Organellar Inheritance. → [textbook ref](../../lectures/ref.Genetics-FromGenesToGenomes.md)
 
 ## 이 저장소의 노트
-수업에서 소개할 리뷰 및 논문 (각각 en/ko 이중 언어 쌍이 있음):
+이 강의와 함께 읽을 리뷰와 논문 (각각 en/ko 이중언어 쌍이 있음):
 - `Comai2005_NatRevGenet_AdvantagesDisadvantages-BeingPolyploid` — 다배수성의 상충 관계를 다룬 틀 리뷰; 배수성 구간의 닻. · [en](../../en/review/Comai2005_NatRevGenet_AdvantagesDisadvantages-BeingPolyploid.md) · [ko](../../ko/review/Comai2005_NatRevGenet_AdvantagesDisadvantages-BeingPolyploid.md)
 - `Grendler2019_Development_WoundPolyploidy` — 상처로 유도되는 체세포적/발생적 다배수성 — 배수성 변화가 생식세포적일 뿐 아니라 생리적 현상임을 보인다. · [en](../../en/article/Grendler2019_Development_WoundPolyploidy.md) · [ko](../../ko/article/Grendler2019_Development_WoundPolyploidy.md)
 - `Gartler2006_NatRevGenet_HumanChromosomeNumber` — 사람 염색체 수 확립의 역사; 왜 염색체를 세는 것(정배수성/이수성)이 중요했는지 동기를 준다. · [en](../../en/review/Gartler2006_NatRevGenet_HumanChromosomeNumber.md) · [ko](../../ko/review/Gartler2006_NatRevGenet_HumanChromosomeNumber.md)

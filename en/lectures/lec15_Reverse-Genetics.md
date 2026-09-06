@@ -10,7 +10,7 @@ type: lecture
 **Languages:** English · [한국어](../../ko/lectures/lec15_Reverse-Genetics.md)
 
 ## Learning Objectives
-By the end of this lecture, students should be able to:
+By the end of this lecture you should be able to:
 - Define reverse genetics ("gene → phenotype") and contrast it with forward genetics.
 - Compare the main perturbation tools: knockouts, knock-ins, RNAi, and CRISPR/Cas.
 - Explain how CRISPR/Cas9 and dCas9 fusions enable targeted mutation, activation, and repression.
@@ -144,7 +144,7 @@ The synthesis for the course is that forward and reverse genetics are two direct
 - **Genetics: From Genes to Genomes (8e)** — Ch. 21 Manipulating the Genomes of Eukaryotes. → [textbook ref](../../lectures/ref.Genetics-FromGenesToGenomes.md)
 
 ## Notes in this vault
-Reviews & articles to introduce in class (each has a bilingual en/ko pair):
+Papers to read alongside this lecture (each has a bilingual en/ko pair):
 - `Kuhl2020_Genetics_dCas9+Ctf19+Recombination` — dCas9 fusion (Ctf19) to steer a locus-specific process; worked example of dCas9 beyond editing. · [en](../../en/article/Kuhl2020_Genetics_dCas9+Ctf19+Recombination.md) · [ko](../../ko/article/Kuhl2020_Genetics_dCas9+Ctf19+Recombination.md)
 - `Kuhl2020_Genetics_dCas9+Ctf19+Recombination-McVey2022primer` — Teaching primer for the dCas9/Ctf19 study; use to unpack the design. · [en](../../en/review/Kuhl2020_Genetics_dCas9+Ctf19+Recombination-McVey2022primer.md) · [ko](../../ko/review/Kuhl2020_Genetics_dCas9+Ctf19+Recombination-McVey2022primer.md)
 - `Polly2012_Stacio2012_GeneticsPrimer_LIN-35` — Primer illustrating targeted analysis of a defined gene (*lin-35*) in *C. elegans*. · [en](../../en/review/Polly2012_Stacio2012_GeneticsPrimer_LIN-35.md) · [ko](../../ko/review/Polly2012_Stacio2012_GeneticsPrimer_LIN-35.md)

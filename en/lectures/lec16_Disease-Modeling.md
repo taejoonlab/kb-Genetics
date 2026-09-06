@@ -10,7 +10,7 @@ type: lecture
 **Languages:** English · [한국어](../../ko/lectures/lec16_Disease-Modeling.md)
 
 ## Learning Objectives
-By the end of this lecture, students should be able to:
+By the end of this lecture you should be able to:
 - Explain why model organisms are used to study human disease and what makes a model valid.
 - Distinguish face, construct, and predictive validity of a disease model.
 - Describe how conserved genes and pathways allow disease modeling across species.
@@ -155,7 +155,7 @@ Disease modeling integrates everything in this course. **Reverse genetics** inst
 - **Genetics: From Genes to Genomes (8e)** — Ch. 22 Genetic Analysis of Development. → [textbook ref](../../lectures/ref.Genetics-FromGenesToGenomes.md)
 
 ## Notes in this vault
-Reviews & articles to introduce in class (each has a bilingual en/ko pair):
+Papers to read alongside this lecture (each has a bilingual en/ko pair):
 - `Bonini2017_Genetics_ModelOrganism` — The case for model organisms in understanding human disease; opens the lecture. · [en](../../en/review/Bonini2017_Genetics_ModelOrganism.md) · [ko](../../ko/review/Bonini2017_Genetics_ModelOrganism.md)
 - `Kankel2020_Genetics_Drosophila-ALS-modifier` — *Drosophila* modifier screen for ALS; central case study for disease modeling. · [en](../../en/article/Kankel2020_Genetics_Drosophila-ALS-modifier.md) · [ko](../../ko/article/Kankel2020_Genetics_Drosophila-ALS-modifier.md)
 - `Kankel2020_Genetics_Drosophila-ALS-modifier.Banerjee2020primer` — Teaching primer for the ALS modifier study; unpack the screen and its disease relevance. · [en](../../en/review/Kankel2020_Genetics_Drosophila-ALS-modifier.Banerjee2020primer.md) · [ko](../../ko/review/Kankel2020_Genetics_Drosophila-ALS-modifier.Banerjee2020primer.md)

@@ -10,7 +10,7 @@ type: lecture
 **Languages:** English · [한국어](../../ko/lectures/lec25_Human-GWAS.md)
 
 ## Learning Objectives
-By the end of this lecture, students should be able to:
+By the end of this lecture you should be able to:
 - Explain the logic of a GWAS: testing common SNPs genome-wide for association with a trait or disease, exploiting linkage disequilibrium (LD) as the reason a tag SNP can flag a causal variant.
 - Interpret a Manhattan plot and a QQ plot, and justify the genome-wide significance threshold (p < 5×10⁻⁸) and the need for genomic-control / population-structure correction.
 - Distinguish association from causation, and describe how Mendelian randomization (MR) uses genetic variants as instrumental variables to test causal exposure–outcome hypotheses.
@@ -203,7 +203,7 @@ MR predicted, *before the trials read out*, that HDL-raising drugs would fail to
 - **Genetics: From Genes to Genomes (8e)** — Ch. 25 Genetic Analysis of Complex Traits. → [textbook ref](../../lectures/ref.Genetics-FromGenesToGenomes.md)
 
 ## Notes in this vault
-Reviews & articles to introduce in class (each has a bilingual en/ko pair):
+Papers to read alongside this lecture (each has a bilingual en/ko pair):
 - `Uffelmann2021_NatRevMethodsPrimer_GWAS` — the primary how-GWAS-works primer; use its workflow figure as the backbone of segment 2. · [en](../../en/review/Uffelmann2021_NatRevMethodsPrimer_GWAS.md) · [ko](../../ko/review/Uffelmann2021_NatRevMethodsPrimer_GWAS.md)
 - `Pearson2008_JAMA_InterpretingGWAS` — how to read and critically interpret a GWAS result; good for the Manhattan/QQ discussion. · [en](../../en/review/Pearson2008_JAMA_InterpretingGWAS.md) · [ko](../../ko/review/Pearson2008_JAMA_InterpretingGWAS.md)
 - `WTCCC2007_Nature` — the landmark 7-disease Wellcome Trust study that set the QC and significance conventions still in use. · [en](../../en/article/WTCCC2007_Nature.md) · [ko](../../ko/article/WTCCC2007_Nature.md)

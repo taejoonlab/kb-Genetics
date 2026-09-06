@@ -10,7 +10,7 @@ type: lecture
 **Languages:** English · [한국어](../../ko/lectures/lec19_Model-Fruitfly.md)
 
 ## Learning Objectives
-By the end of this lecture, students should be able to:
+By the end of this lecture you should be able to:
 - Explain why *Drosophila melanogaster* became the founding model for chromosomal and developmental genetics.
 - Trace how the Morgan group used *Drosophila* (white gene, nondisjunction) to prove the chromosome theory of heredity and build the first genetic maps.
 - Describe how meiotic-mutant and mapping tools established recombination and gene order.
@@ -162,7 +162,7 @@ From a single white-eyed male in a milk bottle to genome-wide screens for ALS dr
 - **Genetics: From Genes to Genomes (8e)** — Ch. 22 Genetic Analysis of Development. → [textbook ref](../../lectures/ref.Genetics-FromGenesToGenomes.md)
 
 ## Notes in this vault
-Reviews & articles to introduce in class (each has a bilingual en/ko pair):
+Papers to read alongside this lecture (each has a bilingual en/ko pair):
 - `Bridges1916_Genetics_NonDisjunction-SexChromosome` — Bridges' nondisjunction study; physical proof of the chromosome theory. · [en](../../en/article/Bridges1916_Genetics_NonDisjunction-SexChromosome.md) · [ko](../../ko/article/Bridges1916_Genetics_NonDisjunction-SexChromosome.md)
 - `Green2010_Genetics_WhiteGene-DrosophilaCentury` — a century of the *white* gene; the emblematic *Drosophila* locus. · [en](../../en/review/Green2010_Genetics_WhiteGene-DrosophilaCentury.md) · [ko](../../ko/review/Green2010_Genetics_WhiteGene-DrosophilaCentury.md)
 - `Denell1994_Genetics_AntennapediaComplex` — history and genetics of the Antennapedia complex; homeotic control of identity. · [en](../../en/review/Denell1994_Genetics_AntennapediaComplex.md) · [ko](../../ko/review/Denell1994_Genetics_AntennapediaComplex.md)

@@ -10,7 +10,7 @@ type: lecture
 **Languages:** English · [한국어](../../ko/lectures/lec04_Extensions-to-Mendel.md)
 
 ## Learning Objectives
-By the end of this lecture, students should be able to:
+By the end of this lecture you should be able to:
 - Explain dominance and recessivity at the molecular/biochemical level rather than as intrinsic allele properties.
 - Describe incomplete dominance, codominance, multiple alleles, lethal alleles, and how they modify classic Mendelian ratios.
 - Define pleiotropy, penetrance, expressivity, and epistasis and give examples of each.
@@ -177,7 +177,7 @@ Every "extension" in this lecture still obeys Mendel's *mechanics* — alleles s
 - **Genetics: From Genes to Genomes (8e)** — Ch. 2 Extensions to Mendel. → [textbook ref](../../lectures/ref.Genetics-FromGenesToGenomes.md)
 
 ## Notes in this vault
-Reviews & articles to introduce in class (each has a bilingual en/ko pair):
+Papers to read alongside this lecture (each has a bilingual en/ko pair):
 - `Keightley1996_Genetics_Dominance-Recessivity` — the metabolic/dosage basis of dominance and recessivity; anchor the opening segment. · [en](../../en/review/Keightley1996_Genetics_Dominance-Recessivity.md) · [ko](../../ko/review/Keightley1996_Genetics_Dominance-Recessivity.md)
 - `Zschocke2022_NatRevGenet_Mendel+Dominance` — a modern reappraisal of dominance in human genetics. · [en](../../en/review/Zschocke2022_NatRevGenet_Mendel+Dominance.md) · [ko](../../ko/review/Zschocke2022_NatRevGenet_Mendel+Dominance.md)
 - `Badano2002_NatRevGenet_BeyondMendel` — oligogenic inheritance; the bridge from single-gene to complex traits. · [en](../../en/review/Badano2002_NatRevGenet_BeyondMendel.md) · [ko](../../ko/review/Badano2002_NatRevGenet_BeyondMendel.md)

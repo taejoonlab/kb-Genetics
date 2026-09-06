@@ -10,7 +10,7 @@ type: lecture
 **Languages:** English · [한국어](../../ko/lectures/lec01_Evolutionary-Ideas.md)
 
 ## Learning Objectives
-By the end of this lecture, students should be able to:
+By the end of this lecture you should be able to:
 - Explain how pre-Darwinian ideas of heredity (blending, pangenesis, use/disuse) framed the questions genetics later answered.
 - State the core logic of Darwin's theory: descent with modification by natural selection, and its dependence on heritable variation.
 - Describe why Darwin lacked a working theory of inheritance and how this "missing mechanism" limited his argument.
@@ -175,7 +175,7 @@ The lesson for a scientist is the distinction between the **context of discovery
 - **Genetics: From Genes to Genomes (8e)** — course introduction (front matter / Ch. 1 overview). → [textbook ref](../../lectures/ref.Genetics-FromGenesToGenomes.md)
 
 ## Notes in this vault
-Reviews & articles to introduce in class (each has a bilingual en/ko pair):
+Papers to read alongside this lecture (each has a bilingual en/ko pair):
 - `Cobb2006_NatRevGenet_HeredityBeforeGenetics` — pre-genetics theories of heredity; sets up why Darwin's model was incomplete. · [en](../../en/review/Cobb2006_NatRevGenet_HeredityBeforeGenetics.md) · [ko](../../ko/review/Cobb2006_NatRevGenet_HeredityBeforeGenetics.md)
 - `Charlesworth2009_Genetics_Perspective-DarwinGenetics` — Darwin's relationship to genetics and the inheritance problem he could not solve. · [en](../../en/review/Charlesworth2009_Genetics_Perspective-DarwinGenetics.md) · [ko](../../ko/review/Charlesworth2009_Genetics_Perspective-DarwinGenetics.md)
 - `Orr2009_Genetics_Darwin-SocialImplications` — social and historical reception of Darwin's ideas; use for the wrap-up discussion. · [en](../../en/review/Orr2009_Genetics_Darwin-SocialImplications.md) · [ko](../../ko/review/Orr2009_Genetics_Darwin-SocialImplications.md)

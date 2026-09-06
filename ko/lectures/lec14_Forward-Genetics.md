@@ -10,7 +10,7 @@ type: lecture
 **언어:** [English](../../en/lectures/lec14_Forward-Genetics.md) · 한국어
 
 ## 학습 목표
-이 강의를 마치면 학생은 다음을 할 수 있어야 한다:
+이 강의를 마치면 다음을 할 수 있어야 한다:
 - 순유전학(forward genetics, "표현형 → 유전자")을 정의하고 역유전학(reverse genetics)과 대비할 수 있다.
 - 돌연변이 유발 스크린을 설계할 수 있다: 돌연변이원 선택, 세대, 표현형 채점.
 - 상보성(complementation)과 돌연변이체를 유전자로 묶는 방법을 설명할 수 있다.
@@ -171,7 +171,7 @@ Kankel 등(2020)은 인간 질병에 대해 이 방법의 힘을 유전체 규�
 - **Genetics: From Genes to Genomes (8e)** — Ch. 8 Using Mutations to Study Genes. → [textbook ref](../../lectures/ref.Genetics-FromGenesToGenomes.md)
 
 ## 이 저장소의 노트
-수업에서 소개할 리뷰·논문(각각 en/ko 이중언어 쌍이 있음):
+이 강의와 함께 읽을 리뷰와 논문 (각각 en/ko 이중언어 쌍이 있음):
 - `Bonini2017_Genetics_ModelOrganism` — 왜 모델 생물이 순 스크린을 강력하게 만드는가; 무대를 마련. · [en](../../en/review/Bonini2017_Genetics_ModelOrganism.md) · [ko](../../ko/review/Bonini2017_Genetics_ModelOrganism.md)
 - `Hobert2010_Genetics_WholeGenomeSequencing` — 돌연변이체에서 원인 유전자로 가는 현대적 경로로서의 WGS; 지도화 부분. · [en](../../en/review/Hobert2010_Genetics_WholeGenomeSequencing.md) · [ko](../../ko/review/Hobert2010_Genetics_WholeGenomeSequencing.md)
 - `Nurse1980_Genetics_Wee+Spombe` — 분열효모의 고전적 *wee* 스크린; 세포 주기 조절을 해부하는 순유전학. · [en](../../en/article/Nurse1980_Genetics_Wee+Spombe.md) · [ko](../../ko/article/Nurse1980_Genetics_Wee+Spombe.md)

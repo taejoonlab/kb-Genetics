@@ -10,7 +10,7 @@ type: lecture
 **언어:** [English](../../en/lectures/lec12_Complex-Traits-QTL.md) · 한국어
 
 ## 학습 목표
-이 강의를 마치면 학생들은 다음을 할 수 있어야 한다:
+이 강의를 마치면 다음을 할 수 있어야 한다:
 - 다인자(multiple-factor) 모형과, 그것이 멘델 유전과 연속 변이를 어떻게 조화시키는지 설명할 수 있다.
 - 표현형 분산을 유전적 성분과 환경적 성분으로 분할하고, 광의 및 협의 유전율(heritability)을 정의할 수 있다.
 - QTL 지도화의 원리 — 표지–형질 연관을 사용하여 양적 형질의 기저 유전자를 국소화하는 것 — 을 기술할 수 있다.
@@ -189,7 +189,7 @@ QTL 사고는 분자 도구가 존재하기 훨씬 전부터 동물에서도 통
 - **Evolution: Making Sense of Life (4e)** — Ch. 7 Beyond Alleles: Quantitative Genetics. → [textbook ref](../../lectures/ref.Evolution-MakeSenseOfLife.md)
 
 ## 이 저장소의 노트
-수업에서 소개할 리뷰 및 논문(각각 en/ko 이중언어 쌍이 있음):
+이 강의와 함께 읽을 리뷰와 논문 (각각 en/ko 이중언어 쌍이 있음):
 - `LanderBotstein1989_Genetics_QTL` — 기초가 되는 구간 지도화 논문; QTL 부분의 핵심. · [en](../../en/article/LanderBotstein1989_Genetics_QTL.md) · [ko](../../ko/article/LanderBotstein1989_Genetics_QTL.md)
 - `LanderBotstein1989_Churchill2016_GeneticsClassic` — Lander–Botstein을 현대적 맥락에 놓는 고전 논문 논평. · [en](../../en/review/LanderBotstein1989_Churchill2016_GeneticsClassic.md) · [ko](../../ko/review/LanderBotstein1989_Churchill2016_GeneticsClassic.md)
 - `Barton2002_NatRevGenet_QTL` — QTL 개념과 양적 형질의 유전적 구조에 대한 리뷰. · [en](../../en/review/Barton2002_NatRevGenet_QTL.md) · [ko](../../ko/review/Barton2002_NatRevGenet_QTL.md)

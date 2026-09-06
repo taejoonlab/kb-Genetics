@@ -10,7 +10,7 @@ type: lecture
 **Languages:** English · [한국어](../../ko/lectures/lec11_Population-Variation.md)
 
 ## Learning Objectives
-By the end of this lecture, students should be able to:
+By the end of this lecture you should be able to:
 - State the Hardy–Weinberg principle, its assumptions, and use it to compute allele and genotype frequencies.
 - Explain how mutation, migration, drift, and selection perturb allele frequencies away from HWE.
 - Define effective population size and describe how it shapes levels of genetic variation.
@@ -168,7 +168,7 @@ The third topic is the **Human Genome Diversity Project (HGDP)** — the referen
 - **Evolution: Making Sense of Life (4e)** — Ch. 5 Raw Material: Heritable Variation; Ch. 6 The Ways of Change: Drift & Selection. → [textbook ref](../../lectures/ref.Evolution-MakeSenseOfLife.md)
 
 ## Notes in this vault
-Reviews & articles to introduce in class (each has a bilingual en/ko pair):
+Papers to read alongside this lecture (each has a bilingual en/ko pair):
 - `Hardy1908_Science_HardyWeinberg` — Hardy's original note; read as the primary source for the equilibrium principle. · [en](../../en/article/Hardy1908_Science_HardyWeinberg.md) · [ko](../../ko/article/Hardy1908_Science_HardyWeinberg.md)
 - `Edwards2008_Genetics_HWE` — Historical/conceptual perspective on Hardy–Weinberg; clarifies assumptions and priority. · [en](../../en/review/Edwards2008_Genetics_HWE.md) · [ko](../../ko/review/Edwards2008_Genetics_HWE.md)
 - `Hubby1966_Genetics_PopulationHeterogeneity1` — First of the classic Hubby–Lewontin pair quantifying molecular variation. · [en](../../en/article/Hubby1966_Genetics_PopulationHeterogeneity1.md) · [ko](../../ko/article/Hubby1966_Genetics_PopulationHeterogeneity1.md)

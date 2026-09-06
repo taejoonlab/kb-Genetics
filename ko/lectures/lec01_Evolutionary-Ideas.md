@@ -10,7 +10,7 @@ type: lecture
 **언어:** [English](../../en/lectures/lec01_Evolutionary-Ideas.md) · 한국어
 
 ## 학습 목표
-이 강의를 마치면 학생들은 다음을 할 수 있어야 한다:
+이 강의를 마치면 다음을 할 수 있어야 한다:
 - 다윈 이전의 유전 관념(혼합, 범생설, 용불용)이 훗날 유전학이 답하게 될 질문들을 어떻게 틀 지웠는지 설명한다.
 - 다윈 이론의 핵심 논리, 즉 자연선택에 의한 변화를 동반한 유래(descent with modification)와 그것이 유전 가능한 변이에 의존한다는 점을 진술한다.
 - 다윈이 왜 작동하는 유전 이론을 갖지 못했는지, 그리고 이 "빠진 메커니즘"이 그의 논증을 어떻게 제한했는지 기술한다.
@@ -175,7 +175,7 @@ flowchart TD
 - **Genetics: From Genes to Genomes (8e)** — 과목 소개 (front matter / Ch. 1 개관). → [textbook ref](../../lectures/ref.Genetics-FromGenesToGenomes.md)
 
 ## 이 저장소의 노트
-수업에서 소개할 리뷰와 논문 (각각 en/ko 이중언어 쌍이 있음):
+이 강의와 함께 읽을 리뷰와 논문 (각각 en/ko 이중언어 쌍이 있음):
 - `Cobb2006_NatRevGenet_HeredityBeforeGenetics` — 유전학 이전의 유전 이론들; 다윈의 모델이 왜 불완전했는지를 설정한다. · [en](../../en/review/Cobb2006_NatRevGenet_HeredityBeforeGenetics.md) · [ko](../../ko/review/Cobb2006_NatRevGenet_HeredityBeforeGenetics.md)
 - `Charlesworth2009_Genetics_Perspective-DarwinGenetics` — 유전학에 대한 다윈의 관계와 그가 풀 수 없었던 유전 문제. · [en](../../en/review/Charlesworth2009_Genetics_Perspective-DarwinGenetics.md) · [ko](../../ko/review/Charlesworth2009_Genetics_Perspective-DarwinGenetics.md)
 - `Orr2009_Genetics_Darwin-SocialImplications` — 다윈 관념의 사회적·역사적 수용; 마무리 토론에 활용. · [en](../../en/review/Orr2009_Genetics_Darwin-SocialImplications.md) · [ko](../../ko/review/Orr2009_Genetics_Darwin-SocialImplications.md)

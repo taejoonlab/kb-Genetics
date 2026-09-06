@@ -10,7 +10,7 @@ type: lecture
 **Languages:** English · [한국어](../../ko/lectures/lec20_Model-Mouse.md)
 
 ## Learning Objectives
-By the end of this lecture, students should be able to:
+By the end of this lecture you should be able to:
 - Explain why the mouse is the premier mammalian genetic model and its relevance to human biology and disease.
 - Describe the classical mouse-genetics toolkit: inbred strains, coat-color and morphological mutants, and early linkage/QTL mapping.
 - Explain how molecular genetics transformed the mouse (transgenesis, ES cells, gene targeting/knockouts).
@@ -133,7 +133,7 @@ The mouse earns its place as the premier mammalian model by uniting three eras: 
 - **Genetics: From Genes to Genomes (8e)** — Ch. 22 Genetic Analysis of Development; Ch. 21 Manipulating the Genomes of Eukaryotes. → [textbook ref](../../lectures/ref.Genetics-FromGenesToGenomes.md)
 
 ## Notes in this vault
-Reviews & articles to introduce in class (each has a bilingual en/ko pair):
+Papers to read alongside this lecture (each has a bilingual en/ko pair):
 - `Dove1987_Genetics_MouseMolecularGenetics` — overview of the molecular-genetics transformation of the mouse model. · [en](../../en/review/Dove1987_Genetics_MouseMolecularGenetics.md) · [ko](../../ko/review/Dove1987_Genetics_MouseMolecularGenetics.md)
 - `DunnCharles1937_Schimenti2016_GeneticsClassic_MouseQTL` — Genetics "Classic" on early mouse quantitative-trait analysis; bridges classical to QTL genetics. · [en](../../en/review/DunnCharles1937_Schimenti2016_GeneticsClassic_MouseQTL.md) · [ko](../../ko/review/DunnCharles1937_Schimenti2016_GeneticsClassic_MouseQTL.md)
 

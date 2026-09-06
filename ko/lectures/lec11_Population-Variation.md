@@ -10,7 +10,7 @@ type: lecture
 **언어:** [English](../../en/lectures/lec11_Population-Variation.md) · 한국어
 
 ## 학습 목표
-이 강의를 마치면 학생들은 다음을 할 수 있어야 한다:
+이 강의를 마치면 다음을 할 수 있어야 한다:
 - 하디–바인베르크(Hardy–Weinberg) 원리와 그 가정을 서술하고, 이를 사용해 대립유전자 및 유전자형 빈도를 계산할 수 있다.
 - 돌연변이, 이주, 부동(drift), 선택이 대립유전자 빈도를 HWE에서 어떻게 벗어나게 하는지 설명할 수 있다.
 - 유효 집단 크기(effective population size)를 정의하고, 그것이 유전 변이 수준을 어떻게 형성하는지 기술할 수 있다.
@@ -168,7 +168,7 @@ long ROH (>1-2 Mb)          -> RECENT inbreeding / consanguinity / bottleneck
 - **Evolution: Making Sense of Life (4e)** — Ch. 5 Raw Material: Heritable Variation; Ch. 6 The Ways of Change: Drift & Selection. → [textbook ref](../../lectures/ref.Evolution-MakeSenseOfLife.md)
 
 ## 이 저장소의 노트
-수업에서 소개할 리뷰 및 논문(각각 en/ko 이중언어 쌍이 있음):
+이 강의와 함께 읽을 리뷰와 논문 (각각 en/ko 이중언어 쌍이 있음):
 - `Hardy1908_Science_HardyWeinberg` — Hardy의 원저 노트; 평형 원리의 1차 문헌으로 읽음. · [en](../../en/article/Hardy1908_Science_HardyWeinberg.md) · [ko](../../ko/article/Hardy1908_Science_HardyWeinberg.md)
 - `Edwards2008_Genetics_HWE` — 하디–바인베르크에 대한 역사적/개념적 관점; 가정과 우선권을 명료화. · [en](../../en/review/Edwards2008_Genetics_HWE.md) · [ko](../../ko/review/Edwards2008_Genetics_HWE.md)
 - `Hubby1966_Genetics_PopulationHeterogeneity1` — 분자 변이를 정량화한 고전적 Hubby–Lewontin 쌍의 첫 편. · [en](../../en/article/Hubby1966_Genetics_PopulationHeterogeneity1.md) · [ko](../../ko/article/Hubby1966_Genetics_PopulationHeterogeneity1.md)

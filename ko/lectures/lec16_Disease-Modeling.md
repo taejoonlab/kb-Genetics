@@ -10,7 +10,7 @@ type: lecture
 **언어:** [English](../../en/lectures/lec16_Disease-Modeling.md) · 한국어
 
 ## 학습 목표
-이 강의를 마치면 학생들은 다음을 할 수 있어야 한다:
+이 강의를 마치면 다음을 할 수 있어야 한다:
 - 인간 질병을 연구하는 데 모델 생물(model organism)을 사용하는 이유와 무엇이 모델을 타당하게 만드는지 설명한다.
 - 질병 모델의 표면 타당도(face validity), 구성 타당도(construct validity), 예측 타당도(predictive validity)를 구분한다.
 - 보존된(conserved) 유전자와 경로가 어떻게 종을 넘나드는 질병 모델링을 가능하게 하는지 기술한다.
@@ -155,7 +155,7 @@ Bonini와 Berger가 지지하는 정직한 틀은 **증거의 위계(hierarchy o
 - **Genetics: From Genes to Genomes (8e)** — Ch. 22 Genetic Analysis of Development. → [textbook ref](../../lectures/ref.Genetics-FromGenesToGenomes.md)
 
 ## 이 저장소의 노트
-수업에서 소개할 리뷰와 논문 (각각 en/ko 이중언어 쌍이 있음):
+이 강의와 함께 읽을 리뷰와 논문 (각각 en/ko 이중언어 쌍이 있음):
 - `Bonini2017_Genetics_ModelOrganism` — 인간 질병 이해에서 모델 생물의 필요성; 강의를 여는 글. · [en](../../en/review/Bonini2017_Genetics_ModelOrganism.md) · [ko](../../ko/review/Bonini2017_Genetics_ModelOrganism.md)
 - `Kankel2020_Genetics_Drosophila-ALS-modifier` — ALS에 대한 *Drosophila* 변형자 스크리닝; 질병 모델링의 핵심 사례 연구. · [en](../../en/article/Kankel2020_Genetics_Drosophila-ALS-modifier.md) · [ko](../../ko/article/Kankel2020_Genetics_Drosophila-ALS-modifier.md)
 - `Kankel2020_Genetics_Drosophila-ALS-modifier.Banerjee2020primer` — ALS 변형자 연구를 위한 교육용 프라이머; 스크리닝과 그 질병 관련성을 풀어냄. · [en](../../en/review/Kankel2020_Genetics_Drosophila-ALS-modifier.Banerjee2020primer.md) · [ko](../../ko/review/Kankel2020_Genetics_Drosophila-ALS-modifier.Banerjee2020primer.md)

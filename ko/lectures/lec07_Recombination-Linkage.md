@@ -10,7 +10,7 @@ type: lecture
 **언어:** [English](../../en/lectures/lec07_Recombination-Linkage.md) · 한국어
 
 ## 학습 목표
-이 강의를 마치면 학생들은 다음을 할 수 있어야 한다:
+이 강의를 마치면 다음을 할 수 있어야 한다:
 - 연관된(linked) 유전자와 독립적으로 분리되는 유전자를 구별하고, 재조합 빈도를 유전적 거리로 해석한다.
 - 간섭(interference)을 포함하여 2점 및 3점 교배 자료로부터 유전자 지도를 작성한다.
 - 감수분열 재조합의 분자적 기초(교차, 이중가닥절단 복구)와 교차가 일어나는 위치(핫스폿)를 설명한다.
@@ -185,7 +185,7 @@ Z > 3 규칙은 엄격해 보이지만, ~5%의 신테니(synteny) 사전 확률�
 - **Genetics: From Genes to Genomes (8e)** — Ch. 5 Linkage, Recombination & Gene Mapping; Ch. 6 DNA Structure, Replication & Recombination. → [textbook ref](../../lectures/ref.Genetics-FromGenesToGenomes.md)
 
 ## 이 저장소의 노트
-수업에서 소개할 리뷰 및 논문 (각각 en/ko 이중 언어 쌍이 있음):
+이 강의와 함께 읽을 리뷰와 논문 (각각 en/ko 이중언어 쌍이 있음):
 - `Singh2013_Heil2013_GeneticsPrimer_Recombination` — 재조합에 관한 교육용 프라이머; 기작 구간의 좋은 골격. · [en](../../en/review/Singh2013_Heil2013_GeneticsPrimer_Recombination.md) · [ko](../../ko/review/Singh2013_Heil2013_GeneticsPrimer_Recombination.md)
 - `Hey2004_PLoSBiol_RecombinationHotspots` — 재조합이 왜 핫스폿으로 모이는지에 대한 쉬운 입문. · [en](../../en/review/Hey2004_PLoSBiol_RecombinationHotspots.md) · [ko](../../ko/review/Hey2004_PLoSBiol_RecombinationHotspots.md)
 - `Paigen2010_NatRevGenet_RecombinationHotspots-Mammals` — 포유류 핫스폿과 그 유전적 통제(PRDM9). · [en](../../en/review/Paigen2010_NatRevGenet_RecombinationHotspots-Mammals.md) · [ko](../../ko/review/Paigen2010_NatRevGenet_RecombinationHotspots-Mammals.md)

@@ -10,7 +10,7 @@ type: lecture
 **Languages:** English · [한국어](../../ko/lectures/lec24_Human-Dev-Metabolic-Disorder.md)
 
 ## Learning Objectives
-By the end of this lecture, students should be able to:
+By the end of this lecture you should be able to:
 - Explain how a single-gene defect in a metabolic enzyme produces disease, tracing the "one gene–one enzyme" logic from Garrod's inborn errors to modern inherited metabolic disorders.
 - Classify inborn errors of metabolism (intoxication, energy, and storage/complex-molecule groups) and explain the rationale for newborn screening (e.g., PKU).
 - Describe how developmental disorders arise from disruption of genes controlling embryonic development, including the major role of de novo mutations.
@@ -179,7 +179,7 @@ Clinically the field is moving from testing one gene at a time to **genome-based
 - **Genetics: From Genes to Genomes (8e)** — Ch. 22 Genetic Analysis of Development; Ch. 2 Extensions to Mendel (single-gene disorders context). → [textbook ref](../../lectures/ref.Genetics-FromGenesToGenomes.md)
 
 ## Notes in this vault
-Reviews & articles to introduce in class (each has a bilingual en/ko pair):
+Papers to read alongside this lecture (each has a bilingual en/ko pair):
 - `Yanofsky2005_Genetics_TryptophanSynthase-OneGeneOneEnzyme` — One gene–one enzyme and a metabolic pathway worked out in molecular detail; historical anchor for the metabolic-disorder logic. · [en](../../en/review/Yanofsky2005_Genetics_TryptophanSynthase-OneGeneOneEnzyme.md) · [ko](../../ko/review/Yanofsky2005_Genetics_TryptophanSynthase-OneGeneOneEnzyme.md)
 - `Horowitz1996_Genetics_BiochemGenetics` — History of biochemical genetics; sets up how enzyme deficiencies became understood as inherited disease. · [en](../../en/review/Horowitz1996_Genetics_BiochemGenetics.md) · [ko](../../ko/review/Horowitz1996_Genetics_BiochemGenetics.md)
 - `Makani2022_NatRevGenet_MendelianDisorder` — Sickle cell disease as a paradigm Mendelian disorder; genotype-to-phenotype and treatment trajectory. · [en](../../en/review/Makani2022_NatRevGenet_MendelianDisorder.md) · [ko](../../ko/review/Makani2022_NatRevGenet_MendelianDisorder.md)

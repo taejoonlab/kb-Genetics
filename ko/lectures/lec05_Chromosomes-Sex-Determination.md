@@ -10,7 +10,7 @@ type: lecture
 **언어:** [English](../../en/lectures/lec05_Chromosomes-Sex-Determination.md) · 한국어
 
 ## 학습 목표
-이 강의를 마치면 학생들은 다음을 할 수 있어야 한다:
+이 강의를 마치면 다음을 할 수 있어야 한다:
 - 유전의 염색체설(chromosome theory of heredity)을 설명하고 그것을 확립한 관찰적·유전학적 증거를 인용할 수 있다(Sutton, Boveri, Bridges).
 - 감수분열의 염색체 행동(분리, 독립조합)을 멘델 법칙과 연관지을 수 있다.
 - 비분리(nondisjunction)가 어떻게 이수성(aneuploidy)을 만드는지, 그리고 Bridges가 이를 사용하여 유전자가 염색체에 있음을 어떻게 증명했는지 기술할 수 있다.
@@ -174,7 +174,7 @@ Y 유전자를 잃으면 **용량 문제(dosage problem)**가 생긴다: 그렇�
 - **Genetics: From Genes to Genomes (8e)** — Ch. 3 Chromosomes & Inheritance; Ch. 4 Sex Chromosomes. → [교재 참고](../../lectures/ref.Genetics-FromGenesToGenomes.md)
 
 ## 이 저장소의 노트
-수업에서 소개할 리뷰와 논문(각각 en/ko 이중언어 쌍이 있음):
+이 강의와 함께 읽을 리뷰와 논문 (각각 en/ko 이중언어 쌍이 있음):
 - `Sutton1903_BiolBull_Chromosomes-Heredity` — 염색체를 멘델 유전의 물리적 기반으로 제안한 창시 논문. · [en](../../en/article/Sutton1903_BiolBull_Chromosomes-Heredity.md) · [ko](../../ko/article/Sutton1903_BiolBull_Chromosomes-Heredity.md)
 - `Hegreness2007_Genetics_Sutton+ChromosomeTheory` — Sutton이 염색체설을 어떻게 세웠는지에 대한 회고; 역사적 추론 토론에 좋음. · [en](../../en/review/Hegreness2007_Genetics_Sutton+ChromosomeTheory.md) · [ko](../../ko/review/Hegreness2007_Genetics_Sutton+ChromosomeTheory.md)
 - `Satzinger2008_NatRevGenet_Boveri-Chromosomes` — Boveri의 평행적 기여와 염색체의 개별성. · [en](../../en/review/Satzinger2008_NatRevGenet_Boveri-Chromosomes.md) · [ko](../../ko/review/Satzinger2008_NatRevGenet_Boveri-Chromosomes.md)

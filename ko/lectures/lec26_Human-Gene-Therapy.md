@@ -10,7 +10,7 @@ type: lecture
 **언어:** [English](../../en/lectures/lec26_Human-Gene-Therapy.md) · 한국어
 
 ## 학습 목표
-이 강의를 마치면 학생들은 다음을 할 수 있어야 한다:
+이 강의를 마치면 다음을 할 수 있어야 한다:
 - 유전자 치료를 정의하고 그 주요 양식을 구별한다: 유전자 추가(gene addition) 대 유전자 편집(gene editing), 생체 내(in vivo) 대 생체 외(ex vivo) 전달, 그리고 체세포(somatic) 대 생식세포(germline)(그리고 생식세포 편집이 왜 임상적으로 금지되는지).
 - 주요 전달 매개체(AAV, 렌티바이러스, 생체 외 HSC로의 CRISPR-Cas9 전기천공)를 비교하고, 각각을 질병 맥락(조직, 세포 유형, 일시적 대 영구적)에 대응시킨다.
 - 대조적인 두 획기적 임상시험 — 생체 내 AAV 유전자 전달(혈우병 B, RPE65 망막 이영양증)과 생체 외 CRISPR 편집(겸형적혈구병/β-지중해빈혈) — 을 추적하고, 각 설계가 왜 그 표적에 적합한지 설명한다.
@@ -159,7 +159,7 @@ flowchart TD
 - **Genetics: From Genes to Genomes (8e)** — 21장 진핵생물의 유전체 조작(Manipulating the Genomes of Eukaryotes). → [textbook ref](../../lectures/ref.Genetics-FromGenesToGenomes.md)
 
 ## 이 저장소의 노트
-수업에서 소개할 리뷰 및 논문(각각 en/ko 이중언어 쌍이 있음):
+이 강의와 함께 읽을 리뷰와 논문 (각각 en/ko 이중언어 쌍이 있음):
 - `Makani2022_NatRevGenet_MendelianDisorder` — 멘델 질환에서 완치를 향해 나아가는 겸형적혈구병; CRISPR 혈색소병증 사례를 설정한다. · [en](../../en/review/Makani2022_NatRevGenet_MendelianDisorder.md) · [ko](../../ko/review/Makani2022_NatRevGenet_MendelianDisorder.md)
 - `Kuhl2020_Genetics_dCas9+Ctf19+Recombination` — 프로그래밍 가능한 표적화 도구로서의 dCas9; 편집 화학을 치료적 편집과 연결한다. · [en](../../en/article/Kuhl2020_Genetics_dCas9+Ctf19+Recombination.md) · [ko](../../ko/article/Kuhl2020_Genetics_dCas9+Ctf19+Recombination.md)
 

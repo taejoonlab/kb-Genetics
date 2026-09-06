@@ -10,7 +10,7 @@ type: lecture
 **Languages:** English · [한국어](../../ko/lectures/lec05_Chromosomes-Sex-Determination.md)
 
 ## Learning Objectives
-By the end of this lecture, students should be able to:
+By the end of this lecture you should be able to:
 - Explain the chromosome theory of heredity and cite the observational and genetic evidence that established it (Sutton, Boveri, Bridges).
 - Relate meiotic chromosome behavior (segregation, independent assortment) to Mendel's laws.
 - Describe how nondisjunction produces aneuploidy and how Bridges used it to prove genes reside on chromosomes.
@@ -174,7 +174,7 @@ Finally, sex chromosomes tie back to **speciation**. **Haldane's Rule (1922)** s
 - **Genetics: From Genes to Genomes (8e)** — Ch. 3 Chromosomes & Inheritance; Ch. 4 Sex Chromosomes. → [textbook ref](../../lectures/ref.Genetics-FromGenesToGenomes.md)
 
 ## Notes in this vault
-Reviews & articles to introduce in class (each has a bilingual en/ko pair):
+Papers to read alongside this lecture (each has a bilingual en/ko pair):
 - `Sutton1903_BiolBull_Chromosomes-Heredity` — the founding paper proposing chromosomes as the physical basis of Mendelian heredity. · [en](../../en/article/Sutton1903_BiolBull_Chromosomes-Heredity.md) · [ko](../../ko/article/Sutton1903_BiolBull_Chromosomes-Heredity.md)
 - `Hegreness2007_Genetics_Sutton+ChromosomeTheory` — retrospective on how Sutton built the chromosome theory; good for the historical-reasoning discussion. · [en](../../en/review/Hegreness2007_Genetics_Sutton+ChromosomeTheory.md) · [ko](../../ko/review/Hegreness2007_Genetics_Sutton+ChromosomeTheory.md)
 - `Satzinger2008_NatRevGenet_Boveri-Chromosomes` — Boveri's parallel contribution and the individuality of chromosomes. · [en](../../en/review/Satzinger2008_NatRevGenet_Boveri-Chromosomes.md) · [ko](../../ko/review/Satzinger2008_NatRevGenet_Boveri-Chromosomes.md)

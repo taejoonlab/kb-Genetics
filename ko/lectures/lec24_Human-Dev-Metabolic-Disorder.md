@@ -10,7 +10,7 @@ type: lecture
 **언어:** [English](../../en/lectures/lec24_Human-Dev-Metabolic-Disorder.md) · 한국어
 
 ## 학습 목표
-이 강의를 마치면 학생들은 다음을 할 수 있어야 한다:
+이 강의를 마치면 다음을 할 수 있어야 한다:
 - 대사 효소의 단일 유전자 결함이 어떻게 질병을 일으키는지 설명하고, Garrod의 선천성 대사 이상에서 현대 유전성 대사 질환에 이르는 "1유전자–1효소(one gene–one enzyme)" 논리를 추적한다.
 - 선천성 대사 이상(inborn errors of metabolism)을 분류하고(중독형, 에너지대사형, 저장/복합분자형), PKU와 같은 신생아 선별검사(newborn screening)의 근거를 설명한다.
 - 배아 발달을 조절하는 유전자의 교란으로부터 발달 장애가 어떻게 발생하는지, 특히 신생 돌연변이(de novo mutation)의 주요 역할을 포함하여 설명한다.
@@ -179,7 +179,7 @@ flowchart LR
 - **Genetics: From Genes to Genomes (8e)** — 22장 Genetic Analysis of Development; 2장 Extensions to Mendel(단일유전자 질환의 맥락). → [textbook ref](../../lectures/ref.Genetics-FromGenesToGenomes.md)
 
 ## 이 저장소의 노트
-수업에서 소개할 리뷰 및 논문(각각 en/ko 이중언어 쌍이 있음):
+이 강의와 함께 읽을 리뷰와 논문 (각각 en/ko 이중언어 쌍이 있음):
 - `Yanofsky2005_Genetics_TryptophanSynthase-OneGeneOneEnzyme` — 1유전자–1효소와 하나의 대사 경로를 분자 수준에서 상세히 규명; 대사 질환 논리의 역사적 기준점. · [en](../../en/review/Yanofsky2005_Genetics_TryptophanSynthase-OneGeneOneEnzyme.md) · [ko](../../ko/review/Yanofsky2005_Genetics_TryptophanSynthase-OneGeneOneEnzyme.md)
 - `Horowitz1996_Genetics_BiochemGenetics` — 생화학 유전학의 역사; 효소 결핍이 어떻게 유전 질환으로 이해되었는지를 설정한다. · [en](../../en/review/Horowitz1996_Genetics_BiochemGenetics.md) · [ko](../../ko/review/Horowitz1996_Genetics_BiochemGenetics.md)
 - `Makani2022_NatRevGenet_MendelianDisorder` — 전형적 멘델 질환으로서의 겸형적혈구병; 유전자형–표현형과 치료의 궤적. · [en](../../en/review/Makani2022_NatRevGenet_MendelianDisorder.md) · [ko](../../ko/review/Makani2022_NatRevGenet_MendelianDisorder.md)

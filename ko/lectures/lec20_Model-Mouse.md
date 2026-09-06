@@ -10,7 +10,7 @@ type: lecture
 **언어:** [English](../../en/lectures/lec20_Model-Mouse.md) · 한국어
 
 ## 학습 목표
-이 강의를 마치면 학생들은 다음을 할 수 있어야 합니다:
+이 강의를 마치면 다음을 할 수 있어야 한다:
 - 생쥐가 왜 최고의 포유류 유전 모델인지, 그리고 인간 생물학 및 질병과의 관련성을 설명한다.
 - 고전적 생쥐 유전학 도구 세트를 기술한다: 근친교배 계통(inbred strain), 털색 및 형태 돌연변이체, 초기 연관/QTL 지도작성.
 - 분자유전학이 어떻게 생쥐를 변모시켰는지 설명한다(형질전환(transgenesis), 배아줄기세포(ES cell), 유전자 표적화/녹아웃).
@@ -133,7 +133,7 @@ flowchart LR
 - **Genetics: From Genes to Genomes (8e)** — Ch. 22 Genetic Analysis of Development; Ch. 21 Manipulating the Genomes of Eukaryotes. → [textbook ref](../../lectures/ref.Genetics-FromGenesToGenomes.md)
 
 ## 이 저장소의 노트
-수업에서 소개할 리뷰 및 논문(각각 en/ko 이중 언어 쌍이 있음):
+이 강의와 함께 읽을 리뷰와 논문 (각각 en/ko 이중언어 쌍이 있음):
 - `Dove1987_Genetics_MouseMolecularGenetics` — 생쥐 모델의 분자유전학적 변모에 대한 개관. · [en](../../en/review/Dove1987_Genetics_MouseMolecularGenetics.md) · [ko](../../ko/review/Dove1987_Genetics_MouseMolecularGenetics.md)
 - `DunnCharles1937_Schimenti2016_GeneticsClassic_MouseQTL` — 초기 생쥐 양적형질 분석에 관한 Genetics "Classic"; 고전 유전학과 QTL 유전학을 잇는다. · [en](../../en/review/DunnCharles1937_Schimenti2016_GeneticsClassic_MouseQTL.md) · [ko](../../ko/review/DunnCharles1937_Schimenti2016_GeneticsClassic_MouseQTL.md)
 

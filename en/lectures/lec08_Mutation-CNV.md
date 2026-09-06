@@ -10,7 +10,7 @@ type: lecture
 **Languages:** English · [한국어](../../ko/lectures/lec08_Mutation-CNV.md)
 
 ## Learning Objectives
-By the end of this lecture, students should be able to:
+By the end of this lecture you should be able to:
 - Define mutation and classify mutations by molecular type (point, indel, structural, copy-number) and by functional effect.
 - Explain the Luria–Delbrück fluctuation test and what it proved about the origin (pre-existing vs. induced) of mutations.
 - Describe major mutagenesis mechanisms and how mutation became an experimental, controllable variable.
@@ -175,7 +175,7 @@ TEs are normally silenced by **DNA methylation and heterochromatin**, but this c
 - **Genetics: From Genes to Genomes (8e)** — Ch. 7 Mutation; Ch. 12 Analyzing Genomic Variation. → [textbook ref](../../lectures/ref.Genetics-FromGenesToGenomes.md)
 
 ## Notes in this vault
-Reviews & articles to introduce in class (each has a bilingual en/ko pair):
+Papers to read alongside this lecture (each has a bilingual en/ko pair):
 - `LuriaDelbruck1943_Genetics_VirusResistance` — the original fluctuation-test paper on the origin of bacterial mutations. · [en](../../en/article/LuriaDelbruck1943_Genetics_VirusResistance.md) · [ko](../../ko/article/LuriaDelbruck1943_Genetics_VirusResistance.md)
 - `LuriaDelbruck1943_Meneely2016_GeneticsClassic` — Genetics "Classic" commentary making the 1943 experiment accessible for teaching. · [en](../../en/review/LuriaDelbruck1943_Meneely2016_GeneticsClassic.md) · [ko](../../ko/review/LuriaDelbruck1943_Meneely2016_GeneticsClassic.md)
 - `Sarkar1991_Genetics_LuriaDelbruck+Haldane` — historical/statistical context, including Haldane's related thinking on mutation. · [en](../../en/review/Sarkar1991_Genetics_LuriaDelbruck+Haldane.md) · [ko](../../ko/review/Sarkar1991_Genetics_LuriaDelbruck+Haldane.md)

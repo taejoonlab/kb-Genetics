@@ -10,7 +10,7 @@ type: lecture
 **언어:** [English](../../en/lectures/lec06_Central-Dogma-DNA-Structure-Replication.md) · 한국어
 
 ## 학습 목표
-이 강의를 마치면 학생들은 다음을 할 수 있어야 한다:
+이 강의를 마치면 다음을 할 수 있어야 한다:
 - 단백질이 아니라 DNA가 유전물질이라는 실험적 증거를 요약할 수 있다(Avery–MacLeod–McCarty; Hershey–Chase).
 - Watson–Crick 이중나선과, 염기쌍 형성/역평행 구조가 어떻게 복제 기전을 함축하는지 기술할 수 있다.
 - 반보존적 복제와 핵심 복제 기계장치(헬리케이스, 프라이메이스, 중합효소, 리가아제; 선도가닥 대 지연가닥)의 역할을 설명할 수 있다.
@@ -156,7 +156,7 @@ protein TrpA:   N ---aa'1--------aa'2----------aa'3-------aa'4---- C
 - **Genetics: From Genes to Genomes (8e)** — Ch. 6 DNA Structure, Replication & Recombination; Ch. 9 Gene Expression (DNA→RNA→Protein). → [교재 참고](../../lectures/ref.Genetics-FromGenesToGenomes.md)
 
 ## 이 저장소의 노트
-수업에서 소개할 리뷰와 논문(각각 en/ko 이중언어 쌍이 있음):
+이 강의와 함께 읽을 리뷰와 논문 (각각 en/ko 이중언어 쌍이 있음):
 - `Lederberg1994_Genetics_AveryMacLeodMcCarty` — DNA를 형질전환 원리로 규명한 Avery 실험에 대한 Lederberg의 평가. · [en](../../en/review/Lederberg1994_Genetics_AveryMacLeodMcCarty.md) · [ko](../../ko/review/Lederberg1994_Genetics_AveryMacLeodMcCarty.md)
 - `Goldman2016_PLoSgenet_WhatIsGenome` — "유전체란 무엇인가"를 규정; 중심원리/정보 관점을 다지는 데 유용. · [en](../../en/review/Goldman2016_PLoSgenet_WhatIsGenome.md) · [ko](../../ko/review/Goldman2016_PLoSgenet_WhatIsGenome.md)
 - `Yanofsky2005_Genetics_TryptophanSynthase-OneGeneOneEnzyme` — 유전자와 단백질의 공선성; 일유전자–일효소의 분자적 정점. · [en](../../en/review/Yanofsky2005_Genetics_TryptophanSynthase-OneGeneOneEnzyme.md) · [ko](../../ko/review/Yanofsky2005_Genetics_TryptophanSynthase-OneGeneOneEnzyme.md)

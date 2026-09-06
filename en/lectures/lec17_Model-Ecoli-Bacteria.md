@@ -10,7 +10,7 @@ type: lecture
 **Languages:** English · [한국어](../../ko/lectures/lec17_Model-Ecoli-Bacteria.md)
 
 ## Learning Objectives
-By the end of this lecture, students should be able to:
+By the end of this lecture you should be able to:
 - Explain why *E. coli* and its phages became the workhorse of molecular genetics (rapid growth, haploid genome, easy selection).
 - Distinguish the three modes of horizontal gene transfer in bacteria: conjugation, transduction, and transformation.
 - Describe how conjugation and interrupted-mating mapping revealed the circular *E. coli* chromosome.
@@ -149,7 +149,7 @@ In one lecture we went from proving that bacterial variation is genetic (Luria�
 - **Genetics: From Genes to Genomes (8e)** — Ch. 16 Bacterial Genetics. → [textbook ref](../../lectures/ref.Genetics-FromGenesToGenomes.md)
 
 ## Notes in this vault
-Reviews & articles to introduce in class (each has a bilingual en/ko pair):
+Papers to read alongside this lecture (each has a bilingual en/ko pair):
 - `Lederberg1987_Genetics_EcoliRecombination` — first-hand account of discovering recombination/conjugation in *E. coli*; anchors the chromosome-mapping story. · [en](../../en/review/Lederberg1987_Genetics_EcoliRecombination.md) · [ko](../../ko/review/Lederberg1987_Genetics_EcoliRecombination.md)
 - `LuriaDelbruck1943_Genetics_VirusResistance` — the fluctuation test; mutations are spontaneous and pre-selective — the founding quantitative experiment. · [en](../../en/article/LuriaDelbruck1943_Genetics_VirusResistance.md) · [ko](../../ko/article/LuriaDelbruck1943_Genetics_VirusResistance.md)
 - `Zinder1992_Genetics_BacterialTransduction` — discovery of transduction; introduces phage-mediated gene transfer for mapping. · [en](../../en/review/Zinder1992_Genetics_BacterialTransduction.md) · [ko](../../ko/review/Zinder1992_Genetics_BacterialTransduction.md)

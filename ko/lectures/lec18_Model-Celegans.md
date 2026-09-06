@@ -10,7 +10,7 @@ type: lecture
 **언어:** [English](../../en/lectures/lec18_Model-Celegans.md) · 한국어
 
 ## 학습 목표
-이 강의를 마치면 학생들은 다음을 할 수 있어야 한다:
+이 강의를 마치면 다음을 할 수 있어야 한다:
 - Sydney Brenner가 왜 *C. elegans*를 선택했는지, 그리고 어떤 특징이 그것을 최고의 후생동물(metazoan) 유전 모델로 만드는지(투명성, 불변 세포 계보, 자웅동체 자가수정, 짧은 생활사) 설명한다.
 - 완전한 세포 계보(cell lineage)와 연결체(connectome)를 기초 자원으로서 기술한다.
 - *C. elegans*에서의 정방향 유전 스크리닝이 어떻게 발생, 세포 사멸, 행동을 조절하는 유전자를 찾는지 개괄한다.
@@ -151,7 +151,7 @@ Brenner의 도박 — 셀 수 있는 세포 집합을 가진 작고 투명한 �
 - **Genetics: From Genes to Genomes (8e)** — Ch. 8 Using Mutations to Study Genes; Ch. 22 Genetic Analysis of Development (모델 생물 맥락). → [textbook ref](../../lectures/ref.Genetics-FromGenesToGenomes.md)
 
 ## 이 저장소의 노트
-수업에서 소개할 리뷰와 논문 (각각 en/ko 이중언어 쌍이 있음):
+이 강의와 함께 읽을 리뷰와 논문 (각각 en/ko 이중언어 쌍이 있음):
 - `Brenner2009_Genetics_Celegans` — *C. elegans*를 확립한 Brenner 자신의 기록; 이 모델의 창시적 근거. · [en](../../en/review/Brenner2009_Genetics_Celegans.md) · [ko](../../ko/review/Brenner2009_Genetics_Celegans.md)
 - `GeneticsClassic_SydneyBrennder_Celegans` — Brenner의 기념비적 벌레 유전학 논문에 대한 Genetics "Classic" 논평. · [en](../../en/review/GeneticsClassic_SydneyBrennder_Celegans.md) · [ko](../../ko/review/GeneticsClassic_SydneyBrennder_Celegans.md)
 - `Tsukamoto2017_Genetics_CelegansOocyeMaturation` — 벌레에서 난모세포 성숙 제어에 대한 원 연구. · [en](../../en/article/Tsukamoto2017_Genetics_CelegansOocyeMaturation.md) · [ko](../../ko/article/Tsukamoto2017_Genetics_CelegansOocyeMaturation.md)

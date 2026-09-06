@@ -10,7 +10,7 @@ type: lecture
 **언어:** [English](../../en/lectures/lec10_Gene-Regulation-Epigenetics.md) · 한국어
 
 ## 학습 목표
-이 강의를 마치면 학생들은 다음을 할 수 있어야 한다:
+이 강의를 마치면 다음을 할 수 있어야 한다:
 - 원핵생물의 오페론 논리와 진핵생물 유전자의 조합적(combinatorial)·인핸서(enhancer) 기반 조절을 대조할 수 있다.
 - 전사인자(transcription factor), 인핸서, 슈퍼인핸서(super-enhancer)가 세포 유형별 전사를 어떻게 제어하는지 설명할 수 있다.
 - 3차원 유전체 구조(TAD, 크로마틴 고리, Hi-C)가 멀리 떨어진 조절 요소를 표적 프로모터와 어떻게 연결하는지 기술할 수 있다.
@@ -195,7 +195,7 @@ flowchart TD
 - **Genetics: From Genes to Genomes (8e)** — Ch. 18 Gene Regulation in Prokaryotes; Ch. 19 Gene Regulation in Eukaryotes; Ch. 20 Epigenetics. → [textbook ref](../../lectures/ref.Genetics-FromGenesToGenomes.md)
 
 ## 이 저장소의 노트
-수업에서 소개할 리뷰 및 논문(각각 en/ko 이중언어 쌍이 있음):
+이 강의와 함께 읽을 리뷰와 논문 (각각 en/ko 이중언어 쌍이 있음):
 - `Spitz2012_NatRevGenet_TF-Enhancers` — 전사인자와 인핸서 기능에 대한 핵심 리뷰; 시스-조절 부분의 기준점. · [en](../../en/review/Spitz2012_NatRevGenet_TF-Enhancers.md) · [ko](../../ko/review/Spitz2012_NatRevGenet_TF-Enhancers.md)
 - `Pott2015_NatGenet_SuperEnhancers` — 슈퍼인핸서와 그 정의에 대한 비판적 검토; 세포 정체성 유전자 논의에 활용. · [en](../../en/review/Pott2015_NatGenet_SuperEnhancers.md) · [ko](../../ko/review/Pott2015_NatGenet_SuperEnhancers.md)
 - `Matharu2015_PLoSGenet_TAD-ChromatinLoops` — 인핸서–프로모터 조절의 구조적 기반으로서의 TAD와 크로마틴 고리. · [en](../../en/review/Matharu2015_PLoSGenet_TAD-ChromatinLoops.md) · [ko](../../ko/review/Matharu2015_PLoSGenet_TAD-ChromatinLoops.md)

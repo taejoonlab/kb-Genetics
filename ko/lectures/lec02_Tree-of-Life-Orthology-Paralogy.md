@@ -10,7 +10,7 @@ type: lecture
 **언어:** [English](../../en/lectures/lec02_Tree-of-Life-Orthology-Paralogy.md) · 한국어
 
 ## 학습 목표
-이 강의를 마치면 학생들은 다음을 할 수 있어야 한다:
+이 강의를 마치면 다음을 할 수 있어야 한다:
 - 계통수(phylogenetic tree)를 올바르게 읽고(노드, 가지, 뿌리, 위상 대 가지 길이), 생명의 나무 개념과 그 한계(수평 유전자 전달, LUCA)를 기술한다.
 - 상동성(homology), 오솔로지(orthology), 패럴로지(paralogy)를 구별하고, 그 구별이 왜 기능 추론과 게놈 주석에 중요한지 설명한다.
 - 나무가 어떻게 만들어지며 부트스트랩(bootstrap)으로 노드 지지도를 어떻게 평가하는지 설명한다.
@@ -224,7 +224,7 @@ flowchart LR
 - **Genetics: From Genes to Genomes (8e)** — Ch. 11 Genome Annotation. → [textbook ref](../../lectures/ref.Genetics-FromGenesToGenomes.md)
 
 ## 이 저장소의 노트
-수업에서 소개할 리뷰와 논문 (각각 en/ko 이중언어 쌍이 있음):
+이 강의와 함께 읽을 리뷰와 논문 (각각 en/ko 이중언어 쌍이 있음):
 - `Doolittle2016_PLoSGenet_TreeOfLife` — "생명의 나무"가 무엇을 뜻하며 왜 HGT가 그것을 복잡하게 하는가; 도입 단락의 틀. · [en](../../en/review/Doolittle2016_PLoSGenet_TreeOfLife.md) · [ko](../../ko/review/Doolittle2016_PLoSGenet_TreeOfLife.md)
 - `Weiss2018_PLoSGenet_LastUniversal-CommonAncestor` — LUCA의 유전자 구성 재구성; 나무의 뿌리. · [en](../../en/article/Weiss2018_PLoSGenet_LastUniversal-CommonAncestor.md) · [ko](../../ko/article/Weiss2018_PLoSGenet_LastUniversal-CommonAncestor.md)
 - `Felsenstein1985_Evolution_Bootstrap-PhylogeneticTrees` — 부트스트랩을 계통학에 도입한 창시 논문. · [en](../../en/article/Felsenstein1985_Evolution_Bootstrap-PhylogeneticTrees.md) · [ko](../../ko/article/Felsenstein1985_Evolution_Bootstrap-PhylogeneticTrees.md)

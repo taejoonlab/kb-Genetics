@@ -10,7 +10,7 @@ type: lecture
 **언어:** [English](../../en/lectures/lec13_Genome-Annotation-Resources.md) · 한국어
 
 ## 학습 목표
-이 강의를 마치면 학생은 다음을 할 수 있어야 한다:
+이 강의를 마치면 다음을 할 수 있어야 한다:
 - "유전체(genome)"가 무엇인지 정의하고, 서열(sequence)·어셈블리(assembly)·주석(annotation)을 구분할 수 있다.
 - 짧은 읽기(short read)가 어떻게 생성되어 참조 유전체(reference genome)에 정렬(mapping)되는지 설명할 수 있다.
 - 유전자와 기능 요소가 어떻게 주석되는지(ab initio, 상동성homology, 증거 기반 접근법) 기술할 수 있다.
@@ -182,7 +182,7 @@ Huddleston과 Eichler(2016)는 인간 **구조 변이(structural variation, SV)*
 - **Genetics: From Genes to Genomes (8e)** — Ch. 10 Digital Analysis of DNA; Ch. 11 Genome Annotation. → [textbook ref](../../lectures/ref.Genetics-FromGenesToGenomes.md)
 
 ## 이 저장소의 노트
-수업에서 소개할 리뷰·논문(각각 en/ko 이중언어 쌍이 있음):
+이 강의와 함께 읽을 리뷰와 논문 (각각 en/ko 이중언어 쌍이 있음):
 - `Goldman2016_PLoSgenet_WhatIsGenome` — 프레이밍 글: "유전체"가 실제로 무엇을 뜻하는가; 강의를 여는 데 사용. · [en](../../en/review/Goldman2016_PLoSgenet_WhatIsGenome.md) · [ko](../../ko/review/Goldman2016_PLoSgenet_WhatIsGenome.md)
 - `Hobert2010_Genetics_WholeGenomeSequencing` — 일상적 도구로서의 전장 유전체 시퀀싱; 시퀀싱을 유전자 동정과 연결. · [en](../../en/review/Hobert2010_Genetics_WholeGenomeSequencing.md) · [ko](../../ko/review/Hobert2010_Genetics_WholeGenomeSequencing.md)
 - `Shendure2016_Genetics_MassiveParallelGenetics` — 대량 병렬 시퀀싱/검정; 현대 주석의 배후 기술. · [en](../../en/review/Shendure2016_Genetics_MassiveParallelGenetics.md) · [ko](../../ko/review/Shendure2016_Genetics_MassiveParallelGenetics.md)

@@ -10,7 +10,7 @@ type: lecture
 **Languages:** English · [한국어](../../ko/lectures/lec26_Human-Gene-Therapy.md)
 
 ## Learning Objectives
-By the end of this lecture, students should be able to:
+By the end of this lecture you should be able to:
 - Define gene therapy and distinguish its major modalities: gene addition vs. gene editing, in vivo vs. ex vivo delivery, and somatic vs. germline (and why germline editing is off-limits clinically).
 - Compare the main delivery vehicles (AAV, lentivirus, electroporation of CRISPR-Cas9 into ex-vivo HSCs) and match each to disease context (tissue, cell type, transient vs. permanent).
 - Trace two contrasting landmark trials — in vivo AAV gene transfer (hemophilia B, RPE65 retinal dystrophy) and ex-vivo CRISPR editing (sickle cell/β-thalassemia) — and explain why each design fits its target.
@@ -159,7 +159,7 @@ The near-term frontier is **more precise, in vivo editing**. **Base editing** an
 - **Genetics: From Genes to Genomes (8e)** — Ch. 21 Manipulating the Genomes of Eukaryotes. → [textbook ref](../../lectures/ref.Genetics-FromGenesToGenomes.md)
 
 ## Notes in this vault
-Reviews & articles to introduce in class (each has a bilingual en/ko pair):
+Papers to read alongside this lecture (each has a bilingual en/ko pair):
 - `Makani2022_NatRevGenet_MendelianDisorder` — sickle cell disease from Mendelian disorder toward cure; sets up the CRISPR hemoglobinopathy case. · [en](../../en/review/Makani2022_NatRevGenet_MendelianDisorder.md) · [ko](../../ko/review/Makani2022_NatRevGenet_MendelianDisorder.md)
 - `Kuhl2020_Genetics_dCas9+Ctf19+Recombination` — dCas9 as a programmable targeting tool; connects the editing chemistry to therapeutic editing. · [en](../../en/article/Kuhl2020_Genetics_dCas9+Ctf19+Recombination.md) · [ko](../../ko/article/Kuhl2020_Genetics_dCas9+Ctf19+Recombination.md)
 

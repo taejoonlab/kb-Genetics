@@ -10,7 +10,7 @@ type: lecture
 **언어:** [English](../../en/lectures/lec25_Human-GWAS.md) · 한국어
 
 ## 학습 목표
-이 강의를 마치면 학생들은 다음을 할 수 있어야 한다:
+이 강의를 마치면 다음을 할 수 있어야 한다:
 - GWAS의 논리를 설명한다: 전장유전체 수준에서 흔한 SNP들을 형질 또는 질병과의 연관성에 대해 검정하며, 태그 SNP(tag SNP)가 인과 변이를 표지할 수 있는 이유로서 연관불평형(linkage disequilibrium, LD)을 활용한다.
 - 맨해튼 플롯(Manhattan plot)과 QQ 플롯을 해석하고, 전장유전체 유의수준 기준(p < 5×10⁻⁸)과 유전체 보정(genomic control)/집단 구조(population structure) 보정의 필요성을 정당화한다.
 - 연관성(association)과 인과성(causation)을 구분하고, 멘델 무작위화(Mendelian randomization, MR)가 유전 변이를 도구변수(instrumental variable)로 사용하여 노출–결과 인과 가설을 검정하는 방식을 설명한다.
@@ -203,7 +203,7 @@ MR은 *시험 결과가 나오기 전에* HDL을 높이는 약물이 심장마�
 - **Genetics: From Genes to Genomes (8e)** — 25장 복합 형질의 유전 분석(Genetic Analysis of Complex Traits). → [textbook ref](../../lectures/ref.Genetics-FromGenesToGenomes.md)
 
 ## 이 저장소의 노트
-수업에서 소개할 리뷰 및 논문(각각 en/ko 이중언어 쌍이 있음):
+이 강의와 함께 읽을 리뷰와 논문 (각각 en/ko 이중언어 쌍이 있음):
 - `Uffelmann2021_NatRevMethodsPrimer_GWAS` — GWAS 작동 원리를 다룬 핵심 입문서; 그 워크플로 그림을 2번 세그먼트의 골격으로 활용한다. · [en](../../en/review/Uffelmann2021_NatRevMethodsPrimer_GWAS.md) · [ko](../../ko/review/Uffelmann2021_NatRevMethodsPrimer_GWAS.md)
 - `Pearson2008_JAMA_InterpretingGWAS` — GWAS 결과를 읽고 비판적으로 해석하는 법; 맨해튼/QQ 논의에 적합. · [en](../../en/review/Pearson2008_JAMA_InterpretingGWAS.md) · [ko](../../ko/review/Pearson2008_JAMA_InterpretingGWAS.md)
 - `WTCCC2007_Nature` — 지금도 사용되는 QC 및 유의성 관례를 정립한 획기적인 7개 질환 Wellcome Trust 연구. · [en](../../en/article/WTCCC2007_Nature.md) · [ko](../../ko/article/WTCCC2007_Nature.md)

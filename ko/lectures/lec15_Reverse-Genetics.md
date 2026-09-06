@@ -10,7 +10,7 @@ type: lecture
 **언어:** [English](../../en/lectures/lec15_Reverse-Genetics.md) · 한국어
 
 ## 학습 목표
-이 강의를 마치면 학생은 다음을 할 수 있어야 한다:
+이 강의를 마치면 다음을 할 수 있어야 한다:
 - 역유전학(reverse genetics, "유전자 → 표현형")을 정의하고 순유전학(forward genetics)과 대비할 수 있다.
 - 주요 교란 도구들을 비교할 수 있다: 녹아웃(knockout), 녹인(knock-in), RNAi, CRISPR/Cas.
 - CRISPR/Cas9와 dCas9 융합체가 어떻게 표적화된 돌연변이, 활성화, 억제를 가능하게 하는지 설명할 수 있다.
@@ -144,7 +144,7 @@ flowchart LR
 - **Genetics: From Genes to Genomes (8e)** — Ch. 21 Manipulating the Genomes of Eukaryotes. → [textbook ref](../../lectures/ref.Genetics-FromGenesToGenomes.md)
 
 ## 이 저장소의 노트
-수업에서 소개할 리뷰·논문(각각 en/ko 이중언어 쌍이 있음):
+이 강의와 함께 읽을 리뷰와 논문 (각각 en/ko 이중언어 쌍이 있음):
 - `Kuhl2020_Genetics_dCas9+Ctf19+Recombination` — 좌위 특이적 과정을 조종하기 위한 dCas9 융합(Ctf19); 편집을 넘어선 dCas9의 실제 예시. · [en](../../en/article/Kuhl2020_Genetics_dCas9+Ctf19+Recombination.md) · [ko](../../ko/article/Kuhl2020_Genetics_dCas9+Ctf19+Recombination.md)
 - `Kuhl2020_Genetics_dCas9+Ctf19+Recombination-McVey2022primer` — dCas9/Ctf19 연구를 위한 교육용 입문서; 설계를 풀어내는 데 사용. · [en](../../en/review/Kuhl2020_Genetics_dCas9+Ctf19+Recombination-McVey2022primer.md) · [ko](../../ko/review/Kuhl2020_Genetics_dCas9+Ctf19+Recombination-McVey2022primer.md)
 - `Polly2012_Stacio2012_GeneticsPrimer_LIN-35` — *C. elegans*에서 정의된 유전자(*lin-35*)의 표적화된 분석을 예시하는 입문서. · [en](../../en/review/Polly2012_Stacio2012_GeneticsPrimer_LIN-35.md) · [ko](../../ko/review/Polly2012_Stacio2012_GeneticsPrimer_LIN-35.md)

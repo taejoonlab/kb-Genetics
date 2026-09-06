@@ -10,7 +10,7 @@ type: lecture
 **Languages:** English · [한국어](../../ko/lectures/lec22_Model-Dog.md)
 
 ## Learning Objectives
-By the end of this lecture, students should be able to:
+By the end of this lecture you should be able to:
 - Explain why the domestic dog (*Canis familiaris*) is a powerful natural model for the genetics of variation and selection: strong artificial selection, breed structure, and extreme morphological diversity within one species.
 - Describe how breed formation creates long linkage blocks and reduced within-breed diversity that make GWAS and mapping of trait loci unusually tractable.
 - Connect dog domestication and breeding to the textbook themes of variation and selection in populations.
@@ -161,7 +161,7 @@ Dog genetics pays off twice: it explains the dog, and it illuminates **human** b
 - **Genetics: From Genes to Genomes (8e)** — Ch. 24 Variation and Selection in Populations (domestication & morphology). → [textbook ref](../../lectures/ref.Genetics-FromGenesToGenomes.md)
 
 ## Notes in this vault
-Reviews & articles to introduce in class (each has a bilingual en/ko pair):
+Papers to read alongside this lecture (each has a bilingual en/ko pair):
 - `Plassais2019_NatComm_DogGenomes+GWAS` — large multi-breed dog genome dataset with GWAS of morphological traits; anchor for the across-breed mapping segment. · [en](../../en/article/Plassais2019_NatComm_DogGenomes+GWAS.md) · [ko](../../ko/article/Plassais2019_NatComm_DogGenomes+GWAS.md)
 - `Plassais2022_CurrBiol_DogBodySize-NonCodingVariant` — a non-coding *IGF1*-associated variant controlling body size; centerpiece of the body-size case study. · [en](../../en/article/Plassais2022_CurrBiol_DogBodySize-NonCodingVariant.md) · [ko](../../ko/article/Plassais2022_CurrBiol_DogBodySize-NonCodingVariant.md)
 - `Rimbault2013_GenomeRes_DogSizeReduction` — loci driving the dramatic reduction in dog body size; use for the large-effect-locus discussion. · [en](../../en/article/Rimbault2013_GenomeRes_DogSizeReduction.md) · [ko](../../ko/article/Rimbault2013_GenomeRes_DogSizeReduction.md)
