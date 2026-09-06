@@ -1,5 +1,5 @@
 ---
-tags: [genetics, class, review, en, GeneticsClassic, 2025-2026]
+tags: [genetics, class, review, en, GeneticsPerspectives, 2025-2026]
 date: 2026-09-06
 type: class
 ---

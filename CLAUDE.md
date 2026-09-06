@@ -93,10 +93,15 @@ Use `Powell1987_Genetics_Dobzhansky-GeneticsAndTheOriginOfSpecies.md` as the can
 - Example: `tags: [genetics, class, review, en]`
 - **Series tags** (append when applicable):
   - `GeneticsPrimer` — *GENETICS* "Educational Primer" articles that review a specific paper for teaching **and pose discussion questions**. Tag BOTH the primer note and its original paper, and cross-link them (see below).
-  - `GeneticsClassic` — tribute/commentary honouring a classic paper, **without** discussion questions (e.g. Nielsen 2016 on Tajima 1983).
+  - `GeneticsClassic` — the *GENETICS* **"Classics"** series (2016 GSA centennial): a commentary revisiting **one specific landmark paper**, without discussion questions. House title form is `<Commentator> on <Topic>` (e.g. Nielsen 2016 on Tajima 1983; Churchill 2016 on Lander & Botstein).
+  - `GeneticsPerspectives` — the *GENETICS* **"Perspectives: Anecdotal, Historical and Critical Commentaries on Genetics"** series (Crow & Dove, 1987–). Historical, biographical or retrospective essays about a person, an era or a topic — **not** about a single paper. Free-form titles ("Max Delbrück", "The Year of the Fly", "Hogness at one hundred").
+
+> These two are different series and must not be conflated. Decide by the **section label printed on the article's first page**, which is preserved in the `extract/` archive — see below.
 - **Session tags** (append when a batch of papers is processed together): a reading-list or course-cycle label such as `2025-2026`, applied to every note in that batch so the batch can be filtered in Obsidian. Order is base tags → series tag → session tag, e.g. `tags: [genetics, class, review, en, GeneticsClassic, 2025-2026]`.
 
 > ⚠️ When counting or detecting series tags, match the **`^tags:` line only**. Several note *filenames* contain `GeneticsClassic`/`GeneticsPrimer` and are cited inside other notes' bodies, so a whole-file `grep -l GeneticsClassic` over-counts. A filename is not evidence of type either: `LuriaDelbruck1943_Meneely2016_GeneticsClassic` was in fact an Educational Primer and had to be renamed.
+
+> ⚠️ **To decide which series a paper belongs to, read `extract/`, not PubMed.** The archived first page carries the journal's own section label (`PERSPECTIVES`, `Investigation`, `Selfish Elements`, …); PubMed does not record it, and a note's own prose is a summary, not evidence. Allow for OCR damage when matching — the Perspectives masthead has appeared as `Per spec tives` and as `| PERSPECTIVES`. Use PubMed for the complementary job: authoritative author / DOI / PMID when a byline is missing or a companion piece needs its own DOI.
 
 ### Cross-linking Genetics Primer pairs
 

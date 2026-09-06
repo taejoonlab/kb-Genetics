@@ -1,5 +1,5 @@
 ---
-tags: [genetics, reverse, ko]
+tags: [genetics, class, review, ko, GeneticsPerspectives]
 date: 2026-07-13
 ---
 
