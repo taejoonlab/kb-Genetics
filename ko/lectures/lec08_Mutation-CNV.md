@@ -81,7 +81,7 @@ flowchart TD
   R --> C["Conclusion: resistance mutations are pre-existing and random"]
 ```
 
-설계는 두 부분으로 이루어진다. **대조군(control)**(*하나의* 큰 배양에서 많은 표본을 취함)은 도말/계수 단계 자체가 포아송임을 — 표본 추출 변동만 있음을 — 검증한다. **핵심 실험(key experiment)**은 작은 접종물로부터 **많은 독립적 병렬 배양**을 키운 뒤 각각을 따로 도전시킨다. 이 둘의 비교가 논증 전체이며 — Meneely의 교육용 프라이머가 강조하듯 — 미분방정식 **없이도** 이해할 수 있다: 두 표의 퍼짐을 비교하기만 하면 된다([en](../../en/review/LuriaDelbruck1943_Meneely2016_GeneticsClassic.md) · [ko](../../ko/review/LuriaDelbruck1943_Meneely2016_GeneticsClassic.md) 참조).
+설계는 두 부분으로 이루어진다. **대조군(control)**(*하나의* 큰 배양에서 많은 표본을 취함)은 도말/계수 단계 자체가 포아송임을 — 표본 추출 변동만 있음을 — 검증한다. **핵심 실험(key experiment)**은 작은 접종물로부터 **많은 독립적 병렬 배양**을 키운 뒤 각각을 따로 도전시킨다. 이 둘의 비교가 논증 전체이며 — Meneely의 교육용 프라이머가 강조하듯 — 미분방정식 **없이도** 이해할 수 있다: 두 표의 퍼짐을 비교하기만 하면 된다([en](../../en/review/LuriaDelbruck1943_Meneely2016_GeneticsPrimer.md) · [ko](../../ko/review/LuriaDelbruck1943_Meneely2016_GeneticsPrimer.md) 참조).
 
 **그림 — 기존 돌연변이의 특징 (실험 16, 1943년 논문에서).**
 
@@ -92,7 +92,7 @@ flowchart TD
 | 저항성 집락이 35–107개인 배양 | 20개 중 3개 | 이른 돌연변이에서 온 **대박** |
 | 관찰된 분산 | ≫ 평균 | 포아송 / 획득 면역과 양립 불가 |
 
-거대한 초과 분산 — 많은 0과 함께 있는 소수의 대박 — 은 획득 면역 하에서는 불가능하며, 기존의 무작위 돌연변이가 정확히 예측하는 바이다. 루리아와 델브뤼크는 또한 **돌연변이율**을 두 가지 방식으로(무돌연변이 배양의 비율 P₀ = e⁻ʰ로부터, 그리고 평균으로부터) 추출하여 **분열당 세균당 ~2.45 × 10⁻⁸ 돌연변이**를 얻었는데, 이는 현대의 전장 유전체 추정치와 놀랍도록 가깝다. 그 결론은 현대 종합설(Modern Synthesis)의 초석이다: **선택은 기존 변이를 드러낼 뿐, 만들지 않는다.** 같은 논리가 오늘날의 **항생제 내성**을 설명한다 — 내성 돌연변이체는 약물 이전에 이미 존재하며, 약물은 그저 그들을 선택할 뿐이다([en](../../en/review/LuriaDelbruck1943_Meneely2016_GeneticsClassic.md) · [ko](../../ko/review/LuriaDelbruck1943_Meneely2016_GeneticsClassic.md) 참조).
+거대한 초과 분산 — 많은 0과 함께 있는 소수의 대박 — 은 획득 면역 하에서는 불가능하며, 기존의 무작위 돌연변이가 정확히 예측하는 바이다. 루리아와 델브뤼크는 또한 **돌연변이율**을 두 가지 방식으로(무돌연변이 배양의 비율 P₀ = e⁻ʰ로부터, 그리고 평균으로부터) 추출하여 **분열당 세균당 ~2.45 × 10⁻⁸ 돌연변이**를 얻었는데, 이는 현대의 전장 유전체 추정치와 놀랍도록 가깝다. 그 결론은 현대 종합설(Modern Synthesis)의 초석이다: **선택은 기존 변이를 드러낼 뿐, 만들지 않는다.** 같은 논리가 오늘날의 **항생제 내성**을 설명한다 — 내성 돌연변이체는 약물 이전에 이미 존재하며, 약물은 그저 그들을 선택할 뿐이다([en](../../en/review/LuriaDelbruck1943_Meneely2016_GeneticsPrimer.md) · [ko](../../ko/review/LuriaDelbruck1943_Meneely2016_GeneticsPrimer.md) 참조).
 
 가르칠 만한 통계적 후일담: 루리아와 델브뤼크는 "상당한 수학적 어려움"을 이유로 전체 분포를 유도하지 못했다. **J.B.S. Haldane**은 1946년 조합론적 해(*x*개의 돌연변이체를 만드는 방법의 수가 *x*를 2의 거듭제곱의 합으로 나누는 분할에 대응)를 알아냈으나 정식으로 출판하지 않았다. Haldane은 또한 선견지명 있게, **네 가지 비이상적 요인**(배양의 일부만 도말, 비동기 분열, 세포 사멸, 돌연변이체의 느린 성장)이 모두 분산을 *줄인다*는 것을 보였다 — 따라서 단지 낮은 분산만으로는 방향성 돌연변이를 증명할 수 없다. 이 단서는 Cairns 등(1988)이 "방향성 돌연변이(directed mutation)" 논쟁을 되살렸을 때 핵심이 되었다([en](../../en/review/Sarkar1991_Genetics_LuriaDelbruck+Haldane.md) · [ko](../../ko/review/Sarkar1991_Genetics_LuriaDelbruck+Haldane.md) 참조).
 
@@ -177,7 +177,7 @@ TE는 보통 **DNA 메틸화와 이질염색질(heterochromatin)**로 침묵되�
 ## 이 저장소의 노트
 이 강의와 함께 읽을 리뷰와 논문 (각각 en/ko 이중언어 쌍이 있음):
 - `LuriaDelbruck1943_Genetics_VirusResistance` — 세균 돌연변이의 기원에 관한 원조 요동 검정 논문. · [en](../../en/article/LuriaDelbruck1943_Genetics_VirusResistance.md) · [ko](../../ko/article/LuriaDelbruck1943_Genetics_VirusResistance.md)
-- `LuriaDelbruck1943_Meneely2016_GeneticsClassic` — 1943년 실험을 교육에 쉽게 만든 Genetics "Classic" 논평. · [en](../../en/review/LuriaDelbruck1943_Meneely2016_GeneticsClassic.md) · [ko](../../ko/review/LuriaDelbruck1943_Meneely2016_GeneticsClassic.md)
+- `LuriaDelbruck1943_Meneely2016_GeneticsPrimer` — 1943년 실험을 교육에 쉽게 만든 GENETICS Educational Primer. · [en](../../en/review/LuriaDelbruck1943_Meneely2016_GeneticsPrimer.md) · [ko](../../ko/review/LuriaDelbruck1943_Meneely2016_GeneticsPrimer.md)
 - `Sarkar1991_Genetics_LuriaDelbruck+Haldane` — Haldane의 관련 사고를 포함한 역사적/통계적 맥락. · [en](../../en/review/Sarkar1991_Genetics_LuriaDelbruck+Haldane.md) · [ko](../../ko/review/Sarkar1991_Genetics_LuriaDelbruck+Haldane.md)
 - `Crow1997_Genetics_Mutation-BecomesExperimental` — 돌연변이가 어떻게 실험적으로 다룰 수 있는 변수가 되었는가. · [en](../../en/review/Crow1997_Genetics_Mutation-BecomesExperimental.md) · [ko](../../ko/review/Crow1997_Genetics_Mutation-BecomesExperimental.md)
 - `Falk2010_Genetics_Mutagenesis-ResearchStrategy` — 유전학에서 의도적 연구 전략으로서의 돌연변이유발. · [en](../../en/review/Falk2010_Genetics_Mutagenesis-ResearchStrategy.md) · [ko](../../ko/review/Falk2010_Genetics_Mutagenesis-ResearchStrategy.md)

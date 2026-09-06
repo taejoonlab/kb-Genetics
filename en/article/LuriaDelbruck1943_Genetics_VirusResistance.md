@@ -11,7 +11,7 @@ Luria SE, Delbrück M. Mutations of bacteria from virus sensitivity to virus res
 
 **DOI:** No DOI assigned (1943 publication)
 
-**Educational primer:** [[en/review/LuriaDelbruck1943_Meneely2016_GeneticsClassic]]
+**Educational primer:** [[en/review/LuriaDelbruck1943_Meneely2016_GeneticsPrimer]]
 
 ---
 

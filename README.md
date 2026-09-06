@@ -297,7 +297,7 @@ Teaching materials for the course live in [`lectures/`](lectures/) (syllabus + t
 | `Leung2025_NatRevGenet_CancerMetastasis-ModelSystems` | Integrating model systems and genomic insights to decipher mechanisms of cancer metastasis |  |
 | `Lewontin1997_Genetics_Dobzhansky-StillRelevant` | Dobzhansky's Genetics and the Origin of Species: Is It Still Relevant? |  |
 | `Li2024_NatRevGenet_GenomeAssembly-T2T` | Genome assembly in the telomere-to-telomere era |  |
-| `LuriaDelbruck1943_Meneely2016_GeneticsClassic` | Pick Your Poisson: An Educational Primer for Luria and Delbrück's Classic Paper | Genetics Primer |
+| `LuriaDelbruck1943_Meneely2016_GeneticsPrimer` | Pick Your Poisson: An Educational Primer for Luria and Delbrück's Classic Paper | Genetics Primer |
 | `Mackay2024_NatRevGenet_Pleiotropy-Epistasis-QuantitativeTraits` | Pleiotropy, epistasis and the genetic architecture of quantitative traits |  |
 | `Makani2022_NatRevGenet_MendelianDisorder` | From Mendel to a Mendelian Disorder: Towards a Cure for Sickle Cell Disease |  |
 | `Mank2017_NatRevGenet_SexualConflict` | Population genetics of sexual conflict in the genomic era |  |
