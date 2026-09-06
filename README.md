@@ -238,8 +238,8 @@ Teaching materials for the course live in [`lectures/`](lectures/) (syllabus + t
 | `Dove1988_Genetics_YearOfTheFly` | The Year of the Fly |  |
 | `Dove2016_Genetics_PerspectivesSeries-Tapestry` | Weaving a Tapestry from Threads Spun by Geneticists: The Series Perspectives on Genetics, 1987–2008 |  |
 | `Dugatkin2007_Genetics_InclusiveFitness-DarwinHamilton` | Inclusive Fitness Theory from Darwin to Hamilton |  |
-| `DunnCharles1937_Schimenti2016_GeneticsClassic_MouseQTL` | L. C. Dunn and Donald Charles on Quantitative Traits in the Mouse |  |
-| `East1916_Turelli2016_GeneticsClassic` | Edward East on the Mendelian Basis of Quantitative Trait Variation |  |
+| `DunnCharles1937_Schimenti2016_GeneticsClassic_MouseQTL` | L. C. Dunn and Donald Charles on Quantitative Traits in the Mouse | Genetics Classic |
+| `East1916_Turelli2016_GeneticsClassic` | Edward East on the Mendelian Basis of Quantitative Trait Variation | Genetics Classic |
 | `Eddy2004_NatureBiotechPrimer_BLOSUM62` | Where Did the BLOSUM62 Alignment Score Matrix Come From? |  |
 | `Eddy2004_NatureBiotechPrimer_DynamicProgramming` | What Is Dynamic Programming? |  |
 | `Edwards2007_Genetics_Fisher-RhesusBloodGroup` | R. A. Fisher's 1943 Unravelling of the Rhesus Blood-Group System |  |
@@ -256,9 +256,9 @@ Teaching materials for the course live in [`lectures/`](lectures/) (syllabus + t
 | `Furman2020_GBE_SexChromosome-ManyExceptions` | Sex chromosome evolution: so many exceptions to the rules |  |
 | `Garen1992_Genetics_Homunculus` | Looking for the Homunculus in Drosophila |  |
 | `Gartler2006_NatRevGenet_HumanChromosomeNumber` | The chromosome number in humans: a brief history |  |
-| `GeneDosage_Wolfner2016_Genetics_ClassicLindseySandler` | Lindsley and Sandler et al. on Gene Dosage and the Drosophila Genome |  |
-| `GeneticsClassic_Meuwissen_GenomicSelection` | Meuwissen et al. on Genomic Selection |  |
-| `GeneticsClassic_SydneyBrennder_Celegans` | Sydney Brenner on the Genetics of Caenorhabditis elegans |  |
+| `GeneDosage_Wolfner2016_Genetics_ClassicLindseySandler` | Lindsley and Sandler et al. on Gene Dosage and the Drosophila Genome | Genetics Classic |
+| `GeneticsClassic_Meuwissen_GenomicSelection` | Meuwissen et al. on Genomic Selection | Genetics Classic |
+| `GeneticsClassic_SydneyBrennder_Celegans` | Sydney Brenner on the Genetics of Caenorhabditis elegans | Genetics Classic |
 | `Gilbert2012_MolEcol_STRUCTUREopinion` | Recommendations for Utilizing and Reporting Population Genetic Analyses: The Reproducibility of Genetic Clustering Using the Program STRUCTURE |  |
 | `Goldman2016_PLoSgenet_WhatIsGenome` | What Is a Genome? |  |
 | `Goodson-Gregg2009_Genetics_AmesTest` | Reinventing the Ames Test as a Quantitative Lab That Connects Classical and Molecular Genetics |  |
@@ -289,7 +289,7 @@ Teaching materials for the course live in [`lectures/`](lectures/) (syllabus + t
 | `Kottler1979_AnnSci_deVries-MendelRediscovery` | Hugo de Vries and the Rediscovery of Mendel's Laws |  |
 | `Kuhl2020_Genetics_dCas9+Ctf19+Recombination-McVey2022primer` | Beyond Editing: CRISPR/Cas9 for Protein Localization Studies — An Educational Primer | Genetics Primer |
 | `Kullo2026_NatRevGenet_PolygenicRiskScores-Clinical` | Clinical use of polygenic risk scores: current status, barriers and future directions |  |
-| `LanderBotstein1989_Churchill2016_GeneticsClassic` | Eric Lander and David Botstein on Mapping Quantitative Traits |  |
+| `LanderBotstein1989_Churchill2016_GeneticsClassic` | Eric Lander and David Botstein on Mapping Quantitative Traits | Genetics Classic |
 | `Laurie1997_Genetics_Haldane+Heterogametic` | The Weaker Sex Is Heterogametic: 75 Years of HALDANE'S Rule |  |
 | `Lederberg1987_Genetics_EcoliRecombination` | Gene recombination and linked segregations in Escherichia coli |  |
 | `Lederberg1994_Genetics_AveryMacLeodMcCarty` | The Transformation of Genetics by DNA: An Anniversary Celebration of Avery, MacLeod and McCarty (1944) |  |
@@ -303,7 +303,7 @@ Teaching materials for the course live in [`lectures/`](lectures/) (syllabus + t
 | `Mank2017_NatRevGenet_SexualConflict` | Population genetics of sexual conflict in the genomic era |  |
 | `Matharu2015_PLoSGenet_TAD-ChromatinLoops` | Minor Loops in Major Folds: Enhancer-Promoter Looping, Chromatin Restructuring, and Their Association with Transcriptional Regulation and Disease |  |
 | `Mauricio2001_NatRevGenet_QTL` | Mapping Quantitative Trait Loci in Plants: Uses and Caveats for Evolutionary Biology |  |
-| `McClintock1953_Halpene2016_GeneticsClassic` | Barbara McClintock on Defining the Unstable Genome |  |
+| `McClintock1953_Halpene2016_GeneticsClassic` | Barbara McClintock on Defining the Unstable Genome | Genetics Classic |
 | `Meaburn2007_Nature_ChromosomeTerritories` | Chromosome territories |  |
 | `Miller1997_Genetics_ChromosomeChangesCellDivision` | Chromosome Changes in Cell Differentiation |  |
 | `Misteli2020_Cell_3Dgenome-SelfOrganizing` | The Self-Organizing Genome: Principles of Genome Architecture and Function |  |
@@ -312,7 +312,7 @@ Teaching materials for the course live in [`lectures/`](lectures/) (syllabus + t
 | `Morton1995_Genetics_LODs` | LODs Past and Present |  |
 | `Murray2016_Genetics_Nurse+Thuriaux+Wee+CellCycle` | Paul Nurse and Pierre Thuriaux on wee Mutants and Cell Cycle Control |  |
 | `Nasmyth2022_NatRevGenet_Mendel` | The Magic and Meaning of Mendel's Miracle |  |
-| `NeutralDiversity_Wright2016_GeneticsClassic_Charlesworth` | Charlesworth et al. on Background Selection and Neutral Diversity |  |
+| `NeutralDiversity_Wright2016_GeneticsClassic_Charlesworth` | Charlesworth et al. on Background Selection and Neutral Diversity | Genetics Classic |
 | `Nissen2012_Genetics_Honeybee-SexDetermination-Primer` | To "Bee or Not to Bee" Male or Female? An Educational Primer for Use with "The Am-tra2 Gene Is an Essential Regulator of Female Splice Regulation at Two Levels of the Sex Determination Hierarchy of the Honeybee" | Genetics Primer |
 | `Nogler2006_Genetics_Perspective-MendelHieracium` | The Lesser-Known Mendel: His Experiments on Hieracium |  |
 | `Novick2019_PLoSGenet_MicrobesModernSynthesis` | How microbes "jeopardize" the modern synthesis |  |
