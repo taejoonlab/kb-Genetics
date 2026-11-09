@@ -7,15 +7,15 @@ A bilingual (English/Korean) knowledge base for **BME333/BIO333 Genetics** at UN
 ```
 .
 ├── en/                  # English notes
-│   ├── article/         # Research articles (123 notes)
-│   ├── review/          # Reviews, perspectives, primers, essays (194 notes)
+│   ├── article/         # Research articles (134 notes)
+│   ├── review/          # Reviews, perspectives, primers, essays (203 notes)
 │   └── lectures/        # Per-lecture notes (lecNN_*.md, 26 notes)
 ├── ko/                  # Korean notes (bilingual mirror of en/)
 │   ├── article/
 │   ├── review/
 │   └── lectures/        # Per-lecture notes (Korean mirror, 26 notes)
 ├── lectures/            # Course syllabus and textbook references (language-neutral)
-├── extract/             # Raw text extracted from source PDFs (by date, one entry per paper, 50k-char cap)
+├── extract/             # Raw text extracted from source PDFs (by date, one entry per paper; full text from 2026-11-09, earlier archives capped at 50k chars)
 ├── pdf/                 # Source PDFs — gitignored
 │   └── dup/             # Duplicate PDFs moved aside (same paper, redundant copy)
 ├── tools/               # Processing scripts (git submodule)
@@ -56,9 +56,9 @@ Teaching materials for the course live in [`lectures/`](lectures/) (syllabus + t
 | [Evolution: Making Sense of Life](lectures/ref.Evolution-MakeSenseOfLife.md) | 4th Edition · Carl Zimmer, Douglas J. Emlen · © 2026 |
 | [Genetics: From Genes to Genomes](lectures/ref.Genetics-FromGenesToGenomes.md) | 8th Edition · Michael L. Goldberg, Janice Fischer, Leroy Hood, Leland Hartwell · © 2024 (published September 5, 2023) |
 
-## Current Notes (317 papers in English, mirrored in Korean)
+## Current Notes (337 papers in English, mirrored in Korean)
 
-### Research Articles (123)
+### Research Articles (134)
 
 | File | Title | Series |
 |------|-------|--------|
@@ -95,10 +95,13 @@ Teaching materials for the course live in [`lectures/`](lectures/) (syllabus + t
 | `Feltes2025_PLoSGenet_Zebrafish-WGS-PhenotypeToGenotype` | Phenotype to genotype: A new and rapid approach using whole-genome sequencing |  |
 | `Feng2025_Nature_MendelsMissingTraits` | Genomic and Genetic Insights into Mendel's Pea Genes |  |
 | `Flannery2026_PLoSGenet_Zebrafish-MuscularDystrophy-MaternalCompensation` | Impact of maternal compensation on developmental phenotypes in a zebrafish model of severe congenital muscular dystrophy |  |
+| `Fletcher2021_iScience_AdipicAcidToxicity-Chemogenomics` | A Yeast Chemogenomic Screen Identifies Pathways that Modulate Adipic Acid Toxicity |  |
 | `Foley2026_Nature_RecombinationDesert-SpeciationSupergene` | An ancient recombination desert is a speciation supergene in placental mammals |  |
 | `Fusca2025_PLoSGenet_Caenorhabditis-SpeciationClock` | Phylogenomic timetree-calibrated speciation clocks for Caenorhabditis nematodes reveal slow but disproportionate accumulation of post-zygotic reproductive isolation |  |
 | `Galambos2026_NatCommun_Celegans-tDR-EpigeneticInheritance` | tRNA-derived RNA processing in sperm transmits non-genetically inherited phenotypes to offspring in C. elegans |  |
 | `Gempe2009_PLoSBiol_Honeybee-SexDetermination` | Sex Determination in Honeybees: Two Separate Mechanisms Induce and Maintain the Female Pathway |  |
+| `Giaever1999_NatGenet_InducedHaploinsufficiency` | Genomic Profiling of Drug Sensitivities via Induced Haploinsufficiency |  |
+| `Giaever2004_PNAS_ChemogenomicProfiling` | Chemogenomic Profiling: Identifying the Functional Interactions of Small Molecules in Yeast |  |
 | `Grendler2019_Development_WoundPolyploidy` | Wound-induced polyploidization is driven by Myc and supports tissue repair in the presence of DNA damage |  |
 | `Guan2025_NatCommun_Celegans-MorphologicalMap` | Cell lineage-resolved embryonic morphological map reveals signaling associated with cell fate and size asymmetry |  |
 | `Hardy1908_Science_HardyWeinberg` | Mendelian Proportions in a Mixed Population |  |
@@ -108,6 +111,7 @@ Teaching materials for the course live in [`lectures/`](lectures/) (syllabus + t
 | `Holley2026_Nature_IcelandicPangenome` | An Icelandic pangenome reference |  |
 | `Huang2024_Nature_CommonVariants-NeurodevelopmentalConditions` | Examining the role of common variants in rare neurodevelopmental conditions |  |
 | `Hubby1966_Genetics_PopulationHeterogeneity1` | A Molecular Approach to the Study of Genic Heterozygosity in Natural Populations. I. The Number of Alleles at Different Loci in Drosophila pseudoobscura |  |
+| `Hung2018_SciRep_YeastChemicalSensitivity-IC50` | A Simple and Inexpensive Quantitative Technique for Determining Chemical Sensitivity in Saccharomyces cerevisiae |  |
 | `Hunter2025_Science_InVivo-CART` | In vivo CAR T cell generation to treat cancer and autoimmune disease |  |
 | `Jaramillo-Lambert2016_Genetics_top2` | Rapid Identification of Paternal-Effect Lethal Mutations in C. elegans Using Hawaiian SNP Mapping | Genetics Primer |
 | `Jee2025_NatCommun_Korean-GWAS-QuantitativeTraits` | Genome-wide association studies in a large Korean cohort identify quantitative trait loci for 36 traits and illuminate their genetic architectures |  |
@@ -125,6 +129,7 @@ Teaching materials for the course live in [`lectures/`](lectures/) (syllabus + t
 | `Kwakye2026_NatCommun_Stickleback-JackpotAdaptation` | Rare jackpot individuals drive rapid adaptation in Threespine Stickleback |  |
 | `Lai2026_Nature_BaseEditing-BetaThalassaemia` | Clinical application of base editing for treating β-thalassaemia |  |
 | `LanderBotstein1989_Genetics_QTL` | Mapping Mendelian Factors Underlying Quantitative Traits Using RFLP Linkage Maps |  |
+| `Lao2026_SciData_EcoliKeio-GrowthCurves` | Growth Dynamics of 3,909 Escherichia coli Single-Gene Knockouts in Rich and Minimal Media |  |
 | `Lawson2018_NatComm_STRUCTRE+tutorial` | A Tutorial on How Not to Over-Interpret STRUCTURE and ADMIXTURE Bar Plots |  |
 | `Lawson2025_Nature_SomaticMutation-PopulationScale` | Somatic mutation and selection at population scale |  |
 | `Lewontin1966_Genetics_PopulationHeterogeneity2` | A Molecular Approach to the Study of Genic Heterozygosity in Natural Populations. II. Amount of Variation and Degree of Heterozygosity in Natural Populations of Drosophila pseudoobscura |  |
@@ -141,6 +146,7 @@ Teaching materials for the course live in [`lectures/`](lectures/) (syllabus + t
 | `Nadig2025_NatGenet_TRADE-PerturbationAtlas` | Transcriptome-wide analysis of differential expression in perturbation atlases |  |
 | `Nemoto2025_NatCommun_PraderWilli-EpigenomeEditing` | Rescue of imprinted genes by epigenome editing in human cellular models of Prader-Willi syndrome |  |
 | `Neville2025_Nature_SpermSequencing-PositiveSelection` | Sperm sequencing reveals extensive positive selection in the male germline |  |
+| `Nichols2011_Cell_PhenotypicLandscapeBacterialCell` | Phenotypic Landscape of a Bacterial Cell |  |
 | `Nissen2012_Genetics_Honeybee-SexDetermination` | The Am-tra2 Gene Is an Essential Regulator of Female Splice Regulation at Two Levels of the Sex Determination Hierarchy of the Honeybee | Genetics Primer |
 | `Nunes2025_Science_Brazilian-Admixture` | Admixture's impact on Brazilian population evolution and health |  |
 | `Nurse1980_Genetics_Wee+Spombe` | Regulatory Genes Controlling Mitosis in the Fission Yeast Schizosaccharomyces pombe |  |
@@ -149,6 +155,8 @@ Teaching materials for the course live in [`lectures/`](lectures/) (syllabus + t
 | `Opmeer2025_PLoSGenet_KooikerDog-Polymyositis` | Polymyositis in Kooiker dogs is associated with a 39 kb deletion upstream of the canine IL21/IL2 locus |  |
 | `Palsson2025_Nature_CompleteRecombinationMaps` | Complete human recombination maps |  |
 | `Panja2025_NatGenet_LungAdenocarcinoma-PassengerMutations` | Passenger mutations link cellular origin and transcriptional identity in human lung adenocarcinomas |  |
+| `Pathania2009_NatChemBiol_EcoliLipoproteinTargeting-MAC13243` | Chemical Genomics in Escherichia coli Identifies an Inhibitor of Bacterial Lipoprotein Targeting |  |
+| `Piotrowski2017_NatChemBiol_ChemicalLibraryAnnotation` | Functional Annotation of Chemical Libraries across Diverse Biological Processes |  |
 | `Plassais2019_NatComm_DogGenomes+GWAS` | Whole Genome Sequencing of Canids Reveals Genomic Regions under Selection and Variants Influencing Morphology |  |
 | `Plassais2022_CurrBiol_DogBodySize-NonCodingVariant` | Natural and Human-Driven Selection of a Single Non-Coding Body Size Variant in Ancient and Modern Canids |  |
 | `Poliacikova2024_SciAdv_Antennapedia-FlightMuscle` | The Hox protein Antennapedia orchestrates Drosophila adult flight muscle development |  |
@@ -170,6 +178,7 @@ Teaching materials for the course live in [`lectures/`](lectures/) (syllabus + t
 | `Tajima2025_NatCommun_NOVA1-Humanized-Vocalization` | A humanized NOVA1 splicing factor alters mouse vocal communications |  |
 | `Tobiasson2026_Nature_AsgardArchaea-Eukaryogenesis` | Dominant contribution of Asgard archaea to eukaryogenesis |  |
 | `Tsukamoto2017_Genetics_CelegansOocyeMaturation` | LIN-41 and OMA Ribonucleoprotein Complexes Mediate a Translational Repression-to-Activation Switch Controlling Oocyte Meiotic Maturation and the Oocyte-to-Embryo Transition in Caenorhabditis elegans | Genetics Primer |
+| `VanOpijnen2009_NatMethods_TnSeq-FitnessGeneticInteraction` | Tn-seq: High-Throughput Parallel Sequencing for Fitness and Genetic Interaction Studies in Microorganisms |  |
 | `Wallis2025_Science_Dog-GWAS-DENND1B-Obesity` | Canine genome-wide association study identifies DENND1B as an obesity gene in dogs and humans |  |
 | `Wang2026_NatCommun_PolygenicScore-Portability` | Three open questions in polygenic score portability |  |
 | `Weiss2018_PLoSGenet_LastUniversal-CommonAncestor` | The Last Universal Common Ancestor Between Ancient Earth Chemistry and the Onset of Genetics |  |
@@ -183,10 +192,12 @@ Teaching materials for the course live in [`lectures/`](lectures/) (syllabus + t
 | `Yang2024_Nature_Zebrafish-PlaceCells` | A population code for spatial representation in the zebrafish telencephalon |  |
 | `Zebell2025_Nature_CrypticVariation-HierarchicalEpistasis` | Cryptic variation fuels plant phenotypic change through hierarchical epistasis |  |
 | `Zhang2025_GenomeBiol_Dog-DeNovoMutation` | Determinants of de novo mutations in extended pedigrees of 43 dog breeds |  |
+| `Zhou2019_ActaPharmacolSin_YeastChemicalGenomicsMammalianPathways` | Integrating Yeast Chemical Genomics and Mammalian Cell Pathway Analysis |  |
 | `Zhu2026_Nature_WGD-CellTypeEvolution-Brain` | Whole-genome duplication shaped cell-type evolution in the vertebrate brain |  |
+| `Zik2025_Science_DualTnSeq-GeneticInteraction` | Dual Transposon Sequencing Profiles the Genetic Interaction Landscape in Bacteria |  |
 | `Zillich2025_NatCommun_LIS1-Lissencephaly-Organoids` | Capturing disease severity in LIS1-lissencephaly reveals proteostasis dysregulation in patient-derived forebrain organoids |  |
 
-### Reviews, Perspectives, Primers & Essays (194)
+### Reviews, Perspectives, Primers & Essays (203)
 
 | File | Title | Series |
 |------|-------|--------|
@@ -202,14 +213,17 @@ Teaching materials for the course live in [`lectures/`](lectures/) (syllabus + t
 | `Badano2002_NatRevGenet_BeyondMendel` | Beyond Mendel: Oligogenic Inheritance in Human Genetic Disease |  |
 | `Baker2009_Genetics-Perspective-FlyLeg` | Drosophila Leg Proximodistal Patterning: From Polar Coordinate Model to Boundary Model (Baker 2011) | Genetics Perspectives |
 | `Barton2002_NatRevGenet_QTL` | Understanding Quantitative Genetic Variation |  |
+| `Baruch2026_FEBSJ_YeastLibraries-Overview` | A Comprehensive Overview of Yeast Libraries and Their Role in Advancing Cell Biology |  |
 | `Benson2001_NatRevGenet_Morgan-Chromosome` | T. H. Morgan's Resistance to the Chromosome Theory |  |
 | `BenTabou2006_SciSTKE_SeaUrchin-GRN` | Deciphering the Underlying Mechanism of Specification and Differentiation: The Sea Urchin Gene Regulatory Network |  |
 | `Bhattacharyya2025_NatGenet_GenomeIndia` | Mapping genetic diversity with the GenomeIndia project |  |
 | `Bicknell2025_NatRevGenet_HumanHeight-Genetics` | The genetic basis of human height |  |
 | `Bonini2017_Genetics_ModelOrganism` | The Sustained Impact of Model Organisms—in Genetics and Epigenetics |  |
 | `Braendle2024_Genetics_Celegans-LifeHistory` | Life history in Caenorhabditis elegans: from molecular genetics to evolutionary ecology |  |
+| `Bredel2004_NatRevGenet_Chemogenomics` | Chemogenomics: An Emerging Strategy for Rapid Target and Drug Discovery |  |
 | `Brenner2009_Genetics_Celegans` | In the Beginning Was the Worm . . . | Genetics Perspectives |
 | `BruhnOlszewska2025_NatRevGenet_LossOfY-MaleHealth` | The effects of loss of Y chromosome on male health |  |
+| `Cain2020_NatRevGenet_TIS-DecadeOfAdvances` | A Decade of Advances in Transposon-Insertion Sequencing |  |
 | `Campbell1993_Genetics_ProphageInsertion` | Thirty Years Ago in Genetics: Prophage Insertion Into Bacterial Chromosomes |  |
 | `Capel2017_NatRevGenet_VertebrateSexDetermination` | Vertebrate sex determination: evolutionary plasticity of a fundamental switch |  |
 | `Cavalli-Sforza2005_NatRevGenet_HGDP` | The Human Genome Diversity Project: past, present and future |  |
@@ -283,6 +297,7 @@ Teaching materials for the course live in [`lectures/`](lectures/) (syllabus + t
 | `Huddleston2016_Genetics_IncompleteHumanQTL` | Incomplete Human Genome Impedes QTL Research |  |
 | `Hurst2009_NatRevGenet_GeneticsUnderstanding-Selection` | Genetics and the understanding of selection |  |
 | `Jaramillo-Lambert2016_Boeteng2018_GeneticsPrimer_top2` | Genetics Primer: C. elegans top-2 Meiotic Topoisomerase Study | Genetics Primer |
+| `Jones2017_NatRevDrugDiscov_ChemogenomicLibraryScreening` | Applications of Chemogenomic Library Screening in Drug Discovery |  |
 | `Joseph2026_PLoSGenet_RecombinationHotspots` | Why recombination hotspots? |  |
 | `Kankel2020_Genetics_Drosophila-ALS-modifier.Banerjee2020primer` | Using Drosophila melanogaster To Discover Human Disease Genes: An Educational Primer to Accompany Kankel et al. (2020) | Genetics Primer |
 | `Keightley1996_Genetics_Dominance-Recessivity` | A Metabolic Basis for Dominance and Recessivity | Genetics Perspectives |
@@ -296,7 +311,9 @@ Teaching materials for the course live in [`lectures/`](lectures/) (syllabus + t
 | `Laurie1997_Genetics_Haldane+Heterogametic` | The Weaker Sex Is Heterogametic: 75 Years of HALDANE'S Rule | Genetics Perspectives |
 | `Lederberg1987_Genetics_EcoliRecombination` | Gene recombination and linked segregations in Escherichia coli | Genetics Perspectives |
 | `Lederberg1994_Genetics_AveryMacLeodMcCarty` | The Transformation of Genetics by DNA: An Anniversary Celebration of Avery, MacLeod and McCarty (1944) |  |
+| `Lenski2017_ISMEJ_ExperimentalEvolution-LTEE` | Experimental Evolution and the Dynamics of Adaptation and Genome Evolution in Microbial Populations |  |
 | `Lenski2017_PLoSgenet_WhatIsAdaptation` | What Is Adaptation by Natural Selection? Perspectives of an Experimental Microbiologist |  |
+| `Lenski2023_JMolEvol_LTEE-Design` | Revisiting the Design of the Long-Term Evolution Experiment with Escherichia coli |  |
 | `Leung2025_NatRevGenet_CancerMetastasis-ModelSystems` | Integrating model systems and genomic insights to decipher mechanisms of cancer metastasis |  |
 | `Lewontin1997_Genetics_Dobzhansky-StillRelevant` | Dobzhansky's Genetics and the Origin of Species: Is It Still Relevant? |  |
 | `Li2024_NatRevGenet_GenomeAssembly-T2T` | Genome assembly in the telomere-to-telomere era |  |
@@ -323,6 +340,7 @@ Teaching materials for the course live in [`lectures/`](lectures/) (syllabus + t
 | `Orr1996_Genetics_Dobzhansky-Bateson-Speciation` | Dobzhansky, Bateson, and the Genetics of Speciation | Genetics Perspectives |
 | `Orr2009_Genetics_Darwin-SocialImplications` | Darwin and Darwinism: The (Alleged) Social Implications of The Origin of Species | Genetics Perspectives |
 | `Paigen2010_NatRevGenet_RecombinationHotspots-Mammals` | Mammalian recombination hot spots: properties, control and evolution |  |
+| `PantojaAlonso2025_Microbiology_GenomeEngineering-BacterialProductivity` | A Comprehensive Review of Genomic-Scale Genetic Engineering as a Strategy to Improve Bacterial Productivity |  |
 | `Parkinson1987_Genetics_BehavioralGenetics-Bacteria` | Doing Behavioral Genetics with Bacteria | Genetics Perspectives |
 | `Payer2019_NatRevGenet_TE-Disease` | Transposable Elements in Human Genetic Disease |  |
 | `Pearson2008_JAMA_InterpretingGWAS` | How to Interpret a Genome-wide Association Study |  |
@@ -351,8 +369,10 @@ Teaching materials for the course live in [`lectures/`](lectures/) (syllabus + t
 | `Shapiro2016_PLoSgenet_WhatIsSpeciation` | Shapiro et al. 2016 — What Is Speciation? A Genomic Perspective |  |
 | `ShawWhite2022_TrendsGenet_SexChromosome-GeneRegulation` | The evolution of gene regulation on sex chromosomes |  |
 | `Shendure2016_Genetics_MassiveParallelGenetics` | Shendure & Fields 2016 — Massively Parallel Genetics |  |
+| `Simon2004_NatRevCancer_YeastAnticancerDrugDiscovery` | Yeast as a Model System for Anticancer Drug Discovery |  |
 | `Singh2013_Heil2013_GeneticsPrimer_Recombination` | Heil & Noor 2013 — Genetics Primer: Meiotic Recombination | Genetics Primer |
 | `Sleister-The Case of the Missing Strawberries-RFLP analysis_1` | Sleister 2014 — The Case of the Missing Strawberries: RFLP Analysis Lesson |  |
+| `Smith2010_PharmacolTher_YeastChemicalGenomicAssays` | A Survey of Yeast Genomic Assays for Drug and Target Discovery |  |
 | `Smith2016_Genetics_TeachingGenetics` | Smith & Wood 2016 — Teaching Genetics: Past, Present, and Future |  |
 | `Smith2025_NatRevGenet_DNAMethylation-Development-Disease` | DNA methylation in mammalian development and disease |  |
 | `Smithies1995_Genetics_GelElectrophoresis` | Early days of gel electrophoresis | Genetics Perspectives |

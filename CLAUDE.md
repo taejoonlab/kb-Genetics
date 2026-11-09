@@ -19,7 +19,7 @@ Bilingual (en/ko) Obsidian vault for **Genetics** (BME333/BIO333 @ UNIST). Each 
 │   ├── review/       # Reviews etc. (Korean)
 │   └── lectures/     # Per-lecture notes lecNN_*.md (Korean — bilingual mirror)
 ├── lectures/         # Course syllabus + textbook references (ref.*) — language-neutral
-├── extract/          # Raw extracted PDF text, archived by date (tracked; 50k-char cap per paper)
+├── extract/          # Raw extracted PDF text, archived by date (tracked; full text, no per-paper cap since 2026-11-09)
 ├── pdf/              # Source PDFs — gitignored (note: actual PDFs live in ko/pdf/)
 │   ├── notes/        # Per-PDF `{stem}_extracted.txt` + 00_processing_log.md (work artefacts)
 │   ├── done/         # PDFs whose notes are written, renamed to the note stem
@@ -138,7 +138,7 @@ Actual PDFs live in `ko/pdf/` (gitignored). Pipeline:
    ```
    A filename-collision check alone will **not** catch an existing note filed under a different stem — that is how a second note for Oliver 2025 (`10.1038/s41588-025-02097-2`) was created. If a note already exists, update it instead of writing a second one. Separately, for the PDFs themselves compare first-page content fingerprints and move redundant copies to `ko/pdf/dup/` (keep the note-matching canonical file). Never delete PDFs.
 5. **Write notes** — fill the CLASS template for BOTH `en/{type}/` and `ko/{type}/`.
-6. **Archive extracts** — consolidate `_extracted.txt` into a dated `extract/YYYY-MM-DD*.md`, split into `_pNN` parts at roughly 2 MB. Introduce each paper's block with the anchor `===== <note-stem> =====` so a note can be traced back to its source text. Each entry is capped at 50,000 chars. `_extracted.txt` are gitignored (under `pdf/`); the `extract/` archive is tracked. Archives are a record of what was processed on a date — **do not rewrite them** when a note is later renamed or removed.
+6. **Archive extracts** — consolidate `_extracted.txt` into a dated `extract/YYYY-MM-DD*.md`, split into `_pNN` parts at roughly 2 MB. Introduce each paper's block with the anchor `===== <note-stem> =====` so a note can be traced back to its source text. Entries hold the **full extracted text** (no per-paper cap; the 2 MB split handles size). Archives dated before 2026-11-09 were capped at 50,000 chars per paper and are kept as they are. `_extracted.txt` are gitignored (under `pdf/`); the `extract/` archive is tracked. Archives are a record of what was processed on a date — **do not rewrite them** when a note is later renamed or removed.
 7. **File the PDF** — move it to `ko/pdf/done/` (or `ko/pdf/done/review/` when the note lives in `review/`), renamed to the note stem. Append the batch to `ko/pdf/notes/00_processing_log.md`.
 8. **Refresh `README.md`** — see below.
 
@@ -160,7 +160,7 @@ Do this after every batch, and after any note is added, renamed or removed.
 
 - **Auto-named filenames are often wrong.** `tools/process_pdf*.py` may emit `Unknown2024_Unknown_*` or garbled bylines (e.g. `Journal2001_Unknown_*` from Dernburg2001). Always confirm from the extracted text / PubMed and rename the PDF **and** its `_extracted.txt` together.
 - **CrossRef lookups can hang** on DOI-less papers. Prefer PubMed citation lookup; if a script stalls on "DOI 조회 중…", interrupt and fall back to regex/manual identification — don't block the batch.
-- **50,000-char cap**: `_extracted.txt` and each `extract/` archive entry keep only the first 50,000 chars; long papers may lose later sections — note this when summarizing.
+- **No char cap (since 2026-11-09)**: extract the **full text** of every PDF and read all of it before writing a note — a 50,000-char cap used earlier cut 16 of 20 papers in one batch (some at ~40% of the text) and notes written from the truncated text missed Results/Discussion/Methods. The `tools/*.py` batch scripts still truncate with `text[:50000]` (the submodule is read-only here), so extract with PyMuPDF directly instead of relying on them. Notes dated before this change may carry a "truncated at 50k" remark in their Summary.
 - **`ko/pdf/notes/00_processing_log.md` can be stale/incomplete** — reconcile against the actual file list, don't trust it as authoritative.
 - `tools/` is a **submodule** — read its scripts, never edit them here.
 
